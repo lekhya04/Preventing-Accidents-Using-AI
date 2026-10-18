@@ -1,0 +1,5 @@
+Download from IEEE DataPort (login required):
+  "Uncovering Influential Mechanisms of Traffic Accident Severity through Explainable Machine Learning"
+  Chen Ma, DOI 10.21227/79s6-qr16
+Put "Accidents, Casualties, Vehicles.xlsx" (or Accidents*.csv / Casualties*.csv) in this folder,
+then run:  python train_all.py

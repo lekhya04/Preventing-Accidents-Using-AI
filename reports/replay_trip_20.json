@@ -1,0 +1,11843 @@
+{
+ "trip": 20,
+ "duration": 589.12,
+ "events": [
+  {
+   "label": "Aggressive right turn",
+   "start": 9.5,
+   "end": 12.5
+  },
+  {
+   "label": "Non-aggressive",
+   "start": 19.0,
+   "end": 23.0
+  },
+  {
+   "label": "Aggressive right turn",
+   "start": 91.6,
+   "end": 94.9
+  },
+  {
+   "label": "Aggressive right turn",
+   "start": 120.9,
+   "end": 124.1
+  },
+  {
+   "label": "Aggressive right turn",
+   "start": 135.4,
+   "end": 139.0
+  },
+  {
+   "label": "Non-aggressive",
+   "start": 164.0,
+   "end": 168.0
+  },
+  {
+   "label": "Non-aggressive",
+   "start": 187.0,
+   "end": 190.5
+  },
+  {
+   "label": "Aggressive right turn",
+   "start": 219.4,
+   "end": 223.9
+  },
+  {
+   "label": "Aggressive right turn",
+   "start": 232.6,
+   "end": 236.7
+  },
+  {
+   "label": "Non-aggressive",
+   "start": 358.0,
+   "end": 360.5
+  },
+  {
+   "label": "Aggressive left turn",
+   "start": 412.0,
+   "end": 416.0
+  },
+  {
+   "label": "Aggressive left turn",
+   "start": 430.3,
+   "end": 433.2
+  },
+  {
+   "label": "Aggressive left turn",
+   "start": 447.4,
+   "end": 450.7
+  },
+  {
+   "label": "Non-aggressive",
+   "start": 463.5,
+   "end": 465.6
+  },
+  {
+   "label": "Aggressive left turn",
+   "start": 496.1,
+   "end": 499.2
+  },
+  {
+   "label": "Aggressive left turn",
+   "start": 508.8,
+   "end": 512.0
+  },
+  {
+   "label": "Aggressive left turn",
+   "start": 531.6,
+   "end": 534.4
+  }
+ ],
+ "stream": [
+  {
+   "t": 1.0,
+   "pred": "Non-aggressive",
+   "conf": 0.403,
+   "aggr": 0.23,
+   "truth": null,
+   "ax": 0.191,
+   "ay": 1.963,
+   "gz": -0.058
+  },
+  {
+   "t": 1.5,
+   "pred": "Non-aggressive",
+   "conf": 0.513,
+   "aggr": 0.213,
+   "truth": null,
+   "ax": 0.226,
+   "ay": 2.246,
+   "gz": -0.036
+  },
+  {
+   "t": 2.0,
+   "pred": "Non-aggressive",
+   "conf": 0.453,
+   "aggr": 0.24,
+   "truth": null,
+   "ax": -0.033,
+   "ay": 1.367,
+   "gz": -0.048
+  },
+  {
+   "t": 2.5,
+   "pred": "Non-aggressive",
+   "conf": 0.303,
+   "aggr": 0.417,
+   "truth": null,
+   "ax": 1.41,
+   "ay": 1.478,
+   "gz": -0.172
+  },
+  {
+   "t": 3.0,
+   "pred": "Non-aggressive",
+   "conf": 0.357,
+   "aggr": 0.34,
+   "truth": null,
+   "ax": 0.923,
+   "ay": 1.011,
+   "gz": -0.209
+  },
+  {
+   "t": 3.5,
+   "pred": "Non-aggressive",
+   "conf": 0.36,
+   "aggr": 0.353,
+   "truth": null,
+   "ax": 1.957,
+   "ay": -0.552,
+   "gz": -0.254
+  },
+  {
+   "t": 4.0,
+   "pred": "Non-aggressive",
+   "conf": 0.387,
+   "aggr": 0.353,
+   "truth": null,
+   "ax": 0.896,
+   "ay": 0.601,
+   "gz": -0.204
+  },
+  {
+   "t": 4.5,
+   "pred": "Non-aggressive",
+   "conf": 0.447,
+   "aggr": 0.293,
+   "truth": null,
+   "ax": -1.048,
+   "ay": -0.8,
+   "gz": -0.021
+  },
+  {
+   "t": 5.0,
+   "pred": "Non-aggressive",
+   "conf": 0.427,
+   "aggr": 0.247,
+   "truth": null,
+   "ax": 0.492,
+   "ay": -1.531,
+   "gz": -0.128
+  },
+  {
+   "t": 5.5,
+   "pred": "Non-aggressive",
+   "conf": 0.4,
+   "aggr": 0.253,
+   "truth": null,
+   "ax": -0.4,
+   "ay": -0.126,
+   "gz": 0.052
+  },
+  {
+   "t": 6.0,
+   "pred": "Non-aggressive",
+   "conf": 0.313,
+   "aggr": 0.41,
+   "truth": null,
+   "ax": -0.278,
+   "ay": -1.701,
+   "gz": 0.045
+  },
+  {
+   "t": 6.5,
+   "pred": "Non-aggressive",
+   "conf": 0.313,
+   "aggr": 0.397,
+   "truth": null,
+   "ax": -0.512,
+   "ay": -0.661,
+   "gz": -0.027
+  },
+  {
+   "t": 7.0,
+   "pred": "Normal cruising",
+   "conf": 0.34,
+   "aggr": 0.34,
+   "truth": null,
+   "ax": 0.545,
+   "ay": -1.413,
+   "gz": 0.178
+  },
+  {
+   "t": 7.5,
+   "pred": "Normal cruising",
+   "conf": 0.37,
+   "aggr": 0.313,
+   "truth": null,
+   "ax": -0.062,
+   "ay": -0.395,
+   "gz": -0.107
+  },
+  {
+   "t": 8.0,
+   "pred": "Non-aggressive",
+   "conf": 0.457,
+   "aggr": 0.113,
+   "truth": null,
+   "ax": -0.867,
+   "ay": 0.258,
+   "gz": 0.023
+  },
+  {
+   "t": 8.5,
+   "pred": "Non-aggressive",
+   "conf": 0.363,
+   "aggr": 0.31,
+   "truth": null,
+   "ax": 0.103,
+   "ay": 1.713,
+   "gz": -0.111
+  },
+  {
+   "t": 9.0,
+   "pred": "Aggressive right turn",
+   "conf": 0.763,
+   "aggr": 0.887,
+   "truth": null,
+   "ax": -0.819,
+   "ay": -0.585,
+   "gz": -0.087
+  },
+  {
+   "t": 9.5,
+   "pred": "Aggressive right turn",
+   "conf": 0.97,
+   "aggr": 0.993,
+   "truth": "Aggressive right turn",
+   "ax": 2.628,
+   "ay": -0.077,
+   "gz": -0.359
+  },
+  {
+   "t": 10.0,
+   "pred": "Aggressive right turn",
+   "conf": 1.0,
+   "aggr": 1.0,
+   "truth": "Aggressive right turn",
+   "ax": 3.245,
+   "ay": 1.116,
+   "gz": -0.722
+  },
+  {
+   "t": 10.5,
+   "pred": "Aggressive right turn",
+   "conf": 0.993,
+   "aggr": 0.997,
+   "truth": "Aggressive right turn",
+   "ax": -0.11,
+   "ay": -1.181,
+   "gz": -0.55
+  },
+  {
+   "t": 11.0,
+   "pred": "Aggressive right turn",
+   "conf": 0.997,
+   "aggr": 1.0,
+   "truth": "Aggressive right turn",
+   "ax": 1.549,
+   "ay": -3.875,
+   "gz": -0.747
+  },
+  {
+   "t": 11.5,
+   "pred": "Aggressive right turn",
+   "conf": 0.98,
+   "aggr": 0.997,
+   "truth": "Aggressive right turn",
+   "ax": -1.181,
+   "ay": -2.629,
+   "gz": -0.595
+  },
+  {
+   "t": 12.0,
+   "pred": "Aggressive right turn",
+   "conf": 0.947,
+   "aggr": 0.993,
+   "truth": "Aggressive right turn",
+   "ax": -3.411,
+   "ay": 2.436,
+   "gz": -0.197
+  },
+  {
+   "t": 12.5,
+   "pred": "Aggressive right turn",
+   "conf": 0.57,
+   "aggr": 0.897,
+   "truth": "Aggressive right turn",
+   "ax": -3.186,
+   "ay": 2.458,
+   "gz": -0.078
+  },
+  {
+   "t": 13.0,
+   "pred": "Normal cruising",
+   "conf": 0.213,
+   "aggr": 0.583,
+   "truth": null,
+   "ax": -2.215,
+   "ay": 1.917,
+   "gz": -0.104
+  },
+  {
+   "t": 13.5,
+   "pred": "Non-aggressive",
+   "conf": 0.31,
+   "aggr": 0.383,
+   "truth": null,
+   "ax": -0.813,
+   "ay": 1.516,
+   "gz": -0.082
+  },
+  {
+   "t": 14.0,
+   "pred": "Non-aggressive",
+   "conf": 0.43,
+   "aggr": 0.237,
+   "truth": null,
+   "ax": -0.552,
+   "ay": 1.48,
+   "gz": -0.009
+  },
+  {
+   "t": 14.5,
+   "pred": "Normal cruising",
+   "conf": 0.427,
+   "aggr": 0.183,
+   "truth": null,
+   "ax": 0.844,
+   "ay": -0.095,
+   "gz": -0.364
+  },
+  {
+   "t": 15.0,
+   "pred": "Non-aggressive",
+   "conf": 0.44,
+   "aggr": 0.16,
+   "truth": null,
+   "ax": -0.046,
+   "ay": 0.07,
+   "gz": -0.057
+  },
+  {
+   "t": 15.5,
+   "pred": "Non-aggressive",
+   "conf": 0.503,
+   "aggr": 0.103,
+   "truth": null,
+   "ax": 0.168,
+   "ay": 1.195,
+   "gz": -0.043
+  },
+  {
+   "t": 16.0,
+   "pred": "Normal cruising",
+   "conf": 0.733,
+   "aggr": 0.04,
+   "truth": null,
+   "ax": 1.039,
+   "ay": -0.068,
+   "gz": -0.079
+  },
+  {
+   "t": 16.5,
+   "pred": "Normal cruising",
+   "conf": 0.653,
+   "aggr": 0.06,
+   "truth": null,
+   "ax": -0.085,
+   "ay": 0.202,
+   "gz": -0.094
+  },
+  {
+   "t": 17.0,
+   "pred": "Normal cruising",
+   "conf": 0.61,
+   "aggr": 0.07,
+   "truth": null,
+   "ax": 0.408,
+   "ay": -0.215,
+   "gz": -0.006
+  },
+  {
+   "t": 17.5,
+   "pred": "Non-aggressive",
+   "conf": 0.533,
+   "aggr": 0.233,
+   "truth": null,
+   "ax": 1.182,
+   "ay": -0.272,
+   "gz": -0.186
+  },
+  {
+   "t": 18.0,
+   "pred": "Non-aggressive",
+   "conf": 0.537,
+   "aggr": 0.253,
+   "truth": null,
+   "ax": 0.749,
+   "ay": -0.086,
+   "gz": -0.032
+  },
+  {
+   "t": 18.5,
+   "pred": "Non-aggressive",
+   "conf": 0.493,
+   "aggr": 0.32,
+   "truth": null,
+   "ax": -0.593,
+   "ay": -2.797,
+   "gz": -0.289
+  },
+  {
+   "t": 19.0,
+   "pred": "Non-aggressive",
+   "conf": 0.467,
+   "aggr": 0.35,
+   "truth": "Non-aggressive",
+   "ax": -1.027,
+   "ay": -0.403,
+   "gz": -0.168
+  },
+  {
+   "t": 19.5,
+   "pred": "Non-aggressive",
+   "conf": 0.827,
+   "aggr": 0.103,
+   "truth": "Non-aggressive",
+   "ax": -2.411,
+   "ay": -1.283,
+   "gz": -0.024
+  },
+  {
+   "t": 20.0,
+   "pred": "Non-aggressive",
+   "conf": 0.89,
+   "aggr": 0.087,
+   "truth": "Non-aggressive",
+   "ax": -0.833,
+   "ay": -0.774,
+   "gz": -0.07
+  },
+  {
+   "t": 20.5,
+   "pred": "Non-aggressive",
+   "conf": 0.883,
+   "aggr": 0.08,
+   "truth": "Non-aggressive",
+   "ax": -0.364,
+   "ay": -0.895,
+   "gz": -0.093
+  },
+  {
+   "t": 21.0,
+   "pred": "Non-aggressive",
+   "conf": 0.887,
+   "aggr": 0.06,
+   "truth": "Non-aggressive",
+   "ax": 0.077,
+   "ay": -0.102,
+   "gz": -0.071
+  },
+  {
+   "t": 21.5,
+   "pred": "Non-aggressive",
+   "conf": 0.947,
+   "aggr": 0.017,
+   "truth": "Non-aggressive",
+   "ax": 0.295,
+   "ay": -0.012,
+   "gz": -0.049
+  },
+  {
+   "t": 22.0,
+   "pred": "Non-aggressive",
+   "conf": 0.887,
+   "aggr": 0.01,
+   "truth": "Non-aggressive",
+   "ax": 0.619,
+   "ay": -0.228,
+   "gz": -0.075
+  },
+  {
+   "t": 22.5,
+   "pred": "Non-aggressive",
+   "conf": 0.79,
+   "aggr": 0.017,
+   "truth": "Non-aggressive",
+   "ax": 1.714,
+   "ay": -0.151,
+   "gz": -0.082
+  },
+  {
+   "t": 23.0,
+   "pred": "Normal cruising",
+   "conf": 0.507,
+   "aggr": 0.053,
+   "truth": "Non-aggressive",
+   "ax": 1.782,
+   "ay": 0.225,
+   "gz": -0.073
+  },
+  {
+   "t": 23.5,
+   "pred": "Normal cruising",
+   "conf": 0.56,
+   "aggr": 0.053,
+   "truth": null,
+   "ax": 2.051,
+   "ay": 0.353,
+   "gz": -0.068
+  },
+  {
+   "t": 24.0,
+   "pred": "Normal cruising",
+   "conf": 0.573,
+   "aggr": 0.047,
+   "truth": null,
+   "ax": 1.231,
+   "ay": 0.255,
+   "gz": -0.068
+  },
+  {
+   "t": 24.5,
+   "pred": "Normal cruising",
+   "conf": 0.53,
+   "aggr": 0.013,
+   "truth": null,
+   "ax": 0.72,
+   "ay": 0.089,
+   "gz": -0.073
+  },
+  {
+   "t": 25.0,
+   "pred": "Normal cruising",
+   "conf": 0.637,
+   "aggr": 0.007,
+   "truth": null,
+   "ax": 0.58,
+   "ay": 0.252,
+   "gz": -0.06
+  },
+  {
+   "t": 25.5,
+   "pred": "Normal cruising",
+   "conf": 0.767,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.137,
+   "ay": -0.015,
+   "gz": -0.066
+  },
+  {
+   "t": 26.0,
+   "pred": "Normal cruising",
+   "conf": 0.93,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.034,
+   "ay": 0.042,
+   "gz": -0.065
+  },
+  {
+   "t": 26.5,
+   "pred": "Normal cruising",
+   "conf": 0.933,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.135,
+   "ay": -0.037,
+   "gz": -0.074
+  },
+  {
+   "t": 27.0,
+   "pred": "Normal cruising",
+   "conf": 0.947,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.115,
+   "ay": 0.065,
+   "gz": -0.068
+  },
+  {
+   "t": 27.5,
+   "pred": "Normal cruising",
+   "conf": 0.953,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.163,
+   "ay": -0.072,
+   "gz": -0.069
+  },
+  {
+   "t": 28.0,
+   "pred": "Normal cruising",
+   "conf": 0.937,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.279,
+   "ay": -0.009,
+   "gz": -0.067
+  },
+  {
+   "t": 28.5,
+   "pred": "Normal cruising",
+   "conf": 0.943,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.246,
+   "ay": -0.089,
+   "gz": -0.0
+  },
+  {
+   "t": 29.0,
+   "pred": "Normal cruising",
+   "conf": 0.937,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.265,
+   "ay": -0.055,
+   "gz": 0.011
+  },
+  {
+   "t": 29.5,
+   "pred": "Normal cruising",
+   "conf": 0.977,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.303,
+   "ay": -0.002,
+   "gz": 0.003
+  },
+  {
+   "t": 30.0,
+   "pred": "Normal cruising",
+   "conf": 0.957,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.23,
+   "ay": 0.001,
+   "gz": 0.0
+  },
+  {
+   "t": 30.5,
+   "pred": "Normal cruising",
+   "conf": 0.987,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.244,
+   "ay": -0.031,
+   "gz": 0.007
+  },
+  {
+   "t": 31.0,
+   "pred": "Normal cruising",
+   "conf": 0.987,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.147,
+   "ay": -0.032,
+   "gz": 0.003
+  },
+  {
+   "t": 31.5,
+   "pred": "Normal cruising",
+   "conf": 0.977,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.12,
+   "ay": 0.017,
+   "gz": 0.008
+  },
+  {
+   "t": 32.0,
+   "pred": "Normal cruising",
+   "conf": 0.97,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.217,
+   "ay": -0.021,
+   "gz": 0.004
+  },
+  {
+   "t": 32.5,
+   "pred": "Normal cruising",
+   "conf": 0.983,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.027,
+   "ay": 0.166,
+   "gz": 0.014
+  },
+  {
+   "t": 33.0,
+   "pred": "Normal cruising",
+   "conf": 0.993,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.083,
+   "ay": 0.094,
+   "gz": 0.01
+  },
+  {
+   "t": 33.5,
+   "pred": "Normal cruising",
+   "conf": 0.983,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.06,
+   "ay": 0.072,
+   "gz": 0.01
+  },
+  {
+   "t": 34.0,
+   "pred": "Normal cruising",
+   "conf": 0.95,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.022,
+   "ay": 0.07,
+   "gz": 0.01
+  },
+  {
+   "t": 34.5,
+   "pred": "Normal cruising",
+   "conf": 0.943,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.196,
+   "ay": -0.08,
+   "gz": 0.023
+  },
+  {
+   "t": 35.0,
+   "pred": "Normal cruising",
+   "conf": 0.95,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": 0.003,
+   "ay": 0.017,
+   "gz": 0.006
+  },
+  {
+   "t": 35.5,
+   "pred": "Normal cruising",
+   "conf": 0.95,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.206,
+   "ay": -0.028,
+   "gz": 0.007
+  },
+  {
+   "t": 36.0,
+   "pred": "Normal cruising",
+   "conf": 0.99,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.12,
+   "ay": -0.017,
+   "gz": 0.001
+  },
+  {
+   "t": 36.5,
+   "pred": "Normal cruising",
+   "conf": 0.983,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.101,
+   "ay": 0.003,
+   "gz": 0.0
+  },
+  {
+   "t": 37.0,
+   "pred": "Normal cruising",
+   "conf": 0.977,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.06,
+   "ay": -0.024,
+   "gz": 0.001
+  },
+  {
+   "t": 37.5,
+   "pred": "Normal cruising",
+   "conf": 0.98,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.025,
+   "ay": -0.066,
+   "gz": 0.007
+  },
+  {
+   "t": 38.0,
+   "pred": "Normal cruising",
+   "conf": 0.993,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.076,
+   "ay": 0.011,
+   "gz": 0.007
+  },
+  {
+   "t": 38.5,
+   "pred": "Normal cruising",
+   "conf": 0.977,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.037,
+   "ay": -0.056,
+   "gz": 0.012
+  },
+  {
+   "t": 39.0,
+   "pred": "Normal cruising",
+   "conf": 0.98,
+   "aggr": 0.007,
+   "truth": null,
+   "ax": -0.089,
+   "ay": -0.027,
+   "gz": 0.004
+  },
+  {
+   "t": 39.5,
+   "pred": "Normal cruising",
+   "conf": 0.98,
+   "aggr": 0.007,
+   "truth": null,
+   "ax": -0.01,
+   "ay": -0.047,
+   "gz": 0.006
+  },
+  {
+   "t": 40.0,
+   "pred": "Normal cruising",
+   "conf": 0.943,
+   "aggr": 0.01,
+   "truth": null,
+   "ax": 0.078,
+   "ay": 0.052,
+   "gz": 0.015
+  },
+  {
+   "t": 40.5,
+   "pred": "Normal cruising",
+   "conf": 0.963,
+   "aggr": 0.01,
+   "truth": null,
+   "ax": -0.014,
+   "ay": 0.042,
+   "gz": 0.004
+  },
+  {
+   "t": 41.0,
+   "pred": "Normal cruising",
+   "conf": 0.983,
+   "aggr": 0.007,
+   "truth": null,
+   "ax": -0.013,
+   "ay": -0.066,
+   "gz": -0.004
+  },
+  {
+   "t": 41.5,
+   "pred": "Normal cruising",
+   "conf": 0.97,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.086,
+   "ay": -0.031,
+   "gz": 0.009
+  },
+  {
+   "t": 42.0,
+   "pred": "Normal cruising",
+   "conf": 0.99,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.054,
+   "ay": -0.007,
+   "gz": 0.007
+  },
+  {
+   "t": 42.5,
+   "pred": "Normal cruising",
+   "conf": 0.967,
+   "aggr": 0.007,
+   "truth": null,
+   "ax": -0.047,
+   "ay": -0.06,
+   "gz": 0.005
+  },
+  {
+   "t": 43.0,
+   "pred": "Normal cruising",
+   "conf": 0.96,
+   "aggr": 0.01,
+   "truth": null,
+   "ax": 0.045,
+   "ay": -0.025,
+   "gz": 0.018
+  },
+  {
+   "t": 43.5,
+   "pred": "Normal cruising",
+   "conf": 0.953,
+   "aggr": 0.007,
+   "truth": null,
+   "ax": 0.01,
+   "ay": -0.01,
+   "gz": 0.015
+  },
+  {
+   "t": 44.0,
+   "pred": "Normal cruising",
+   "conf": 0.947,
+   "aggr": 0.007,
+   "truth": null,
+   "ax": -0.088,
+   "ay": -0.025,
+   "gz": -0.001
+  },
+  {
+   "t": 44.5,
+   "pred": "Normal cruising",
+   "conf": 0.977,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.036,
+   "ay": 0.01,
+   "gz": -0.002
+  },
+  {
+   "t": 45.0,
+   "pred": "Normal cruising",
+   "conf": 0.993,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.099,
+   "ay": 0.016,
+   "gz": -0.001
+  },
+  {
+   "t": 45.5,
+   "pred": "Normal cruising",
+   "conf": 0.993,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.024,
+   "ay": -0.02,
+   "gz": 0.008
+  },
+  {
+   "t": 46.0,
+   "pred": "Normal cruising",
+   "conf": 0.983,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.029,
+   "ay": -0.045,
+   "gz": 0.005
+  },
+  {
+   "t": 46.5,
+   "pred": "Normal cruising",
+   "conf": 0.997,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.057,
+   "ay": 0.026,
+   "gz": 0.007
+  },
+  {
+   "t": 47.0,
+   "pred": "Normal cruising",
+   "conf": 0.99,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.084,
+   "ay": -0.117,
+   "gz": -0.003
+  },
+  {
+   "t": 47.5,
+   "pred": "Normal cruising",
+   "conf": 0.977,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.12,
+   "ay": 0.006,
+   "gz": 0.014
+  },
+  {
+   "t": 48.0,
+   "pred": "Normal cruising",
+   "conf": 0.98,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.065,
+   "ay": -0.082,
+   "gz": 0.003
+  },
+  {
+   "t": 48.5,
+   "pred": "Normal cruising",
+   "conf": 0.993,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.011,
+   "ay": 0.048,
+   "gz": 0.009
+  },
+  {
+   "t": 49.0,
+   "pred": "Normal cruising",
+   "conf": 0.987,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.11,
+   "ay": 0.089,
+   "gz": 0.018
+  },
+  {
+   "t": 49.5,
+   "pred": "Normal cruising",
+   "conf": 0.993,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.086,
+   "ay": 0.025,
+   "gz": 0.01
+  },
+  {
+   "t": 50.0,
+   "pred": "Normal cruising",
+   "conf": 0.977,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.001,
+   "ay": 0.01,
+   "gz": 0.007
+  },
+  {
+   "t": 50.5,
+   "pred": "Normal cruising",
+   "conf": 0.98,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.02,
+   "ay": -0.059,
+   "gz": 0.002
+  },
+  {
+   "t": 51.0,
+   "pred": "Normal cruising",
+   "conf": 0.99,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.022,
+   "ay": -0.054,
+   "gz": 0.008
+  },
+  {
+   "t": 51.5,
+   "pred": "Normal cruising",
+   "conf": 0.993,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.015,
+   "ay": -0.051,
+   "gz": -0.0
+  },
+  {
+   "t": 52.0,
+   "pred": "Normal cruising",
+   "conf": 0.99,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.025,
+   "ay": -0.045,
+   "gz": -0.001
+  },
+  {
+   "t": 52.5,
+   "pred": "Normal cruising",
+   "conf": 0.99,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.098,
+   "ay": 0.007,
+   "gz": 0.022
+  },
+  {
+   "t": 53.0,
+   "pred": "Normal cruising",
+   "conf": 0.993,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.091,
+   "ay": -0.027,
+   "gz": 0.004
+  },
+  {
+   "t": 53.5,
+   "pred": "Normal cruising",
+   "conf": 0.98,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.067,
+   "ay": 0.132,
+   "gz": 0.012
+  },
+  {
+   "t": 54.0,
+   "pred": "Normal cruising",
+   "conf": 0.943,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": 0.089,
+   "ay": 0.009,
+   "gz": 0.004
+  },
+  {
+   "t": 54.5,
+   "pred": "Normal cruising",
+   "conf": 0.697,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": 0.163,
+   "ay": -0.019,
+   "gz": 0.0
+  },
+  {
+   "t": 55.0,
+   "pred": "Normal cruising",
+   "conf": 0.667,
+   "aggr": 0.023,
+   "truth": null,
+   "ax": 0.21,
+   "ay": 0.063,
+   "gz": 0.013
+  },
+  {
+   "t": 55.5,
+   "pred": "Non-aggressive",
+   "conf": 0.497,
+   "aggr": 0.06,
+   "truth": null,
+   "ax": 1.316,
+   "ay": 0.508,
+   "gz": 0.023
+  },
+  {
+   "t": 56.0,
+   "pred": "Non-aggressive",
+   "conf": 0.43,
+   "aggr": 0.277,
+   "truth": null,
+   "ax": 2.197,
+   "ay": 0.824,
+   "gz": -0.002
+  },
+  {
+   "t": 56.5,
+   "pred": "Non-aggressive",
+   "conf": 0.337,
+   "aggr": 0.4,
+   "truth": null,
+   "ax": 1.176,
+   "ay": 0.506,
+   "gz": -0.001
+  },
+  {
+   "t": 57.0,
+   "pred": "Aggressive braking",
+   "conf": 0.407,
+   "aggr": 0.663,
+   "truth": null,
+   "ax": -0.124,
+   "ay": 0.157,
+   "gz": 0.003
+  },
+  {
+   "t": 57.5,
+   "pred": "Aggressive acceleration",
+   "conf": 0.317,
+   "aggr": 0.597,
+   "truth": null,
+   "ax": -1.193,
+   "ay": -0.586,
+   "gz": 0.004
+  },
+  {
+   "t": 58.0,
+   "pred": "Normal cruising",
+   "conf": 0.35,
+   "aggr": 0.427,
+   "truth": null,
+   "ax": -2.658,
+   "ay": -1.036,
+   "gz": -0.011
+  },
+  {
+   "t": 58.5,
+   "pred": "Normal cruising",
+   "conf": 0.473,
+   "aggr": 0.3,
+   "truth": null,
+   "ax": -1.464,
+   "ay": 0.264,
+   "gz": -0.024
+  },
+  {
+   "t": 59.0,
+   "pred": "Normal cruising",
+   "conf": 0.497,
+   "aggr": 0.307,
+   "truth": null,
+   "ax": -0.856,
+   "ay": -0.333,
+   "gz": -0.039
+  },
+  {
+   "t": 59.5,
+   "pred": "Non-aggressive",
+   "conf": 0.553,
+   "aggr": 0.087,
+   "truth": null,
+   "ax": -0.238,
+   "ay": 0.23,
+   "gz": 0.003
+  },
+  {
+   "t": 60.0,
+   "pred": "Non-aggressive",
+   "conf": 0.717,
+   "aggr": 0.087,
+   "truth": null,
+   "ax": -0.144,
+   "ay": -0.933,
+   "gz": -0.198
+  },
+  {
+   "t": 60.5,
+   "pred": "Non-aggressive",
+   "conf": 0.577,
+   "aggr": 0.113,
+   "truth": null,
+   "ax": -0.346,
+   "ay": -0.787,
+   "gz": 0.04
+  },
+  {
+   "t": 61.0,
+   "pred": "Aggressive right turn",
+   "conf": 0.373,
+   "aggr": 0.527,
+   "truth": null,
+   "ax": 0.101,
+   "ay": -1.211,
+   "gz": -0.295
+  },
+  {
+   "t": 61.5,
+   "pred": "Aggressive right turn",
+   "conf": 0.397,
+   "aggr": 0.513,
+   "truth": null,
+   "ax": -0.58,
+   "ay": 0.691,
+   "gz": -0.521
+  },
+  {
+   "t": 62.0,
+   "pred": "Normal cruising",
+   "conf": 0.33,
+   "aggr": 0.447,
+   "truth": null,
+   "ax": -1.183,
+   "ay": -1.222,
+   "gz": -0.774
+  },
+  {
+   "t": 62.5,
+   "pred": "Normal cruising",
+   "conf": 0.3,
+   "aggr": 0.443,
+   "truth": null,
+   "ax": 0.517,
+   "ay": 1.878,
+   "gz": -0.455
+  },
+  {
+   "t": 63.0,
+   "pred": "Non-aggressive",
+   "conf": 0.447,
+   "aggr": 0.27,
+   "truth": null,
+   "ax": 0.651,
+   "ay": 0.741,
+   "gz": -0.457
+  },
+  {
+   "t": 63.5,
+   "pred": "Normal cruising",
+   "conf": 0.473,
+   "aggr": 0.127,
+   "truth": null,
+   "ax": 0.214,
+   "ay": 0.442,
+   "gz": -0.408
+  },
+  {
+   "t": 64.0,
+   "pred": "Normal cruising",
+   "conf": 0.547,
+   "aggr": 0.12,
+   "truth": null,
+   "ax": 0.762,
+   "ay": -0.492,
+   "gz": -0.333
+  },
+  {
+   "t": 64.5,
+   "pred": "Normal cruising",
+   "conf": 0.67,
+   "aggr": 0.05,
+   "truth": null,
+   "ax": 1.039,
+   "ay": -1.303,
+   "gz": -0.183
+  },
+  {
+   "t": 65.0,
+   "pred": "Normal cruising",
+   "conf": 0.663,
+   "aggr": 0.04,
+   "truth": null,
+   "ax": 1.21,
+   "ay": -0.84,
+   "gz": -0.083
+  },
+  {
+   "t": 65.5,
+   "pred": "Normal cruising",
+   "conf": 0.663,
+   "aggr": 0.01,
+   "truth": null,
+   "ax": 0.711,
+   "ay": -0.996,
+   "gz": -0.033
+  },
+  {
+   "t": 66.0,
+   "pred": "Normal cruising",
+   "conf": 0.587,
+   "aggr": 0.013,
+   "truth": null,
+   "ax": 0.12,
+   "ay": -1.131,
+   "gz": 0.063
+  },
+  {
+   "t": 66.5,
+   "pred": "Non-aggressive",
+   "conf": 0.49,
+   "aggr": 0.027,
+   "truth": null,
+   "ax": -0.813,
+   "ay": -1.379,
+   "gz": 0.005
+  },
+  {
+   "t": 67.0,
+   "pred": "Normal cruising",
+   "conf": 0.513,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.743,
+   "ay": -0.381,
+   "gz": -0.029
+  },
+  {
+   "t": 67.5,
+   "pred": "Normal cruising",
+   "conf": 0.567,
+   "aggr": 0.01,
+   "truth": null,
+   "ax": -0.672,
+   "ay": -0.201,
+   "gz": 0.018
+  },
+  {
+   "t": 68.0,
+   "pred": "Normal cruising",
+   "conf": 0.61,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -1.094,
+   "ay": -0.285,
+   "gz": 0.006
+  },
+  {
+   "t": 68.5,
+   "pred": "Normal cruising",
+   "conf": 0.647,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.557,
+   "ay": -0.37,
+   "gz": 0.059
+  },
+  {
+   "t": 69.0,
+   "pred": "Normal cruising",
+   "conf": 0.723,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.297,
+   "ay": 0.107,
+   "gz": 0.057
+  },
+  {
+   "t": 69.5,
+   "pred": "Normal cruising",
+   "conf": 0.67,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.699,
+   "ay": 0.145,
+   "gz": 0.01
+  },
+  {
+   "t": 70.0,
+   "pred": "Normal cruising",
+   "conf": 0.65,
+   "aggr": 0.013,
+   "truth": null,
+   "ax": -0.44,
+   "ay": 0.567,
+   "gz": -0.064
+  },
+  {
+   "t": 70.5,
+   "pred": "Normal cruising",
+   "conf": 0.697,
+   "aggr": 0.023,
+   "truth": null,
+   "ax": -0.33,
+   "ay": -0.254,
+   "gz": 0.005
+  },
+  {
+   "t": 71.0,
+   "pred": "Normal cruising",
+   "conf": 0.653,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.929,
+   "ay": 0.459,
+   "gz": 0.005
+  },
+  {
+   "t": 71.5,
+   "pred": "Normal cruising",
+   "conf": 0.723,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.286,
+   "ay": 0.287,
+   "gz": -0.031
+  },
+  {
+   "t": 72.0,
+   "pred": "Normal cruising",
+   "conf": 0.827,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": 0.081,
+   "ay": -0.075,
+   "gz": 0.017
+  },
+  {
+   "t": 72.5,
+   "pred": "Normal cruising",
+   "conf": 0.833,
+   "aggr": 0.01,
+   "truth": null,
+   "ax": -0.031,
+   "ay": 0.101,
+   "gz": 0.002
+  },
+  {
+   "t": 73.0,
+   "pred": "Normal cruising",
+   "conf": 0.973,
+   "aggr": 0.007,
+   "truth": null,
+   "ax": -0.159,
+   "ay": -0.015,
+   "gz": 0.006
+  },
+  {
+   "t": 73.5,
+   "pred": "Normal cruising",
+   "conf": 0.933,
+   "aggr": 0.007,
+   "truth": null,
+   "ax": -0.078,
+   "ay": -0.026,
+   "gz": 0.003
+  },
+  {
+   "t": 74.0,
+   "pred": "Normal cruising",
+   "conf": 0.723,
+   "aggr": 0.01,
+   "truth": null,
+   "ax": -0.582,
+   "ay": -0.27,
+   "gz": 0.009
+  },
+  {
+   "t": 74.5,
+   "pred": "Normal cruising",
+   "conf": 0.62,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.426,
+   "ay": -0.219,
+   "gz": 0.011
+  },
+  {
+   "t": 75.0,
+   "pred": "Normal cruising",
+   "conf": 0.61,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.802,
+   "ay": -0.724,
+   "gz": 0.016
+  },
+  {
+   "t": 75.5,
+   "pred": "Normal cruising",
+   "conf": 0.61,
+   "aggr": 0.01,
+   "truth": null,
+   "ax": -0.361,
+   "ay": -0.29,
+   "gz": 0.001
+  },
+  {
+   "t": 76.0,
+   "pred": "Normal cruising",
+   "conf": 0.56,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.154,
+   "ay": -0.023,
+   "gz": 0.022
+  },
+  {
+   "t": 76.5,
+   "pred": "Normal cruising",
+   "conf": 0.9,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.087,
+   "ay": 0.1,
+   "gz": -0.0
+  },
+  {
+   "t": 77.0,
+   "pred": "Normal cruising",
+   "conf": 0.95,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.056,
+   "ay": 0.254,
+   "gz": -0.007
+  },
+  {
+   "t": 77.5,
+   "pred": "Normal cruising",
+   "conf": 0.94,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.019,
+   "ay": -0.008,
+   "gz": -0.005
+  },
+  {
+   "t": 78.0,
+   "pred": "Normal cruising",
+   "conf": 0.97,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.036,
+   "ay": 0.003,
+   "gz": -0.004
+  },
+  {
+   "t": 78.5,
+   "pred": "Normal cruising",
+   "conf": 0.937,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.007,
+   "ay": 0.02,
+   "gz": -0.001
+  },
+  {
+   "t": 79.0,
+   "pred": "Normal cruising",
+   "conf": 0.87,
+   "aggr": 0.007,
+   "truth": null,
+   "ax": -0.003,
+   "ay": 0.037,
+   "gz": -0.01
+  },
+  {
+   "t": 79.5,
+   "pred": "Normal cruising",
+   "conf": 0.847,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.273,
+   "ay": -0.319,
+   "gz": 0.01
+  },
+  {
+   "t": 80.0,
+   "pred": "Normal cruising",
+   "conf": 0.68,
+   "aggr": 0.01,
+   "truth": null,
+   "ax": -0.222,
+   "ay": -0.214,
+   "gz": 0.013
+  },
+  {
+   "t": 80.5,
+   "pred": "Normal cruising",
+   "conf": 0.557,
+   "aggr": 0.013,
+   "truth": null,
+   "ax": -0.238,
+   "ay": -0.093,
+   "gz": -0.011
+  },
+  {
+   "t": 81.0,
+   "pred": "Non-aggressive",
+   "conf": 0.577,
+   "aggr": 0.073,
+   "truth": null,
+   "ax": -0.711,
+   "ay": -0.627,
+   "gz": 0.009
+  },
+  {
+   "t": 81.5,
+   "pred": "Non-aggressive",
+   "conf": 0.567,
+   "aggr": 0.08,
+   "truth": null,
+   "ax": -1.496,
+   "ay": -1.242,
+   "gz": -0.018
+  },
+  {
+   "t": 82.0,
+   "pred": "Normal cruising",
+   "conf": 0.517,
+   "aggr": 0.193,
+   "truth": null,
+   "ax": -0.853,
+   "ay": -0.702,
+   "gz": 0.004
+  },
+  {
+   "t": 82.5,
+   "pred": "Aggressive acceleration",
+   "conf": 0.717,
+   "aggr": 0.747,
+   "truth": null,
+   "ax": -0.052,
+   "ay": 0.324,
+   "gz": 0.025
+  },
+  {
+   "t": 83.0,
+   "pred": "Aggressive acceleration",
+   "conf": 0.72,
+   "aggr": 0.74,
+   "truth": null,
+   "ax": 0.708,
+   "ay": 0.634,
+   "gz": -0.05
+  },
+  {
+   "t": 83.5,
+   "pred": "Non-aggressive",
+   "conf": 0.397,
+   "aggr": 0.4,
+   "truth": null,
+   "ax": -0.518,
+   "ay": 0.385,
+   "gz": -0.11
+  },
+  {
+   "t": 84.0,
+   "pred": "Non-aggressive",
+   "conf": 0.337,
+   "aggr": 0.393,
+   "truth": null,
+   "ax": 1.236,
+   "ay": 0.588,
+   "gz": -0.081
+  },
+  {
+   "t": 84.5,
+   "pred": "Non-aggressive",
+   "conf": 0.367,
+   "aggr": 0.337,
+   "truth": null,
+   "ax": 3.126,
+   "ay": -0.37,
+   "gz": -0.149
+  },
+  {
+   "t": 85.0,
+   "pred": "Normal cruising",
+   "conf": 0.38,
+   "aggr": 0.387,
+   "truth": null,
+   "ax": 1.815,
+   "ay": -1.15,
+   "gz": -0.194
+  },
+  {
+   "t": 85.5,
+   "pred": "Normal cruising",
+   "conf": 0.337,
+   "aggr": 0.553,
+   "truth": null,
+   "ax": 1.658,
+   "ay": 2.145,
+   "gz": -0.032
+  },
+  {
+   "t": 86.0,
+   "pred": "Normal cruising",
+   "conf": 0.337,
+   "aggr": 0.53,
+   "truth": null,
+   "ax": -3.785,
+   "ay": -0.516,
+   "gz": 0.269
+  },
+  {
+   "t": 86.5,
+   "pred": "Normal cruising",
+   "conf": 0.367,
+   "aggr": 0.507,
+   "truth": null,
+   "ax": 1.219,
+   "ay": 0.313,
+   "gz": 0.15
+  },
+  {
+   "t": 87.0,
+   "pred": "Normal cruising",
+   "conf": 0.45,
+   "aggr": 0.44,
+   "truth": null,
+   "ax": -0.438,
+   "ay": -1.635,
+   "gz": -0.254
+  },
+  {
+   "t": 87.5,
+   "pred": "Normal cruising",
+   "conf": 0.44,
+   "aggr": 0.457,
+   "truth": null,
+   "ax": -2.374,
+   "ay": 2.298,
+   "gz": -0.279
+  },
+  {
+   "t": 88.0,
+   "pred": "Normal cruising",
+   "conf": 0.367,
+   "aggr": 0.547,
+   "truth": null,
+   "ax": 2.594,
+   "ay": 1.918,
+   "gz": -0.179
+  },
+  {
+   "t": 88.5,
+   "pred": "Normal cruising",
+   "conf": 0.363,
+   "aggr": 0.55,
+   "truth": null,
+   "ax": -1.584,
+   "ay": 0.088,
+   "gz": 0.532
+  },
+  {
+   "t": 89.0,
+   "pred": "Normal cruising",
+   "conf": 0.387,
+   "aggr": 0.487,
+   "truth": null,
+   "ax": 2.089,
+   "ay": 0.208,
+   "gz": 0.301
+  },
+  {
+   "t": 89.5,
+   "pred": "Normal cruising",
+   "conf": 0.497,
+   "aggr": 0.37,
+   "truth": null,
+   "ax": -0.596,
+   "ay": -0.442,
+   "gz": -0.046
+  },
+  {
+   "t": 90.0,
+   "pred": "Normal cruising",
+   "conf": 0.553,
+   "aggr": 0.313,
+   "truth": null,
+   "ax": 0.424,
+   "ay": 1.312,
+   "gz": 0.355
+  },
+  {
+   "t": 90.5,
+   "pred": "Normal cruising",
+   "conf": 0.543,
+   "aggr": 0.303,
+   "truth": null,
+   "ax": -0.696,
+   "ay": -0.14,
+   "gz": -0.134
+  },
+  {
+   "t": 91.0,
+   "pred": "Normal cruising",
+   "conf": 0.353,
+   "aggr": 0.467,
+   "truth": null,
+   "ax": -1.088,
+   "ay": 0.872,
+   "gz": 0.305
+  },
+  {
+   "t": 91.5,
+   "pred": "Aggressive right turn",
+   "conf": 0.513,
+   "aggr": 0.71,
+   "truth": null,
+   "ax": -1.13,
+   "ay": 0.412,
+   "gz": -0.192
+  },
+  {
+   "t": 92.0,
+   "pred": "Aggressive right turn",
+   "conf": 0.857,
+   "aggr": 0.93,
+   "truth": "Aggressive right turn",
+   "ax": -1.756,
+   "ay": 3.542,
+   "gz": -0.568
+  },
+  {
+   "t": 92.5,
+   "pred": "Aggressive right turn",
+   "conf": 0.883,
+   "aggr": 0.953,
+   "truth": "Aggressive right turn",
+   "ax": -0.036,
+   "ay": 4.108,
+   "gz": -0.804
+  },
+  {
+   "t": 93.0,
+   "pred": "Aggressive right turn",
+   "conf": 0.96,
+   "aggr": 0.99,
+   "truth": "Aggressive right turn",
+   "ax": 2.479,
+   "ay": 2.126,
+   "gz": -0.773
+  },
+  {
+   "t": 93.5,
+   "pred": "Aggressive right turn",
+   "conf": 0.983,
+   "aggr": 0.99,
+   "truth": "Aggressive right turn",
+   "ax": -0.791,
+   "ay": -2.439,
+   "gz": -0.471
+  },
+  {
+   "t": 94.0,
+   "pred": "Aggressive right turn",
+   "conf": 0.96,
+   "aggr": 0.98,
+   "truth": "Aggressive right turn",
+   "ax": -2.145,
+   "ay": -0.366,
+   "gz": -0.376
+  },
+  {
+   "t": 94.5,
+   "pred": "Aggressive right turn",
+   "conf": 0.453,
+   "aggr": 0.59,
+   "truth": "Aggressive right turn",
+   "ax": -1.11,
+   "ay": -5.767,
+   "gz": 0.044
+  },
+  {
+   "t": 95.0,
+   "pred": "Non-aggressive",
+   "conf": 0.35,
+   "aggr": 0.373,
+   "truth": null,
+   "ax": -0.602,
+   "ay": -1.997,
+   "gz": 0.044
+  },
+  {
+   "t": 95.5,
+   "pred": "Non-aggressive",
+   "conf": 0.327,
+   "aggr": 0.403,
+   "truth": null,
+   "ax": 0.152,
+   "ay": -0.7,
+   "gz": -0.175
+  },
+  {
+   "t": 96.0,
+   "pred": "Non-aggressive",
+   "conf": 0.343,
+   "aggr": 0.363,
+   "truth": null,
+   "ax": 0.543,
+   "ay": -1.092,
+   "gz": 0.028
+  },
+  {
+   "t": 96.5,
+   "pred": "Non-aggressive",
+   "conf": 0.437,
+   "aggr": 0.35,
+   "truth": null,
+   "ax": 1.677,
+   "ay": -1.002,
+   "gz": 0.217
+  },
+  {
+   "t": 97.0,
+   "pred": "Non-aggressive",
+   "conf": 0.457,
+   "aggr": 0.31,
+   "truth": null,
+   "ax": 1.585,
+   "ay": -1.545,
+   "gz": -0.074
+  },
+  {
+   "t": 97.5,
+   "pred": "Non-aggressive",
+   "conf": 0.483,
+   "aggr": 0.34,
+   "truth": null,
+   "ax": 0.973,
+   "ay": 0.048,
+   "gz": -0.17
+  },
+  {
+   "t": 98.0,
+   "pred": "Non-aggressive",
+   "conf": 0.413,
+   "aggr": 0.397,
+   "truth": null,
+   "ax": -0.084,
+   "ay": -0.027,
+   "gz": -0.097
+  },
+  {
+   "t": 98.5,
+   "pred": "Non-aggressive",
+   "conf": 0.33,
+   "aggr": 0.373,
+   "truth": null,
+   "ax": -0.525,
+   "ay": -0.831,
+   "gz": -0.016
+  },
+  {
+   "t": 99.0,
+   "pred": "Aggressive acceleration",
+   "conf": 0.353,
+   "aggr": 0.397,
+   "truth": null,
+   "ax": -0.972,
+   "ay": -0.484,
+   "gz": 0.102
+  },
+  {
+   "t": 99.5,
+   "pred": "Non-aggressive",
+   "conf": 0.32,
+   "aggr": 0.37,
+   "truth": null,
+   "ax": 0.027,
+   "ay": 0.564,
+   "gz": 0.04
+  },
+  {
+   "t": 100.0,
+   "pred": "Normal cruising",
+   "conf": 0.453,
+   "aggr": 0.25,
+   "truth": null,
+   "ax": -0.533,
+   "ay": 1.684,
+   "gz": 0.001
+  },
+  {
+   "t": 100.5,
+   "pred": "Normal cruising",
+   "conf": 0.413,
+   "aggr": 0.237,
+   "truth": null,
+   "ax": -0.893,
+   "ay": 1.741,
+   "gz": -0.012
+  },
+  {
+   "t": 101.0,
+   "pred": "Normal cruising",
+   "conf": 0.48,
+   "aggr": 0.14,
+   "truth": null,
+   "ax": -1.207,
+   "ay": 1.331,
+   "gz": -0.019
+  },
+  {
+   "t": 101.5,
+   "pred": "Normal cruising",
+   "conf": 0.473,
+   "aggr": 0.147,
+   "truth": null,
+   "ax": -1.351,
+   "ay": 1.363,
+   "gz": -0.013
+  },
+  {
+   "t": 102.0,
+   "pred": "Normal cruising",
+   "conf": 0.527,
+   "aggr": 0.093,
+   "truth": null,
+   "ax": -1.145,
+   "ay": 1.444,
+   "gz": -0.002
+  },
+  {
+   "t": 102.5,
+   "pred": "Normal cruising",
+   "conf": 0.547,
+   "aggr": 0.027,
+   "truth": null,
+   "ax": -0.602,
+   "ay": 0.927,
+   "gz": -0.024
+  },
+  {
+   "t": 103.0,
+   "pred": "Normal cruising",
+   "conf": 0.51,
+   "aggr": 0.01,
+   "truth": null,
+   "ax": -0.257,
+   "ay": 0.37,
+   "gz": -0.009
+  },
+  {
+   "t": 103.5,
+   "pred": "Normal cruising",
+   "conf": 0.583,
+   "aggr": 0.007,
+   "truth": null,
+   "ax": 0.166,
+   "ay": -0.055,
+   "gz": 0.011
+  },
+  {
+   "t": 104.0,
+   "pred": "Normal cruising",
+   "conf": 0.53,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.271,
+   "ay": -0.088,
+   "gz": -0.007
+  },
+  {
+   "t": 104.5,
+   "pred": "Non-aggressive",
+   "conf": 0.517,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.253,
+   "ay": 0.213,
+   "gz": 0.005
+  },
+  {
+   "t": 105.0,
+   "pred": "Normal cruising",
+   "conf": 0.56,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.155,
+   "ay": 0.186,
+   "gz": -0.006
+  },
+  {
+   "t": 105.5,
+   "pred": "Normal cruising",
+   "conf": 0.827,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.088,
+   "ay": 0.116,
+   "gz": -0.001
+  },
+  {
+   "t": 106.0,
+   "pred": "Normal cruising",
+   "conf": 0.923,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": 0.052,
+   "ay": 0.027,
+   "gz": -0.011
+  },
+  {
+   "t": 106.5,
+   "pred": "Normal cruising",
+   "conf": 0.953,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.133,
+   "ay": -0.058,
+   "gz": 0.001
+  },
+  {
+   "t": 107.0,
+   "pred": "Normal cruising",
+   "conf": 0.953,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.069,
+   "ay": -0.054,
+   "gz": -0.005
+  },
+  {
+   "t": 107.5,
+   "pred": "Normal cruising",
+   "conf": 0.957,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": 0.148,
+   "ay": -0.087,
+   "gz": -0.011
+  },
+  {
+   "t": 108.0,
+   "pred": "Normal cruising",
+   "conf": 0.983,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": 0.095,
+   "ay": -0.101,
+   "gz": -0.004
+  },
+  {
+   "t": 108.5,
+   "pred": "Normal cruising",
+   "conf": 0.963,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": 0.077,
+   "ay": -0.124,
+   "gz": -0.003
+  },
+  {
+   "t": 109.0,
+   "pred": "Normal cruising",
+   "conf": 0.96,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.014,
+   "ay": -0.074,
+   "gz": 0.01
+  },
+  {
+   "t": 109.5,
+   "pred": "Normal cruising",
+   "conf": 0.977,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.069,
+   "ay": -0.008,
+   "gz": 0.005
+  },
+  {
+   "t": 110.0,
+   "pred": "Normal cruising",
+   "conf": 0.973,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.078,
+   "ay": -0.04,
+   "gz": 0.0
+  },
+  {
+   "t": 110.5,
+   "pred": "Normal cruising",
+   "conf": 0.977,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.046,
+   "ay": 0.027,
+   "gz": 0.001
+  },
+  {
+   "t": 111.0,
+   "pred": "Normal cruising",
+   "conf": 0.877,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.091,
+   "ay": -0.05,
+   "gz": -0.008
+  },
+  {
+   "t": 111.5,
+   "pred": "Normal cruising",
+   "conf": 0.813,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.317,
+   "ay": 0.267,
+   "gz": -0.002
+  },
+  {
+   "t": 112.0,
+   "pred": "Normal cruising",
+   "conf": 0.513,
+   "aggr": 0.02,
+   "truth": null,
+   "ax": -0.083,
+   "ay": 0.018,
+   "gz": -0.01
+  },
+  {
+   "t": 112.5,
+   "pred": "Normal cruising",
+   "conf": 0.533,
+   "aggr": 0.07,
+   "truth": null,
+   "ax": -0.497,
+   "ay": 0.468,
+   "gz": 0.012
+  },
+  {
+   "t": 113.0,
+   "pred": "Non-aggressive",
+   "conf": 0.503,
+   "aggr": 0.177,
+   "truth": null,
+   "ax": -1.837,
+   "ay": 1.214,
+   "gz": 0.045
+  },
+  {
+   "t": 113.5,
+   "pred": "Normal cruising",
+   "conf": 0.393,
+   "aggr": 0.327,
+   "truth": null,
+   "ax": -1.283,
+   "ay": 1.281,
+   "gz": 0.046
+  },
+  {
+   "t": 114.0,
+   "pred": "Aggressive acceleration",
+   "conf": 0.607,
+   "aggr": 0.73,
+   "truth": null,
+   "ax": -0.554,
+   "ay": 0.343,
+   "gz": 0.083
+  },
+  {
+   "t": 114.5,
+   "pred": "Aggressive acceleration",
+   "conf": 0.393,
+   "aggr": 0.497,
+   "truth": null,
+   "ax": 0.459,
+   "ay": 1.19,
+   "gz": 0.028
+  },
+  {
+   "t": 115.0,
+   "pred": "Aggressive acceleration",
+   "conf": 0.393,
+   "aggr": 0.467,
+   "truth": null,
+   "ax": -0.221,
+   "ay": -1.693,
+   "gz": 0.013
+  },
+  {
+   "t": 115.5,
+   "pred": "Non-aggressive",
+   "conf": 0.383,
+   "aggr": 0.327,
+   "truth": null,
+   "ax": 1.691,
+   "ay": 0.351,
+   "gz": -0.006
+  },
+  {
+   "t": 116.0,
+   "pred": "Non-aggressive",
+   "conf": 0.393,
+   "aggr": 0.337,
+   "truth": null,
+   "ax": 2.009,
+   "ay": 1.438,
+   "gz": -0.112
+  },
+  {
+   "t": 116.5,
+   "pred": "Non-aggressive",
+   "conf": 0.37,
+   "aggr": 0.397,
+   "truth": null,
+   "ax": 0.103,
+   "ay": -0.168,
+   "gz": -0.061
+  },
+  {
+   "t": 117.0,
+   "pred": "Non-aggressive",
+   "conf": 0.393,
+   "aggr": 0.34,
+   "truth": null,
+   "ax": 2.958,
+   "ay": -0.539,
+   "gz": 0.242
+  },
+  {
+   "t": 117.5,
+   "pred": "Non-aggressive",
+   "conf": 0.377,
+   "aggr": 0.35,
+   "truth": null,
+   "ax": 0.964,
+   "ay": -0.431,
+   "gz": -0.022
+  },
+  {
+   "t": 118.0,
+   "pred": "Non-aggressive",
+   "conf": 0.353,
+   "aggr": 0.387,
+   "truth": null,
+   "ax": -0.329,
+   "ay": -0.865,
+   "gz": -0.017
+  },
+  {
+   "t": 118.5,
+   "pred": "Normal cruising",
+   "conf": 0.57,
+   "aggr": 0.157,
+   "truth": null,
+   "ax": 0.556,
+   "ay": -0.413,
+   "gz": -0.023
+  },
+  {
+   "t": 119.0,
+   "pred": "Normal cruising",
+   "conf": 0.58,
+   "aggr": 0.107,
+   "truth": null,
+   "ax": 0.101,
+   "ay": -0.518,
+   "gz": 0.01
+  },
+  {
+   "t": 119.5,
+   "pred": "Non-aggressive",
+   "conf": 0.67,
+   "aggr": 0.1,
+   "truth": null,
+   "ax": -0.883,
+   "ay": 0.009,
+   "gz": -0.133
+  },
+  {
+   "t": 120.0,
+   "pred": "Non-aggressive",
+   "conf": 0.62,
+   "aggr": 0.193,
+   "truth": null,
+   "ax": -0.783,
+   "ay": 0.435,
+   "gz": 0.188
+  },
+  {
+   "t": 120.5,
+   "pred": "Aggressive right turn",
+   "conf": 0.32,
+   "aggr": 0.533,
+   "truth": null,
+   "ax": -1.511,
+   "ay": -1.046,
+   "gz": 0.205
+  },
+  {
+   "t": 121.0,
+   "pred": "Aggressive right turn",
+   "conf": 0.657,
+   "aggr": 0.83,
+   "truth": "Aggressive right turn",
+   "ax": 5.637,
+   "ay": 3.163,
+   "gz": -0.367
+  },
+  {
+   "t": 121.5,
+   "pred": "Aggressive right turn",
+   "conf": 0.973,
+   "aggr": 0.993,
+   "truth": "Aggressive right turn",
+   "ax": 2.849,
+   "ay": 2.05,
+   "gz": -0.385
+  },
+  {
+   "t": 122.0,
+   "pred": "Aggressive right turn",
+   "conf": 0.957,
+   "aggr": 0.997,
+   "truth": "Aggressive right turn",
+   "ax": 3.504,
+   "ay": 2.827,
+   "gz": -0.726
+  },
+  {
+   "t": 122.5,
+   "pred": "Aggressive right turn",
+   "conf": 0.993,
+   "aggr": 0.997,
+   "truth": "Aggressive right turn",
+   "ax": 2.526,
+   "ay": 1.486,
+   "gz": -0.691
+  },
+  {
+   "t": 123.0,
+   "pred": "Aggressive right turn",
+   "conf": 0.91,
+   "aggr": 0.993,
+   "truth": "Aggressive right turn",
+   "ax": -1.146,
+   "ay": 0.321,
+   "gz": -0.804
+  },
+  {
+   "t": 123.5,
+   "pred": "Aggressive right turn",
+   "conf": 0.95,
+   "aggr": 0.993,
+   "truth": "Aggressive right turn",
+   "ax": -0.925,
+   "ay": -0.54,
+   "gz": -0.414
+  },
+  {
+   "t": 124.0,
+   "pred": "Aggressive right turn",
+   "conf": 0.87,
+   "aggr": 0.953,
+   "truth": "Aggressive right turn",
+   "ax": -2.619,
+   "ay": -1.015,
+   "gz": -0.345
+  },
+  {
+   "t": 124.5,
+   "pred": "Aggressive right turn",
+   "conf": 0.333,
+   "aggr": 0.627,
+   "truth": null,
+   "ax": -1.889,
+   "ay": 0.428,
+   "gz": -0.155
+  },
+  {
+   "t": 125.0,
+   "pred": "Non-aggressive",
+   "conf": 0.31,
+   "aggr": 0.503,
+   "truth": null,
+   "ax": -3.285,
+   "ay": 0.205,
+   "gz": 0.021
+  },
+  {
+   "t": 125.5,
+   "pred": "Non-aggressive",
+   "conf": 0.307,
+   "aggr": 0.43,
+   "truth": null,
+   "ax": 0.826,
+   "ay": -0.641,
+   "gz": -0.25
+  },
+  {
+   "t": 126.0,
+   "pred": "Normal cruising",
+   "conf": 0.377,
+   "aggr": 0.257,
+   "truth": null,
+   "ax": -0.481,
+   "ay": -0.642,
+   "gz": -0.127
+  },
+  {
+   "t": 126.5,
+   "pred": "Normal cruising",
+   "conf": 0.503,
+   "aggr": 0.187,
+   "truth": null,
+   "ax": -1.36,
+   "ay": -0.609,
+   "gz": 0.018
+  },
+  {
+   "t": 127.0,
+   "pred": "Normal cruising",
+   "conf": 0.307,
+   "aggr": 0.393,
+   "truth": null,
+   "ax": -0.577,
+   "ay": 0.328,
+   "gz": 0.068
+  },
+  {
+   "t": 127.5,
+   "pred": "Normal cruising",
+   "conf": 0.31,
+   "aggr": 0.423,
+   "truth": null,
+   "ax": -0.509,
+   "ay": 1.055,
+   "gz": 0.007
+  },
+  {
+   "t": 128.0,
+   "pred": "Normal cruising",
+   "conf": 0.337,
+   "aggr": 0.397,
+   "truth": null,
+   "ax": 1.244,
+   "ay": -0.342,
+   "gz": 0.044
+  },
+  {
+   "t": 128.5,
+   "pred": "Normal cruising",
+   "conf": 0.337,
+   "aggr": 0.42,
+   "truth": null,
+   "ax": 0.555,
+   "ay": 1.96,
+   "gz": 0.106
+  },
+  {
+   "t": 129.0,
+   "pred": "Normal cruising",
+   "conf": 0.443,
+   "aggr": 0.303,
+   "truth": null,
+   "ax": 0.68,
+   "ay": 1.205,
+   "gz": 0.062
+  },
+  {
+   "t": 129.5,
+   "pred": "Normal cruising",
+   "conf": 0.43,
+   "aggr": 0.327,
+   "truth": null,
+   "ax": 1.276,
+   "ay": 2.161,
+   "gz": 0.101
+  },
+  {
+   "t": 130.0,
+   "pred": "Normal cruising",
+   "conf": 0.343,
+   "aggr": 0.417,
+   "truth": null,
+   "ax": -0.142,
+   "ay": 0.259,
+   "gz": 0.13
+  },
+  {
+   "t": 130.5,
+   "pred": "Normal cruising",
+   "conf": 0.36,
+   "aggr": 0.377,
+   "truth": null,
+   "ax": 2.566,
+   "ay": 0.797,
+   "gz": -0.054
+  },
+  {
+   "t": 131.0,
+   "pred": "Normal cruising",
+   "conf": 0.373,
+   "aggr": 0.347,
+   "truth": null,
+   "ax": 0.223,
+   "ay": 0.923,
+   "gz": -0.037
+  },
+  {
+   "t": 131.5,
+   "pred": "Normal cruising",
+   "conf": 0.337,
+   "aggr": 0.333,
+   "truth": null,
+   "ax": 0.363,
+   "ay": 1.018,
+   "gz": 0.03
+  },
+  {
+   "t": 132.0,
+   "pred": "Non-aggressive",
+   "conf": 0.41,
+   "aggr": 0.223,
+   "truth": null,
+   "ax": 0.171,
+   "ay": -0.007,
+   "gz": -0.019
+  },
+  {
+   "t": 132.5,
+   "pred": "Non-aggressive",
+   "conf": 0.367,
+   "aggr": 0.327,
+   "truth": null,
+   "ax": 0.494,
+   "ay": 0.058,
+   "gz": 0.14
+  },
+  {
+   "t": 133.0,
+   "pred": "Non-aggressive",
+   "conf": 0.397,
+   "aggr": 0.29,
+   "truth": null,
+   "ax": 0.319,
+   "ay": -1.633,
+   "gz": 0.085
+  },
+  {
+   "t": 133.5,
+   "pred": "Non-aggressive",
+   "conf": 0.353,
+   "aggr": 0.293,
+   "truth": null,
+   "ax": 0.526,
+   "ay": -0.757,
+   "gz": 0.067
+  },
+  {
+   "t": 134.0,
+   "pred": "Non-aggressive",
+   "conf": 0.43,
+   "aggr": 0.243,
+   "truth": null,
+   "ax": 0.106,
+   "ay": -0.412,
+   "gz": 0.27
+  },
+  {
+   "t": 134.5,
+   "pred": "Non-aggressive",
+   "conf": 0.447,
+   "aggr": 0.283,
+   "truth": null,
+   "ax": -0.798,
+   "ay": 0.165,
+   "gz": 0.056
+  },
+  {
+   "t": 135.0,
+   "pred": "Aggressive right turn",
+   "conf": 0.693,
+   "aggr": 0.88,
+   "truth": null,
+   "ax": 0.885,
+   "ay": 0.206,
+   "gz": 0.05
+  },
+  {
+   "t": 135.5,
+   "pred": "Aggressive right turn",
+   "conf": 0.983,
+   "aggr": 0.997,
+   "truth": "Aggressive right turn",
+   "ax": 1.411,
+   "ay": 0.956,
+   "gz": 0.032
+  },
+  {
+   "t": 136.0,
+   "pred": "Aggressive right turn",
+   "conf": 1.0,
+   "aggr": 1.0,
+   "truth": "Aggressive right turn",
+   "ax": 6.444,
+   "ay": 1.504,
+   "gz": -0.954
+  },
+  {
+   "t": 136.5,
+   "pred": "Aggressive right turn",
+   "conf": 0.993,
+   "aggr": 1.0,
+   "truth": "Aggressive right turn",
+   "ax": -1.708,
+   "ay": -1.002,
+   "gz": -0.445
+  },
+  {
+   "t": 137.0,
+   "pred": "Aggressive right turn",
+   "conf": 0.977,
+   "aggr": 0.987,
+   "truth": "Aggressive right turn",
+   "ax": -1.184,
+   "ay": 0.121,
+   "gz": -0.518
+  },
+  {
+   "t": 137.5,
+   "pred": "Aggressive right turn",
+   "conf": 0.93,
+   "aggr": 0.947,
+   "truth": "Aggressive right turn",
+   "ax": -0.41,
+   "ay": -1.296,
+   "gz": -0.484
+  },
+  {
+   "t": 138.0,
+   "pred": "Aggressive right turn",
+   "conf": 0.933,
+   "aggr": 0.973,
+   "truth": "Aggressive right turn",
+   "ax": -1.406,
+   "ay": 0.255,
+   "gz": -0.327
+  },
+  {
+   "t": 138.5,
+   "pred": "Aggressive right turn",
+   "conf": 0.65,
+   "aggr": 0.847,
+   "truth": "Aggressive right turn",
+   "ax": -2.826,
+   "ay": 0.992,
+   "gz": -0.19
+  },
+  {
+   "t": 139.0,
+   "pred": "Aggressive braking",
+   "conf": 0.303,
+   "aggr": 0.703,
+   "truth": "Aggressive right turn",
+   "ax": -2.741,
+   "ay": 2.457,
+   "gz": 0.05
+  },
+  {
+   "t": 139.5,
+   "pred": "Aggressive braking",
+   "conf": 0.263,
+   "aggr": 0.557,
+   "truth": null,
+   "ax": -1.514,
+   "ay": 1.714,
+   "gz": -0.083
+  },
+  {
+   "t": 140.0,
+   "pred": "Normal cruising",
+   "conf": 0.29,
+   "aggr": 0.443,
+   "truth": null,
+   "ax": -1.54,
+   "ay": 0.986,
+   "gz": -0.018
+  },
+  {
+   "t": 140.5,
+   "pred": "Non-aggressive",
+   "conf": 0.483,
+   "aggr": 0.207,
+   "truth": null,
+   "ax": -0.282,
+   "ay": -0.038,
+   "gz": -0.001
+  },
+  {
+   "t": 141.0,
+   "pred": "Non-aggressive",
+   "conf": 0.59,
+   "aggr": 0.11,
+   "truth": null,
+   "ax": -0.496,
+   "ay": 0.846,
+   "gz": -0.013
+  },
+  {
+   "t": 141.5,
+   "pred": "Normal cruising",
+   "conf": 0.543,
+   "aggr": 0.093,
+   "truth": null,
+   "ax": -0.479,
+   "ay": 0.427,
+   "gz": 0.089
+  },
+  {
+   "t": 142.0,
+   "pred": "Normal cruising",
+   "conf": 0.503,
+   "aggr": 0.103,
+   "truth": null,
+   "ax": 0.175,
+   "ay": 0.324,
+   "gz": -0.019
+  },
+  {
+   "t": 142.5,
+   "pred": "Normal cruising",
+   "conf": 0.66,
+   "aggr": 0.073,
+   "truth": null,
+   "ax": 0.362,
+   "ay": -0.182,
+   "gz": -0.088
+  },
+  {
+   "t": 143.0,
+   "pred": "Normal cruising",
+   "conf": 0.643,
+   "aggr": 0.113,
+   "truth": null,
+   "ax": 0.574,
+   "ay": 0.319,
+   "gz": 0.047
+  },
+  {
+   "t": 143.5,
+   "pred": "Normal cruising",
+   "conf": 0.557,
+   "aggr": 0.193,
+   "truth": null,
+   "ax": 0.525,
+   "ay": -0.173,
+   "gz": 0.098
+  },
+  {
+   "t": 144.0,
+   "pred": "Normal cruising",
+   "conf": 0.647,
+   "aggr": 0.097,
+   "truth": null,
+   "ax": 0.675,
+   "ay": -1.359,
+   "gz": -0.008
+  },
+  {
+   "t": 144.5,
+   "pred": "Normal cruising",
+   "conf": 0.82,
+   "aggr": 0.027,
+   "truth": null,
+   "ax": 0.122,
+   "ay": -0.935,
+   "gz": 0.078
+  },
+  {
+   "t": 145.0,
+   "pred": "Normal cruising",
+   "conf": 0.717,
+   "aggr": 0.1,
+   "truth": null,
+   "ax": 0.45,
+   "ay": -0.281,
+   "gz": 0.007
+  },
+  {
+   "t": 145.5,
+   "pred": "Normal cruising",
+   "conf": 0.707,
+   "aggr": 0.14,
+   "truth": null,
+   "ax": 0.714,
+   "ay": -0.866,
+   "gz": 0.01
+  },
+  {
+   "t": 146.0,
+   "pred": "Normal cruising",
+   "conf": 0.697,
+   "aggr": 0.147,
+   "truth": null,
+   "ax": 0.574,
+   "ay": -0.365,
+   "gz": 0.032
+  },
+  {
+   "t": 146.5,
+   "pred": "Normal cruising",
+   "conf": 0.717,
+   "aggr": 0.06,
+   "truth": null,
+   "ax": 0.518,
+   "ay": -0.263,
+   "gz": 0.003
+  },
+  {
+   "t": 147.0,
+   "pred": "Normal cruising",
+   "conf": 0.813,
+   "aggr": 0.02,
+   "truth": null,
+   "ax": 1.858,
+   "ay": -0.374,
+   "gz": -0.071
+  },
+  {
+   "t": 147.5,
+   "pred": "Normal cruising",
+   "conf": 0.777,
+   "aggr": 0.03,
+   "truth": null,
+   "ax": 1.606,
+   "ay": -0.045,
+   "gz": -0.131
+  },
+  {
+   "t": 148.0,
+   "pred": "Normal cruising",
+   "conf": 0.68,
+   "aggr": 0.027,
+   "truth": null,
+   "ax": 1.406,
+   "ay": 0.095,
+   "gz": -0.126
+  },
+  {
+   "t": 148.5,
+   "pred": "Normal cruising",
+   "conf": 0.7,
+   "aggr": 0.023,
+   "truth": null,
+   "ax": 0.866,
+   "ay": -0.078,
+   "gz": -0.093
+  },
+  {
+   "t": 149.0,
+   "pred": "Normal cruising",
+   "conf": 0.723,
+   "aggr": 0.01,
+   "truth": null,
+   "ax": 0.348,
+   "ay": 0.09,
+   "gz": -0.083
+  },
+  {
+   "t": 149.5,
+   "pred": "Normal cruising",
+   "conf": 0.777,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": 0.158,
+   "ay": -0.052,
+   "gz": -0.011
+  },
+  {
+   "t": 150.0,
+   "pred": "Normal cruising",
+   "conf": 0.803,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.289,
+   "ay": 0.366,
+   "gz": 0.091
+  },
+  {
+   "t": 150.5,
+   "pred": "Normal cruising",
+   "conf": 0.777,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.442,
+   "ay": -0.047,
+   "gz": 0.114
+  },
+  {
+   "t": 151.0,
+   "pred": "Normal cruising",
+   "conf": 0.727,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.611,
+   "ay": -0.478,
+   "gz": 0.085
+  },
+  {
+   "t": 151.5,
+   "pred": "Normal cruising",
+   "conf": 0.833,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.593,
+   "ay": -0.282,
+   "gz": 0.07
+  },
+  {
+   "t": 152.0,
+   "pred": "Normal cruising",
+   "conf": 0.67,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.105,
+   "ay": 0.085,
+   "gz": 0.063
+  },
+  {
+   "t": 152.5,
+   "pred": "Normal cruising",
+   "conf": 0.877,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.202,
+   "ay": -0.057,
+   "gz": 0.024
+  },
+  {
+   "t": 153.0,
+   "pred": "Normal cruising",
+   "conf": 0.873,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.05,
+   "ay": 0.099,
+   "gz": 0.001
+  },
+  {
+   "t": 153.5,
+   "pred": "Normal cruising",
+   "conf": 0.863,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.281,
+   "ay": 0.188,
+   "gz": 0.002
+  },
+  {
+   "t": 154.0,
+   "pred": "Normal cruising",
+   "conf": 0.877,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.26,
+   "ay": 0.088,
+   "gz": -0.004
+  },
+  {
+   "t": 154.5,
+   "pred": "Normal cruising",
+   "conf": 0.873,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.133,
+   "ay": 0.052,
+   "gz": 0.003
+  },
+  {
+   "t": 155.0,
+   "pred": "Normal cruising",
+   "conf": 0.957,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.067,
+   "ay": -0.009,
+   "gz": -0.005
+  },
+  {
+   "t": 155.5,
+   "pred": "Normal cruising",
+   "conf": 0.96,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.034,
+   "ay": -0.02,
+   "gz": -0.005
+  },
+  {
+   "t": 156.0,
+   "pred": "Normal cruising",
+   "conf": 0.67,
+   "aggr": 0.02,
+   "truth": null,
+   "ax": -0.078,
+   "ay": 0.025,
+   "gz": -0.003
+  },
+  {
+   "t": 156.5,
+   "pred": "Normal cruising",
+   "conf": 0.65,
+   "aggr": 0.013,
+   "truth": null,
+   "ax": 0.003,
+   "ay": 0.089,
+   "gz": 0.014
+  },
+  {
+   "t": 157.0,
+   "pred": "Non-aggressive",
+   "conf": 0.497,
+   "aggr": 0.023,
+   "truth": null,
+   "ax": 2.016,
+   "ay": 0.97,
+   "gz": 0.045
+  },
+  {
+   "t": 157.5,
+   "pred": "Non-aggressive",
+   "conf": 0.453,
+   "aggr": 0.163,
+   "truth": null,
+   "ax": 1.369,
+   "ay": 0.961,
+   "gz": 0.058
+  },
+  {
+   "t": 158.0,
+   "pred": "Normal cruising",
+   "conf": 0.477,
+   "aggr": 0.17,
+   "truth": null,
+   "ax": 0.663,
+   "ay": 0.716,
+   "gz": 0.072
+  },
+  {
+   "t": 158.5,
+   "pred": "Normal cruising",
+   "conf": 0.61,
+   "aggr": 0.233,
+   "truth": null,
+   "ax": -0.66,
+   "ay": 0.068,
+   "gz": -0.027
+  },
+  {
+   "t": 159.0,
+   "pred": "Normal cruising",
+   "conf": 0.5,
+   "aggr": 0.197,
+   "truth": null,
+   "ax": -1.393,
+   "ay": -1.036,
+   "gz": -0.048
+  },
+  {
+   "t": 159.5,
+   "pred": "Normal cruising",
+   "conf": 0.547,
+   "aggr": 0.12,
+   "truth": null,
+   "ax": -2.945,
+   "ay": -0.96,
+   "gz": -0.03
+  },
+  {
+   "t": 160.0,
+   "pred": "Normal cruising",
+   "conf": 0.563,
+   "aggr": 0.133,
+   "truth": null,
+   "ax": -1.614,
+   "ay": -0.609,
+   "gz": -0.025
+  },
+  {
+   "t": 160.5,
+   "pred": "Normal cruising",
+   "conf": 0.637,
+   "aggr": 0.04,
+   "truth": null,
+   "ax": -1.169,
+   "ay": -0.169,
+   "gz": -0.029
+  },
+  {
+   "t": 161.0,
+   "pred": "Normal cruising",
+   "conf": 0.743,
+   "aggr": 0.023,
+   "truth": null,
+   "ax": -1.005,
+   "ay": 0.016,
+   "gz": -0.008
+  },
+  {
+   "t": 161.5,
+   "pred": "Normal cruising",
+   "conf": 0.817,
+   "aggr": 0.027,
+   "truth": null,
+   "ax": -0.449,
+   "ay": 0.182,
+   "gz": 0.035
+  },
+  {
+   "t": 162.0,
+   "pred": "Normal cruising",
+   "conf": 0.797,
+   "aggr": 0.04,
+   "truth": null,
+   "ax": 0.056,
+   "ay": 0.204,
+   "gz": 0.046
+  },
+  {
+   "t": 162.5,
+   "pred": "Normal cruising",
+   "conf": 0.79,
+   "aggr": 0.05,
+   "truth": null,
+   "ax": -0.135,
+   "ay": 0.745,
+   "gz": 0.014
+  },
+  {
+   "t": 163.0,
+   "pred": "Normal cruising",
+   "conf": 0.72,
+   "aggr": 0.073,
+   "truth": null,
+   "ax": 0.114,
+   "ay": 0.753,
+   "gz": 0.082
+  },
+  {
+   "t": 163.5,
+   "pred": "Normal cruising",
+   "conf": 0.553,
+   "aggr": 0.117,
+   "truth": null,
+   "ax": 0.297,
+   "ay": -0.006,
+   "gz": 0.054
+  },
+  {
+   "t": 164.0,
+   "pred": "Normal cruising",
+   "conf": 0.457,
+   "aggr": 0.09,
+   "truth": "Non-aggressive",
+   "ax": -0.316,
+   "ay": 1.36,
+   "gz": -0.071
+  },
+  {
+   "t": 164.5,
+   "pred": "Non-aggressive",
+   "conf": 0.897,
+   "aggr": 0.027,
+   "truth": "Non-aggressive",
+   "ax": 1.311,
+   "ay": 0.367,
+   "gz": -0.03
+  },
+  {
+   "t": 165.0,
+   "pred": "Non-aggressive",
+   "conf": 0.95,
+   "aggr": 0.003,
+   "truth": "Non-aggressive",
+   "ax": 0.266,
+   "ay": 0.318,
+   "gz": -0.059
+  },
+  {
+   "t": 165.5,
+   "pred": "Non-aggressive",
+   "conf": 0.883,
+   "aggr": 0.023,
+   "truth": "Non-aggressive",
+   "ax": -0.621,
+   "ay": -1.826,
+   "gz": -0.315
+  },
+  {
+   "t": 166.0,
+   "pred": "Non-aggressive",
+   "conf": 0.963,
+   "aggr": 0.01,
+   "truth": "Non-aggressive",
+   "ax": -0.016,
+   "ay": -0.202,
+   "gz": -0.357
+  },
+  {
+   "t": 166.5,
+   "pred": "Non-aggressive",
+   "conf": 0.943,
+   "aggr": 0.03,
+   "truth": "Non-aggressive",
+   "ax": 0.179,
+   "ay": -1.529,
+   "gz": -0.181
+  },
+  {
+   "t": 167.0,
+   "pred": "Non-aggressive",
+   "conf": 0.957,
+   "aggr": 0.01,
+   "truth": "Non-aggressive",
+   "ax": -0.12,
+   "ay": -0.8,
+   "gz": -0.54
+  },
+  {
+   "t": 167.5,
+   "pred": "Non-aggressive",
+   "conf": 0.897,
+   "aggr": 0.037,
+   "truth": "Non-aggressive",
+   "ax": -1.084,
+   "ay": 1.099,
+   "gz": -0.614
+  },
+  {
+   "t": 168.0,
+   "pred": "Non-aggressive",
+   "conf": 0.7,
+   "aggr": 0.097,
+   "truth": "Non-aggressive",
+   "ax": 0.805,
+   "ay": 0.936,
+   "gz": -0.307
+  },
+  {
+   "t": 168.5,
+   "pred": "Normal cruising",
+   "conf": 0.47,
+   "aggr": 0.067,
+   "truth": null,
+   "ax": 0.337,
+   "ay": -0.045,
+   "gz": -0.372
+  },
+  {
+   "t": 169.0,
+   "pred": "Normal cruising",
+   "conf": 0.767,
+   "aggr": 0.02,
+   "truth": null,
+   "ax": 1.223,
+   "ay": -0.326,
+   "gz": -0.306
+  },
+  {
+   "t": 169.5,
+   "pred": "Normal cruising",
+   "conf": 0.687,
+   "aggr": 0.007,
+   "truth": null,
+   "ax": 0.929,
+   "ay": -0.73,
+   "gz": -0.18
+  },
+  {
+   "t": 170.0,
+   "pred": "Normal cruising",
+   "conf": 0.71,
+   "aggr": 0.013,
+   "truth": null,
+   "ax": 0.23,
+   "ay": -0.688,
+   "gz": -0.121
+  },
+  {
+   "t": 170.5,
+   "pred": "Normal cruising",
+   "conf": 0.723,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.002,
+   "ay": -0.271,
+   "gz": -0.045
+  },
+  {
+   "t": 171.0,
+   "pred": "Normal cruising",
+   "conf": 0.747,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.013,
+   "ay": -0.575,
+   "gz": 0.027
+  },
+  {
+   "t": 171.5,
+   "pred": "Normal cruising",
+   "conf": 0.707,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": 0.239,
+   "ay": 0.057,
+   "gz": 0.03
+  },
+  {
+   "t": 172.0,
+   "pred": "Normal cruising",
+   "conf": 0.713,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.394,
+   "ay": -0.201,
+   "gz": 0.032
+  },
+  {
+   "t": 172.5,
+   "pred": "Normal cruising",
+   "conf": 0.62,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.372,
+   "ay": -0.548,
+   "gz": 0.028
+  },
+  {
+   "t": 173.0,
+   "pred": "Normal cruising",
+   "conf": 0.53,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.116,
+   "ay": -0.312,
+   "gz": 0.014
+  },
+  {
+   "t": 173.5,
+   "pred": "Normal cruising",
+   "conf": 0.707,
+   "aggr": 0.007,
+   "truth": null,
+   "ax": -0.302,
+   "ay": -0.554,
+   "gz": 0.041
+  },
+  {
+   "t": 174.0,
+   "pred": "Normal cruising",
+   "conf": 0.7,
+   "aggr": 0.01,
+   "truth": null,
+   "ax": -0.127,
+   "ay": 0.213,
+   "gz": -0.012
+  },
+  {
+   "t": 174.5,
+   "pred": "Normal cruising",
+   "conf": 0.773,
+   "aggr": 0.013,
+   "truth": null,
+   "ax": -0.88,
+   "ay": -0.731,
+   "gz": 0.001
+  },
+  {
+   "t": 175.0,
+   "pred": "Normal cruising",
+   "conf": 0.537,
+   "aggr": 0.167,
+   "truth": null,
+   "ax": -1.457,
+   "ay": -0.864,
+   "gz": 0.022
+  },
+  {
+   "t": 175.5,
+   "pred": "Normal cruising",
+   "conf": 0.38,
+   "aggr": 0.397,
+   "truth": null,
+   "ax": -0.941,
+   "ay": -0.756,
+   "gz": 0.032
+  },
+  {
+   "t": 176.0,
+   "pred": "Aggressive acceleration",
+   "conf": 0.427,
+   "aggr": 0.5,
+   "truth": null,
+   "ax": -0.672,
+   "ay": 0.164,
+   "gz": -0.0
+  },
+  {
+   "t": 176.5,
+   "pred": "Aggressive acceleration",
+   "conf": 0.563,
+   "aggr": 0.577,
+   "truth": null,
+   "ax": 0.493,
+   "ay": -0.874,
+   "gz": 0.022
+  },
+  {
+   "t": 177.0,
+   "pred": "Aggressive acceleration",
+   "conf": 0.657,
+   "aggr": 0.663,
+   "truth": null,
+   "ax": -0.343,
+   "ay": 0.126,
+   "gz": 0.016
+  },
+  {
+   "t": 177.5,
+   "pred": "Aggressive acceleration",
+   "conf": 0.513,
+   "aggr": 0.523,
+   "truth": null,
+   "ax": -0.081,
+   "ay": 1.134,
+   "gz": -0.141
+  },
+  {
+   "t": 178.0,
+   "pred": "Aggressive acceleration",
+   "conf": 0.407,
+   "aggr": 0.5,
+   "truth": null,
+   "ax": -0.346,
+   "ay": 0.619,
+   "gz": -0.029
+  },
+  {
+   "t": 178.5,
+   "pred": "Non-aggressive",
+   "conf": 0.37,
+   "aggr": 0.387,
+   "truth": null,
+   "ax": 0.849,
+   "ay": 1.017,
+   "gz": 0.016
+  },
+  {
+   "t": 179.0,
+   "pred": "Aggressive acceleration",
+   "conf": 0.33,
+   "aggr": 0.463,
+   "truth": null,
+   "ax": -1.064,
+   "ay": 1.49,
+   "gz": -0.185
+  },
+  {
+   "t": 179.5,
+   "pred": "Non-aggressive",
+   "conf": 0.347,
+   "aggr": 0.327,
+   "truth": null,
+   "ax": 2.386,
+   "ay": 1.041,
+   "gz": 0.162
+  },
+  {
+   "t": 180.0,
+   "pred": "Normal cruising",
+   "conf": 0.463,
+   "aggr": 0.347,
+   "truth": null,
+   "ax": -1.413,
+   "ay": 1.77,
+   "gz": -0.194
+  },
+  {
+   "t": 180.5,
+   "pred": "Normal cruising",
+   "conf": 0.603,
+   "aggr": 0.307,
+   "truth": null,
+   "ax": -4.648,
+   "ay": -1.845,
+   "gz": -0.13
+  },
+  {
+   "t": 181.0,
+   "pred": "Normal cruising",
+   "conf": 0.633,
+   "aggr": 0.31,
+   "truth": null,
+   "ax": -3.101,
+   "ay": -2.163,
+   "gz": 0.236
+  },
+  {
+   "t": 181.5,
+   "pred": "Normal cruising",
+   "conf": 0.72,
+   "aggr": 0.22,
+   "truth": null,
+   "ax": -0.614,
+   "ay": -0.994,
+   "gz": 0.144
+  },
+  {
+   "t": 182.0,
+   "pred": "Normal cruising",
+   "conf": 0.517,
+   "aggr": 0.243,
+   "truth": null,
+   "ax": -0.712,
+   "ay": -0.945,
+   "gz": 0.039
+  },
+  {
+   "t": 182.5,
+   "pred": "Non-aggressive",
+   "conf": 0.393,
+   "aggr": 0.223,
+   "truth": null,
+   "ax": 1.48,
+   "ay": -3.189,
+   "gz": 0.141
+  },
+  {
+   "t": 183.0,
+   "pred": "Normal cruising",
+   "conf": 0.4,
+   "aggr": 0.303,
+   "truth": null,
+   "ax": -0.29,
+   "ay": -2.364,
+   "gz": -0.096
+  },
+  {
+   "t": 183.5,
+   "pred": "Normal cruising",
+   "conf": 0.427,
+   "aggr": 0.273,
+   "truth": null,
+   "ax": -0.575,
+   "ay": 0.883,
+   "gz": -0.021
+  },
+  {
+   "t": 184.0,
+   "pred": "Normal cruising",
+   "conf": 0.457,
+   "aggr": 0.237,
+   "truth": null,
+   "ax": -0.385,
+   "ay": 1.211,
+   "gz": 0.087
+  },
+  {
+   "t": 184.5,
+   "pred": "Normal cruising",
+   "conf": 0.48,
+   "aggr": 0.173,
+   "truth": null,
+   "ax": -1.46,
+   "ay": 2.112,
+   "gz": -0.158
+  },
+  {
+   "t": 185.0,
+   "pred": "Non-aggressive",
+   "conf": 0.567,
+   "aggr": 0.137,
+   "truth": null,
+   "ax": 0.286,
+   "ay": -1.165,
+   "gz": 0.042
+  },
+  {
+   "t": 185.5,
+   "pred": "Non-aggressive",
+   "conf": 0.583,
+   "aggr": 0.103,
+   "truth": null,
+   "ax": -1.557,
+   "ay": 0.275,
+   "gz": -0.264
+  },
+  {
+   "t": 186.0,
+   "pred": "Non-aggressive",
+   "conf": 0.643,
+   "aggr": 0.107,
+   "truth": null,
+   "ax": 0.356,
+   "ay": -1.229,
+   "gz": -0.189
+  },
+  {
+   "t": 186.5,
+   "pred": "Non-aggressive",
+   "conf": 0.647,
+   "aggr": 0.1,
+   "truth": null,
+   "ax": -0.188,
+   "ay": 0.402,
+   "gz": 0.13
+  },
+  {
+   "t": 187.0,
+   "pred": "Non-aggressive",
+   "conf": 0.69,
+   "aggr": 0.073,
+   "truth": "Non-aggressive",
+   "ax": -0.324,
+   "ay": -0.942,
+   "gz": 0.03
+  },
+  {
+   "t": 187.5,
+   "pred": "Non-aggressive",
+   "conf": 0.81,
+   "aggr": 0.027,
+   "truth": "Non-aggressive",
+   "ax": -0.208,
+   "ay": -0.348,
+   "gz": -0.052
+  },
+  {
+   "t": 188.0,
+   "pred": "Non-aggressive",
+   "conf": 0.837,
+   "aggr": 0.017,
+   "truth": "Non-aggressive",
+   "ax": -0.767,
+   "ay": -0.028,
+   "gz": -0.207
+  },
+  {
+   "t": 188.5,
+   "pred": "Non-aggressive",
+   "conf": 0.86,
+   "aggr": 0.04,
+   "truth": "Non-aggressive",
+   "ax": -0.732,
+   "ay": 0.243,
+   "gz": -0.243
+  },
+  {
+   "t": 189.0,
+   "pred": "Non-aggressive",
+   "conf": 0.94,
+   "aggr": 0.023,
+   "truth": "Non-aggressive",
+   "ax": -0.486,
+   "ay": 1.085,
+   "gz": -0.47
+  },
+  {
+   "t": 189.5,
+   "pred": "Non-aggressive",
+   "conf": 0.93,
+   "aggr": 0.02,
+   "truth": "Non-aggressive",
+   "ax": -0.445,
+   "ay": 1.993,
+   "gz": -0.576
+  },
+  {
+   "t": 190.0,
+   "pred": "Non-aggressive",
+   "conf": 0.807,
+   "aggr": 0.083,
+   "truth": "Non-aggressive",
+   "ax": 1.554,
+   "ay": -0.62,
+   "gz": -0.42
+  },
+  {
+   "t": 190.5,
+   "pred": "Non-aggressive",
+   "conf": 0.64,
+   "aggr": 0.137,
+   "truth": "Non-aggressive",
+   "ax": 1.099,
+   "ay": -1.166,
+   "gz": -0.369
+  },
+  {
+   "t": 191.0,
+   "pred": "Non-aggressive",
+   "conf": 0.627,
+   "aggr": 0.133,
+   "truth": null,
+   "ax": -0.542,
+   "ay": -2.9,
+   "gz": -0.414
+  },
+  {
+   "t": 191.5,
+   "pred": "Non-aggressive",
+   "conf": 0.623,
+   "aggr": 0.133,
+   "truth": null,
+   "ax": 0.191,
+   "ay": -0.834,
+   "gz": -0.284
+  },
+  {
+   "t": 192.0,
+   "pred": "Non-aggressive",
+   "conf": 0.573,
+   "aggr": 0.05,
+   "truth": null,
+   "ax": -0.544,
+   "ay": -0.034,
+   "gz": -0.146
+  },
+  {
+   "t": 192.5,
+   "pred": "Normal cruising",
+   "conf": 0.637,
+   "aggr": 0.053,
+   "truth": null,
+   "ax": -0.117,
+   "ay": -0.51,
+   "gz": -0.116
+  },
+  {
+   "t": 193.0,
+   "pred": "Normal cruising",
+   "conf": 0.643,
+   "aggr": 0.047,
+   "truth": null,
+   "ax": -0.583,
+   "ay": -0.161,
+   "gz": -0.081
+  },
+  {
+   "t": 193.5,
+   "pred": "Normal cruising",
+   "conf": 0.637,
+   "aggr": 0.057,
+   "truth": null,
+   "ax": -0.426,
+   "ay": 0.043,
+   "gz": 0.002
+  },
+  {
+   "t": 194.0,
+   "pred": "Normal cruising",
+   "conf": 0.67,
+   "aggr": 0.057,
+   "truth": null,
+   "ax": 0.057,
+   "ay": 0.557,
+   "gz": -0.044
+  },
+  {
+   "t": 194.5,
+   "pred": "Normal cruising",
+   "conf": 0.733,
+   "aggr": 0.027,
+   "truth": null,
+   "ax": 1.056,
+   "ay": 0.112,
+   "gz": -0.126
+  },
+  {
+   "t": 195.0,
+   "pred": "Normal cruising",
+   "conf": 0.717,
+   "aggr": 0.033,
+   "truth": null,
+   "ax": 0.851,
+   "ay": 0.346,
+   "gz": -0.114
+  },
+  {
+   "t": 195.5,
+   "pred": "Normal cruising",
+   "conf": 0.737,
+   "aggr": 0.01,
+   "truth": null,
+   "ax": -0.339,
+   "ay": -1.088,
+   "gz": -0.026
+  },
+  {
+   "t": 196.0,
+   "pred": "Normal cruising",
+   "conf": 0.757,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": 0.507,
+   "ay": 0.052,
+   "gz": 0.08
+  },
+  {
+   "t": 196.5,
+   "pred": "Normal cruising",
+   "conf": 0.727,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": 0.002,
+   "ay": 0.777,
+   "gz": 0.129
+  },
+  {
+   "t": 197.0,
+   "pred": "Normal cruising",
+   "conf": 0.697,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.13,
+   "ay": 0.15,
+   "gz": 0.153
+  },
+  {
+   "t": 197.5,
+   "pred": "Normal cruising",
+   "conf": 0.67,
+   "aggr": 0.007,
+   "truth": null,
+   "ax": -0.108,
+   "ay": 0.856,
+   "gz": 0.089
+  },
+  {
+   "t": 198.0,
+   "pred": "Normal cruising",
+   "conf": 0.78,
+   "aggr": 0.017,
+   "truth": null,
+   "ax": -0.203,
+   "ay": 0.614,
+   "gz": 0.052
+  },
+  {
+   "t": 198.5,
+   "pred": "Normal cruising",
+   "conf": 0.777,
+   "aggr": 0.007,
+   "truth": null,
+   "ax": 0.499,
+   "ay": 1.12,
+   "gz": -0.03
+  },
+  {
+   "t": 199.0,
+   "pred": "Normal cruising",
+   "conf": 0.82,
+   "aggr": 0.007,
+   "truth": null,
+   "ax": -0.255,
+   "ay": 0.416,
+   "gz": -0.027
+  },
+  {
+   "t": 199.5,
+   "pred": "Normal cruising",
+   "conf": 0.77,
+   "aggr": 0.02,
+   "truth": null,
+   "ax": 0.513,
+   "ay": 0.758,
+   "gz": -0.013
+  },
+  {
+   "t": 200.0,
+   "pred": "Normal cruising",
+   "conf": 0.753,
+   "aggr": 0.007,
+   "truth": null,
+   "ax": -0.216,
+   "ay": 0.129,
+   "gz": 0.007
+  },
+  {
+   "t": 200.5,
+   "pred": "Normal cruising",
+   "conf": 0.76,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.099,
+   "ay": -0.028,
+   "gz": -0.014
+  },
+  {
+   "t": 201.0,
+   "pred": "Normal cruising",
+   "conf": 0.813,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": 0.169,
+   "ay": 0.052,
+   "gz": 0.013
+  },
+  {
+   "t": 201.5,
+   "pred": "Normal cruising",
+   "conf": 0.823,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.318,
+   "ay": -0.074,
+   "gz": 0.032
+  },
+  {
+   "t": 202.0,
+   "pred": "Normal cruising",
+   "conf": 0.747,
+   "aggr": 0.013,
+   "truth": null,
+   "ax": 0.385,
+   "ay": -0.234,
+   "gz": -0.045
+  },
+  {
+   "t": 202.5,
+   "pred": "Normal cruising",
+   "conf": 0.707,
+   "aggr": 0.01,
+   "truth": null,
+   "ax": 0.181,
+   "ay": -0.326,
+   "gz": -0.021
+  },
+  {
+   "t": 203.0,
+   "pred": "Normal cruising",
+   "conf": 0.817,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.171,
+   "ay": -0.153,
+   "gz": 0.007
+  },
+  {
+   "t": 203.5,
+   "pred": "Normal cruising",
+   "conf": 0.913,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.242,
+   "ay": 0.005,
+   "gz": -0.008
+  },
+  {
+   "t": 204.0,
+   "pred": "Normal cruising",
+   "conf": 0.75,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.046,
+   "ay": 0.016,
+   "gz": -0.001
+  },
+  {
+   "t": 204.5,
+   "pred": "Normal cruising",
+   "conf": 0.563,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.06,
+   "ay": 0.026,
+   "gz": 0.005
+  },
+  {
+   "t": 205.0,
+   "pred": "Non-aggressive",
+   "conf": 0.503,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.396,
+   "ay": 0.262,
+   "gz": 0.013
+  },
+  {
+   "t": 205.5,
+   "pred": "Normal cruising",
+   "conf": 0.51,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.307,
+   "ay": 0.287,
+   "gz": 0.003
+  },
+  {
+   "t": 206.0,
+   "pred": "Normal cruising",
+   "conf": 0.787,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.21,
+   "ay": 0.133,
+   "gz": 0.001
+  },
+  {
+   "t": 206.5,
+   "pred": "Normal cruising",
+   "conf": 0.92,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.077,
+   "ay": 0.049,
+   "gz": 0.002
+  },
+  {
+   "t": 207.0,
+   "pred": "Normal cruising",
+   "conf": 0.953,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.013,
+   "ay": 0.061,
+   "gz": 0.001
+  },
+  {
+   "t": 207.5,
+   "pred": "Normal cruising",
+   "conf": 0.873,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.048,
+   "ay": -0.019,
+   "gz": 0.005
+  },
+  {
+   "t": 208.0,
+   "pred": "Normal cruising",
+   "conf": 0.587,
+   "aggr": 0.033,
+   "truth": null,
+   "ax": -0.065,
+   "ay": 0.239,
+   "gz": -0.006
+  },
+  {
+   "t": 208.5,
+   "pred": "Normal cruising",
+   "conf": 0.557,
+   "aggr": 0.04,
+   "truth": null,
+   "ax": -0.713,
+   "ay": 0.567,
+   "gz": -0.003
+  },
+  {
+   "t": 209.0,
+   "pred": "Non-aggressive",
+   "conf": 0.52,
+   "aggr": 0.057,
+   "truth": null,
+   "ax": -1.403,
+   "ay": 0.982,
+   "gz": -0.01
+  },
+  {
+   "t": 209.5,
+   "pred": "Non-aggressive",
+   "conf": 0.523,
+   "aggr": 0.08,
+   "truth": null,
+   "ax": -1.176,
+   "ay": 0.941,
+   "gz": -0.018
+  },
+  {
+   "t": 210.0,
+   "pred": "Non-aggressive",
+   "conf": 0.61,
+   "aggr": 0.083,
+   "truth": null,
+   "ax": -0.405,
+   "ay": 0.484,
+   "gz": -0.0
+  },
+  {
+   "t": 210.5,
+   "pred": "Non-aggressive",
+   "conf": 0.503,
+   "aggr": 0.153,
+   "truth": null,
+   "ax": 0.098,
+   "ay": -0.126,
+   "gz": 0.004
+  },
+  {
+   "t": 211.0,
+   "pred": "Normal cruising",
+   "conf": 0.343,
+   "aggr": 0.34,
+   "truth": null,
+   "ax": 0.24,
+   "ay": 0.201,
+   "gz": 0.004
+  },
+  {
+   "t": 211.5,
+   "pred": "Normal cruising",
+   "conf": 0.39,
+   "aggr": 0.387,
+   "truth": null,
+   "ax": 0.033,
+   "ay": -0.54,
+   "gz": 0.015
+  },
+  {
+   "t": 212.0,
+   "pred": "Normal cruising",
+   "conf": 0.547,
+   "aggr": 0.273,
+   "truth": null,
+   "ax": 0.188,
+   "ay": -1.356,
+   "gz": 0.013
+  },
+  {
+   "t": 212.5,
+   "pred": "Non-aggressive",
+   "conf": 0.377,
+   "aggr": 0.277,
+   "truth": null,
+   "ax": 1.345,
+   "ay": -0.232,
+   "gz": 0.078
+  },
+  {
+   "t": 213.0,
+   "pred": "Non-aggressive",
+   "conf": 0.373,
+   "aggr": 0.263,
+   "truth": null,
+   "ax": 1.263,
+   "ay": 0.55,
+   "gz": -0.126
+  },
+  {
+   "t": 213.5,
+   "pred": "Normal cruising",
+   "conf": 0.42,
+   "aggr": 0.2,
+   "truth": null,
+   "ax": -1.197,
+   "ay": -1.973,
+   "gz": 0.194
+  },
+  {
+   "t": 214.0,
+   "pred": "Non-aggressive",
+   "conf": 0.413,
+   "aggr": 0.19,
+   "truth": null,
+   "ax": 1.222,
+   "ay": -0.111,
+   "gz": 0.019
+  },
+  {
+   "t": 214.5,
+   "pred": "Normal cruising",
+   "conf": 0.55,
+   "aggr": 0.093,
+   "truth": null,
+   "ax": 0.708,
+   "ay": -0.266,
+   "gz": 0.048
+  },
+  {
+   "t": 215.0,
+   "pred": "Normal cruising",
+   "conf": 0.52,
+   "aggr": 0.117,
+   "truth": null,
+   "ax": 0.07,
+   "ay": -0.528,
+   "gz": 0.037
+  },
+  {
+   "t": 215.5,
+   "pred": "Normal cruising",
+   "conf": 0.51,
+   "aggr": 0.087,
+   "truth": null,
+   "ax": 2.642,
+   "ay": -1.676,
+   "gz": 0.124
+  },
+  {
+   "t": 216.0,
+   "pred": "Normal cruising",
+   "conf": 0.453,
+   "aggr": 0.143,
+   "truth": null,
+   "ax": -0.279,
+   "ay": -0.564,
+   "gz": -0.02
+  },
+  {
+   "t": 216.5,
+   "pred": "Non-aggressive",
+   "conf": 0.53,
+   "aggr": 0.117,
+   "truth": null,
+   "ax": -0.401,
+   "ay": -0.468,
+   "gz": 0.054
+  },
+  {
+   "t": 217.0,
+   "pred": "Normal cruising",
+   "conf": 0.77,
+   "aggr": 0.063,
+   "truth": null,
+   "ax": -1.273,
+   "ay": -0.101,
+   "gz": 0.028
+  },
+  {
+   "t": 217.5,
+   "pred": "Normal cruising",
+   "conf": 0.737,
+   "aggr": 0.067,
+   "truth": null,
+   "ax": 0.688,
+   "ay": 0.046,
+   "gz": -0.012
+  },
+  {
+   "t": 218.0,
+   "pred": "Non-aggressive",
+   "conf": 0.463,
+   "aggr": 0.107,
+   "truth": null,
+   "ax": -0.083,
+   "ay": -0.449,
+   "gz": 0.082
+  },
+  {
+   "t": 218.5,
+   "pred": "Non-aggressive",
+   "conf": 0.55,
+   "aggr": 0.2,
+   "truth": null,
+   "ax": 2.193,
+   "ay": 1.25,
+   "gz": 0.01
+  },
+  {
+   "t": 219.0,
+   "pred": "Non-aggressive",
+   "conf": 0.427,
+   "aggr": 0.253,
+   "truth": null,
+   "ax": 0.954,
+   "ay": 0.588,
+   "gz": -0.16
+  },
+  {
+   "t": 219.5,
+   "pred": "Aggressive right turn",
+   "conf": 0.68,
+   "aggr": 0.793,
+   "truth": "Aggressive right turn",
+   "ax": 1.607,
+   "ay": 0.939,
+   "gz": -0.345
+  },
+  {
+   "t": 220.0,
+   "pred": "Aggressive right turn",
+   "conf": 0.983,
+   "aggr": 0.993,
+   "truth": "Aggressive right turn",
+   "ax": 2.469,
+   "ay": 2.57,
+   "gz": -0.413
+  },
+  {
+   "t": 220.5,
+   "pred": "Aggressive right turn",
+   "conf": 0.997,
+   "aggr": 1.0,
+   "truth": "Aggressive right turn",
+   "ax": 3.087,
+   "ay": 3.031,
+   "gz": -0.776
+  },
+  {
+   "t": 221.0,
+   "pred": "Aggressive right turn",
+   "conf": 0.99,
+   "aggr": 0.997,
+   "truth": "Aggressive right turn",
+   "ax": -0.774,
+   "ay": 0.975,
+   "gz": -0.715
+  },
+  {
+   "t": 221.5,
+   "pred": "Aggressive right turn",
+   "conf": 0.993,
+   "aggr": 0.993,
+   "truth": "Aggressive right turn",
+   "ax": 1.545,
+   "ay": -1.85,
+   "gz": -0.871
+  },
+  {
+   "t": 222.0,
+   "pred": "Aggressive right turn",
+   "conf": 0.967,
+   "aggr": 0.973,
+   "truth": "Aggressive right turn",
+   "ax": 0.386,
+   "ay": -0.352,
+   "gz": -0.539
+  },
+  {
+   "t": 222.5,
+   "pred": "Aggressive right turn",
+   "conf": 0.93,
+   "aggr": 0.973,
+   "truth": "Aggressive right turn",
+   "ax": -1.837,
+   "ay": -0.275,
+   "gz": -0.231
+  },
+  {
+   "t": 223.0,
+   "pred": "Aggressive right turn",
+   "conf": 0.897,
+   "aggr": 0.967,
+   "truth": "Aggressive right turn",
+   "ax": 0.848,
+   "ay": 1.199,
+   "gz": -0.451
+  },
+  {
+   "t": 223.5,
+   "pred": "Aggressive right turn",
+   "conf": 0.73,
+   "aggr": 0.863,
+   "truth": "Aggressive right turn",
+   "ax": -3.903,
+   "ay": -1.524,
+   "gz": -0.329
+  },
+  {
+   "t": 224.0,
+   "pred": "Non-aggressive",
+   "conf": 0.307,
+   "aggr": 0.547,
+   "truth": null,
+   "ax": -2.329,
+   "ay": -0.061,
+   "gz": -0.009
+  },
+  {
+   "t": 224.5,
+   "pred": "Non-aggressive",
+   "conf": 0.363,
+   "aggr": 0.353,
+   "truth": null,
+   "ax": -1.783,
+   "ay": 0.201,
+   "gz": -0.04
+  },
+  {
+   "t": 225.0,
+   "pred": "Normal cruising",
+   "conf": 0.523,
+   "aggr": 0.247,
+   "truth": null,
+   "ax": -1.059,
+   "ay": -0.526,
+   "gz": 0.073
+  },
+  {
+   "t": 225.5,
+   "pred": "Non-aggressive",
+   "conf": 0.407,
+   "aggr": 0.303,
+   "truth": null,
+   "ax": -1.022,
+   "ay": 0.916,
+   "gz": 0.009
+  },
+  {
+   "t": 226.0,
+   "pred": "Normal cruising",
+   "conf": 0.327,
+   "aggr": 0.4,
+   "truth": null,
+   "ax": 0.983,
+   "ay": 0.209,
+   "gz": -0.041
+  },
+  {
+   "t": 226.5,
+   "pred": "Normal cruising",
+   "conf": 0.36,
+   "aggr": 0.367,
+   "truth": null,
+   "ax": -1.275,
+   "ay": 1.134,
+   "gz": -0.02
+  },
+  {
+   "t": 227.0,
+   "pred": "Normal cruising",
+   "conf": 0.4,
+   "aggr": 0.35,
+   "truth": null,
+   "ax": -2.624,
+   "ay": 1.372,
+   "gz": -0.201
+  },
+  {
+   "t": 227.5,
+   "pred": "Normal cruising",
+   "conf": 0.317,
+   "aggr": 0.523,
+   "truth": null,
+   "ax": 1.478,
+   "ay": 2.48,
+   "gz": -0.029
+  },
+  {
+   "t": 228.0,
+   "pred": "Normal cruising",
+   "conf": 0.317,
+   "aggr": 0.39,
+   "truth": null,
+   "ax": 1.72,
+   "ay": 1.618,
+   "gz": 0.065
+  },
+  {
+   "t": 228.5,
+   "pred": "Normal cruising",
+   "conf": 0.387,
+   "aggr": 0.387,
+   "truth": null,
+   "ax": 0.893,
+   "ay": -0.107,
+   "gz": -0.22
+  },
+  {
+   "t": 229.0,
+   "pred": "Normal cruising",
+   "conf": 0.32,
+   "aggr": 0.37,
+   "truth": null,
+   "ax": 0.466,
+   "ay": -0.595,
+   "gz": 0.092
+  },
+  {
+   "t": 229.5,
+   "pred": "Normal cruising",
+   "conf": 0.407,
+   "aggr": 0.273,
+   "truth": null,
+   "ax": 0.928,
+   "ay": -0.178,
+   "gz": 0.046
+  },
+  {
+   "t": 230.0,
+   "pred": "Normal cruising",
+   "conf": 0.363,
+   "aggr": 0.307,
+   "truth": null,
+   "ax": -0.949,
+   "ay": 0.335,
+   "gz": 0.208
+  },
+  {
+   "t": 230.5,
+   "pred": "Non-aggressive",
+   "conf": 0.337,
+   "aggr": 0.367,
+   "truth": null,
+   "ax": -1.016,
+   "ay": 0.544,
+   "gz": 0.046
+  },
+  {
+   "t": 231.0,
+   "pred": "Normal cruising",
+   "conf": 0.33,
+   "aggr": 0.353,
+   "truth": null,
+   "ax": -0.032,
+   "ay": -1.587,
+   "gz": 0.079
+  },
+  {
+   "t": 231.5,
+   "pred": "Non-aggressive",
+   "conf": 0.35,
+   "aggr": 0.373,
+   "truth": null,
+   "ax": 1.761,
+   "ay": -0.456,
+   "gz": 0.094
+  },
+  {
+   "t": 232.0,
+   "pred": "Non-aggressive",
+   "conf": 0.31,
+   "aggr": 0.51,
+   "truth": null,
+   "ax": -0.494,
+   "ay": -1.44,
+   "gz": -0.177
+  },
+  {
+   "t": 232.5,
+   "pred": "Aggressive right turn",
+   "conf": 0.75,
+   "aggr": 0.92,
+   "truth": null,
+   "ax": 1.579,
+   "ay": 0.69,
+   "gz": 0.105
+  },
+  {
+   "t": 233.0,
+   "pred": "Aggressive right turn",
+   "conf": 0.983,
+   "aggr": 0.993,
+   "truth": "Aggressive right turn",
+   "ax": 3.755,
+   "ay": 0.033,
+   "gz": -0.38
+  },
+  {
+   "t": 233.5,
+   "pred": "Aggressive right turn",
+   "conf": 0.993,
+   "aggr": 1.0,
+   "truth": "Aggressive right turn",
+   "ax": 1.226,
+   "ay": 1.124,
+   "gz": -0.381
+  },
+  {
+   "t": 234.0,
+   "pred": "Aggressive right turn",
+   "conf": 0.997,
+   "aggr": 0.997,
+   "truth": "Aggressive right turn",
+   "ax": -1.988,
+   "ay": -2.685,
+   "gz": -0.477
+  },
+  {
+   "t": 234.5,
+   "pred": "Aggressive right turn",
+   "conf": 0.94,
+   "aggr": 0.94,
+   "truth": "Aggressive right turn",
+   "ax": 0.061,
+   "ay": -2.335,
+   "gz": -0.352
+  },
+  {
+   "t": 235.0,
+   "pred": "Aggressive right turn",
+   "conf": 0.967,
+   "aggr": 0.99,
+   "truth": "Aggressive right turn",
+   "ax": -1.554,
+   "ay": -1.764,
+   "gz": -0.522
+  },
+  {
+   "t": 235.5,
+   "pred": "Aggressive right turn",
+   "conf": 0.973,
+   "aggr": 0.987,
+   "truth": "Aggressive right turn",
+   "ax": -1.946,
+   "ay": -0.849,
+   "gz": -0.356
+  },
+  {
+   "t": 236.0,
+   "pred": "Aggressive right turn",
+   "conf": 0.87,
+   "aggr": 0.957,
+   "truth": "Aggressive right turn",
+   "ax": -4.155,
+   "ay": 3.136,
+   "gz": 0.03
+  },
+  {
+   "t": 236.5,
+   "pred": "Aggressive braking",
+   "conf": 0.21,
+   "aggr": 0.727,
+   "truth": "Aggressive right turn",
+   "ax": -2.007,
+   "ay": 3.078,
+   "gz": 0.01
+  },
+  {
+   "t": 237.0,
+   "pred": "Aggressive braking",
+   "conf": 0.283,
+   "aggr": 0.593,
+   "truth": null,
+   "ax": -1.457,
+   "ay": 2.592,
+   "gz": -0.051
+  },
+  {
+   "t": 237.5,
+   "pred": "Normal cruising",
+   "conf": 0.313,
+   "aggr": 0.473,
+   "truth": null,
+   "ax": -1.162,
+   "ay": 0.753,
+   "gz": -0.082
+  },
+  {
+   "t": 238.0,
+   "pred": "Normal cruising",
+   "conf": 0.42,
+   "aggr": 0.26,
+   "truth": null,
+   "ax": -0.436,
+   "ay": 1.631,
+   "gz": 0.015
+  },
+  {
+   "t": 238.5,
+   "pred": "Normal cruising",
+   "conf": 0.52,
+   "aggr": 0.17,
+   "truth": null,
+   "ax": -0.328,
+   "ay": 1.528,
+   "gz": 0.035
+  },
+  {
+   "t": 239.0,
+   "pred": "Normal cruising",
+   "conf": 0.547,
+   "aggr": 0.123,
+   "truth": null,
+   "ax": -0.849,
+   "ay": 0.574,
+   "gz": 0.022
+  },
+  {
+   "t": 239.5,
+   "pred": "Normal cruising",
+   "conf": 0.623,
+   "aggr": 0.127,
+   "truth": null,
+   "ax": 0.001,
+   "ay": -1.646,
+   "gz": -0.128
+  },
+  {
+   "t": 240.0,
+   "pred": "Normal cruising",
+   "conf": 0.513,
+   "aggr": 0.207,
+   "truth": null,
+   "ax": 0.998,
+   "ay": -1.011,
+   "gz": -0.12
+  },
+  {
+   "t": 240.5,
+   "pred": "Non-aggressive",
+   "conf": 0.413,
+   "aggr": 0.237,
+   "truth": null,
+   "ax": 0.367,
+   "ay": -0.254,
+   "gz": -0.004
+  },
+  {
+   "t": 241.0,
+   "pred": "Non-aggressive",
+   "conf": 0.507,
+   "aggr": 0.22,
+   "truth": null,
+   "ax": 0.938,
+   "ay": -0.222,
+   "gz": 0.014
+  },
+  {
+   "t": 241.5,
+   "pred": "Non-aggressive",
+   "conf": 0.447,
+   "aggr": 0.277,
+   "truth": null,
+   "ax": -0.129,
+   "ay": -2.05,
+   "gz": -0.129
+  },
+  {
+   "t": 242.0,
+   "pred": "Non-aggressive",
+   "conf": 0.417,
+   "aggr": 0.277,
+   "truth": null,
+   "ax": -0.23,
+   "ay": -0.548,
+   "gz": 0.171
+  },
+  {
+   "t": 242.5,
+   "pred": "Non-aggressive",
+   "conf": 0.397,
+   "aggr": 0.273,
+   "truth": null,
+   "ax": 0.537,
+   "ay": 0.279,
+   "gz": 0.015
+  },
+  {
+   "t": 243.0,
+   "pred": "Normal cruising",
+   "conf": 0.403,
+   "aggr": 0.283,
+   "truth": null,
+   "ax": 0.754,
+   "ay": 0.62,
+   "gz": 0.076
+  },
+  {
+   "t": 243.5,
+   "pred": "Normal cruising",
+   "conf": 0.663,
+   "aggr": 0.16,
+   "truth": null,
+   "ax": 0.709,
+   "ay": -0.349,
+   "gz": 0.0
+  },
+  {
+   "t": 244.0,
+   "pred": "Normal cruising",
+   "conf": 0.717,
+   "aggr": 0.073,
+   "truth": null,
+   "ax": 0.461,
+   "ay": -0.158,
+   "gz": -0.095
+  },
+  {
+   "t": 244.5,
+   "pred": "Normal cruising",
+   "conf": 0.727,
+   "aggr": 0.033,
+   "truth": null,
+   "ax": 0.707,
+   "ay": -0.343,
+   "gz": -0.04
+  },
+  {
+   "t": 245.0,
+   "pred": "Normal cruising",
+   "conf": 0.683,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": 0.367,
+   "ay": 0.027,
+   "gz": 0.039
+  },
+  {
+   "t": 245.5,
+   "pred": "Normal cruising",
+   "conf": 0.667,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": 0.313,
+   "ay": -0.607,
+   "gz": 0.044
+  },
+  {
+   "t": 246.0,
+   "pred": "Normal cruising",
+   "conf": 0.783,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": 0.175,
+   "ay": -0.166,
+   "gz": 0.001
+  },
+  {
+   "t": 246.5,
+   "pred": "Normal cruising",
+   "conf": 0.893,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.142,
+   "ay": 0.026,
+   "gz": 0.018
+  },
+  {
+   "t": 247.0,
+   "pred": "Normal cruising",
+   "conf": 0.68,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": 0.366,
+   "ay": -0.112,
+   "gz": -0.02
+  },
+  {
+   "t": 247.5,
+   "pred": "Normal cruising",
+   "conf": 0.623,
+   "aggr": 0.02,
+   "truth": null,
+   "ax": 0.58,
+   "ay": 0.087,
+   "gz": 0.013
+  },
+  {
+   "t": 248.0,
+   "pred": "Normal cruising",
+   "conf": 0.59,
+   "aggr": 0.017,
+   "truth": null,
+   "ax": 1.372,
+   "ay": 0.253,
+   "gz": 0.014
+  },
+  {
+   "t": 248.5,
+   "pred": "Normal cruising",
+   "conf": 0.617,
+   "aggr": 0.013,
+   "truth": null,
+   "ax": 0.89,
+   "ay": 0.237,
+   "gz": 0.002
+  },
+  {
+   "t": 249.0,
+   "pred": "Normal cruising",
+   "conf": 0.67,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": 0.537,
+   "ay": 0.091,
+   "gz": 0.001
+  },
+  {
+   "t": 249.5,
+   "pred": "Normal cruising",
+   "conf": 0.797,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": 0.223,
+   "ay": 0.1,
+   "gz": 0.004
+  },
+  {
+   "t": 250.0,
+   "pred": "Normal cruising",
+   "conf": 0.88,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.006,
+   "ay": -0.037,
+   "gz": 0.007
+  },
+  {
+   "t": 250.5,
+   "pred": "Normal cruising",
+   "conf": 0.947,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.031,
+   "ay": -0.007,
+   "gz": 0.015
+  },
+  {
+   "t": 251.0,
+   "pred": "Normal cruising",
+   "conf": 0.977,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.179,
+   "ay": -0.006,
+   "gz": 0.009
+  },
+  {
+   "t": 251.5,
+   "pred": "Normal cruising",
+   "conf": 0.95,
+   "aggr": 0.007,
+   "truth": null,
+   "ax": -0.153,
+   "ay": -0.067,
+   "gz": 0.003
+  },
+  {
+   "t": 252.0,
+   "pred": "Normal cruising",
+   "conf": 0.847,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.191,
+   "ay": -0.053,
+   "gz": 0.003
+  },
+  {
+   "t": 252.5,
+   "pred": "Normal cruising",
+   "conf": 0.817,
+   "aggr": 0.007,
+   "truth": null,
+   "ax": -0.34,
+   "ay": -0.155,
+   "gz": -0.013
+  },
+  {
+   "t": 253.0,
+   "pred": "Normal cruising",
+   "conf": 0.853,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.406,
+   "ay": -0.14,
+   "gz": -0.002
+  },
+  {
+   "t": 253.5,
+   "pred": "Normal cruising",
+   "conf": 0.867,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.479,
+   "ay": -0.193,
+   "gz": 0.0
+  },
+  {
+   "t": 254.0,
+   "pred": "Normal cruising",
+   "conf": 0.857,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.318,
+   "ay": -0.177,
+   "gz": -0.001
+  },
+  {
+   "t": 254.5,
+   "pred": "Normal cruising",
+   "conf": 0.857,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.278,
+   "ay": -0.075,
+   "gz": 0.013
+  },
+  {
+   "t": 255.0,
+   "pred": "Normal cruising",
+   "conf": 0.85,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.353,
+   "ay": -0.158,
+   "gz": -0.002
+  },
+  {
+   "t": 255.5,
+   "pred": "Normal cruising",
+   "conf": 0.88,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.443,
+   "ay": -0.163,
+   "gz": -0.007
+  },
+  {
+   "t": 256.0,
+   "pred": "Normal cruising",
+   "conf": 0.897,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.219,
+   "ay": -0.149,
+   "gz": -0.003
+  },
+  {
+   "t": 256.5,
+   "pred": "Normal cruising",
+   "conf": 0.92,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.283,
+   "ay": -0.067,
+   "gz": -0.003
+  },
+  {
+   "t": 257.0,
+   "pred": "Normal cruising",
+   "conf": 0.967,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.118,
+   "ay": -0.049,
+   "gz": 0.006
+  },
+  {
+   "t": 257.5,
+   "pred": "Normal cruising",
+   "conf": 0.967,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.115,
+   "ay": -0.058,
+   "gz": 0.003
+  },
+  {
+   "t": 258.0,
+   "pred": "Normal cruising",
+   "conf": 0.983,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.197,
+   "ay": -0.107,
+   "gz": -0.009
+  },
+  {
+   "t": 258.5,
+   "pred": "Normal cruising",
+   "conf": 0.99,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.229,
+   "ay": -0.1,
+   "gz": -0.002
+  },
+  {
+   "t": 259.0,
+   "pred": "Normal cruising",
+   "conf": 0.993,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.096,
+   "ay": -0.076,
+   "gz": -0.003
+  },
+  {
+   "t": 259.5,
+   "pred": "Normal cruising",
+   "conf": 0.99,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.033,
+   "ay": 0.081,
+   "gz": 0.005
+  },
+  {
+   "t": 260.0,
+   "pred": "Normal cruising",
+   "conf": 0.977,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.094,
+   "ay": -0.037,
+   "gz": 0.006
+  },
+  {
+   "t": 260.5,
+   "pred": "Normal cruising",
+   "conf": 0.903,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.033,
+   "ay": -0.032,
+   "gz": -0.003
+  },
+  {
+   "t": 261.0,
+   "pred": "Normal cruising",
+   "conf": 0.92,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": 0.36,
+   "ay": 0.176,
+   "gz": 0.012
+  },
+  {
+   "t": 261.5,
+   "pred": "Normal cruising",
+   "conf": 0.95,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.078,
+   "ay": -0.02,
+   "gz": -0.004
+  },
+  {
+   "t": 262.0,
+   "pred": "Normal cruising",
+   "conf": 0.963,
+   "aggr": 0.01,
+   "truth": null,
+   "ax": 0.159,
+   "ay": 0.037,
+   "gz": -0.017
+  },
+  {
+   "t": 262.5,
+   "pred": "Normal cruising",
+   "conf": 0.757,
+   "aggr": 0.02,
+   "truth": null,
+   "ax": -0.052,
+   "ay": 0.015,
+   "gz": -0.006
+  },
+  {
+   "t": 263.0,
+   "pred": "Normal cruising",
+   "conf": 0.583,
+   "aggr": 0.023,
+   "truth": null,
+   "ax": 0.012,
+   "ay": 0.041,
+   "gz": -0.004
+  },
+  {
+   "t": 263.5,
+   "pred": "Normal cruising",
+   "conf": 0.523,
+   "aggr": 0.037,
+   "truth": null,
+   "ax": 1.147,
+   "ay": 0.466,
+   "gz": 0.006
+  },
+  {
+   "t": 264.0,
+   "pred": "Normal cruising",
+   "conf": 0.62,
+   "aggr": 0.017,
+   "truth": null,
+   "ax": 0.48,
+   "ay": 0.252,
+   "gz": -0.019
+  },
+  {
+   "t": 264.5,
+   "pred": "Normal cruising",
+   "conf": 0.64,
+   "aggr": 0.007,
+   "truth": null,
+   "ax": 0.148,
+   "ay": 0.03,
+   "gz": -0.014
+  },
+  {
+   "t": 265.0,
+   "pred": "Normal cruising",
+   "conf": 0.783,
+   "aggr": 0.007,
+   "truth": null,
+   "ax": -0.237,
+   "ay": 0.076,
+   "gz": -0.028
+  },
+  {
+   "t": 265.5,
+   "pred": "Normal cruising",
+   "conf": 0.783,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.26,
+   "ay": -0.487,
+   "gz": -0.014
+  },
+  {
+   "t": 266.0,
+   "pred": "Normal cruising",
+   "conf": 0.883,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.484,
+   "ay": 0.226,
+   "gz": -0.01
+  },
+  {
+   "t": 266.5,
+   "pred": "Normal cruising",
+   "conf": 0.727,
+   "aggr": 0.017,
+   "truth": null,
+   "ax": -1.397,
+   "ay": -0.727,
+   "gz": -0.03
+  },
+  {
+   "t": 267.0,
+   "pred": "Normal cruising",
+   "conf": 0.75,
+   "aggr": 0.037,
+   "truth": null,
+   "ax": -0.99,
+   "ay": -0.597,
+   "gz": 0.051
+  },
+  {
+   "t": 267.5,
+   "pred": "Normal cruising",
+   "conf": 0.673,
+   "aggr": 0.137,
+   "truth": null,
+   "ax": -0.111,
+   "ay": -0.056,
+   "gz": -0.059
+  },
+  {
+   "t": 268.0,
+   "pred": "Normal cruising",
+   "conf": 0.687,
+   "aggr": 0.117,
+   "truth": null,
+   "ax": -0.272,
+   "ay": -0.845,
+   "gz": -0.018
+  },
+  {
+   "t": 268.5,
+   "pred": "Normal cruising",
+   "conf": 0.597,
+   "aggr": 0.143,
+   "truth": null,
+   "ax": 0.573,
+   "ay": -0.226,
+   "gz": 0.172
+  },
+  {
+   "t": 269.0,
+   "pred": "Normal cruising",
+   "conf": 0.567,
+   "aggr": 0.053,
+   "truth": null,
+   "ax": 0.034,
+   "ay": 0.943,
+   "gz": 0.061
+  },
+  {
+   "t": 269.5,
+   "pred": "Normal cruising",
+   "conf": 0.54,
+   "aggr": 0.063,
+   "truth": null,
+   "ax": 0.37,
+   "ay": 0.605,
+   "gz": -0.156
+  },
+  {
+   "t": 270.0,
+   "pred": "Non-aggressive",
+   "conf": 0.453,
+   "aggr": 0.22,
+   "truth": null,
+   "ax": -0.522,
+   "ay": 0.012,
+   "gz": 0.029
+  },
+  {
+   "t": 270.5,
+   "pred": "Non-aggressive",
+   "conf": 0.46,
+   "aggr": 0.2,
+   "truth": null,
+   "ax": 0.995,
+   "ay": 0.608,
+   "gz": -0.045
+  },
+  {
+   "t": 271.0,
+   "pred": "Normal cruising",
+   "conf": 0.453,
+   "aggr": 0.243,
+   "truth": null,
+   "ax": 0.564,
+   "ay": -2.177,
+   "gz": -0.242
+  },
+  {
+   "t": 271.5,
+   "pred": "Normal cruising",
+   "conf": 0.503,
+   "aggr": 0.253,
+   "truth": null,
+   "ax": 0.385,
+   "ay": -0.224,
+   "gz": -0.524
+  },
+  {
+   "t": 272.0,
+   "pred": "Normal cruising",
+   "conf": 0.597,
+   "aggr": 0.113,
+   "truth": null,
+   "ax": -1.454,
+   "ay": -1.403,
+   "gz": -0.769
+  },
+  {
+   "t": 272.5,
+   "pred": "Non-aggressive",
+   "conf": 0.41,
+   "aggr": 0.183,
+   "truth": null,
+   "ax": -0.277,
+   "ay": 0.995,
+   "gz": -0.695
+  },
+  {
+   "t": 273.0,
+   "pred": "Normal cruising",
+   "conf": 0.453,
+   "aggr": 0.253,
+   "truth": null,
+   "ax": 0.287,
+   "ay": 0.503,
+   "gz": -0.623
+  },
+  {
+   "t": 273.5,
+   "pred": "Normal cruising",
+   "conf": 0.433,
+   "aggr": 0.18,
+   "truth": null,
+   "ax": 1.143,
+   "ay": -1.021,
+   "gz": -0.189
+  },
+  {
+   "t": 274.0,
+   "pred": "Non-aggressive",
+   "conf": 0.49,
+   "aggr": 0.11,
+   "truth": null,
+   "ax": 0.036,
+   "ay": 0.595,
+   "gz": -0.242
+  },
+  {
+   "t": 274.5,
+   "pred": "Normal cruising",
+   "conf": 0.517,
+   "aggr": 0.1,
+   "truth": null,
+   "ax": 0.75,
+   "ay": -1.085,
+   "gz": -0.138
+  },
+  {
+   "t": 275.0,
+   "pred": "Normal cruising",
+   "conf": 0.68,
+   "aggr": 0.047,
+   "truth": null,
+   "ax": 0.726,
+   "ay": -0.745,
+   "gz": 0.015
+  },
+  {
+   "t": 275.5,
+   "pred": "Normal cruising",
+   "conf": 0.663,
+   "aggr": 0.1,
+   "truth": null,
+   "ax": -0.811,
+   "ay": 0.003,
+   "gz": -0.074
+  },
+  {
+   "t": 276.0,
+   "pred": "Normal cruising",
+   "conf": 0.723,
+   "aggr": 0.123,
+   "truth": null,
+   "ax": 0.409,
+   "ay": 0.177,
+   "gz": -0.033
+  },
+  {
+   "t": 276.5,
+   "pred": "Normal cruising",
+   "conf": 0.72,
+   "aggr": 0.09,
+   "truth": null,
+   "ax": -0.105,
+   "ay": -0.988,
+   "gz": -0.102
+  },
+  {
+   "t": 277.0,
+   "pred": "Normal cruising",
+   "conf": 0.7,
+   "aggr": 0.09,
+   "truth": null,
+   "ax": 0.142,
+   "ay": -0.887,
+   "gz": 0.247
+  },
+  {
+   "t": 277.5,
+   "pred": "Normal cruising",
+   "conf": 0.75,
+   "aggr": 0.067,
+   "truth": null,
+   "ax": 0.868,
+   "ay": -0.848,
+   "gz": 0.046
+  },
+  {
+   "t": 278.0,
+   "pred": "Normal cruising",
+   "conf": 0.78,
+   "aggr": 0.047,
+   "truth": null,
+   "ax": -0.465,
+   "ay": 0.425,
+   "gz": -0.046
+  },
+  {
+   "t": 278.5,
+   "pred": "Normal cruising",
+   "conf": 0.783,
+   "aggr": 0.05,
+   "truth": null,
+   "ax": 0.459,
+   "ay": -0.409,
+   "gz": 0.008
+  },
+  {
+   "t": 279.0,
+   "pred": "Normal cruising",
+   "conf": 0.357,
+   "aggr": 0.357,
+   "truth": null,
+   "ax": -0.36,
+   "ay": 0.175,
+   "gz": 0.052
+  },
+  {
+   "t": 279.5,
+   "pred": "Non-aggressive",
+   "conf": 0.37,
+   "aggr": 0.327,
+   "truth": null,
+   "ax": -0.582,
+   "ay": 0.208,
+   "gz": -0.018
+  },
+  {
+   "t": 280.0,
+   "pred": "Non-aggressive",
+   "conf": 0.36,
+   "aggr": 0.313,
+   "truth": null,
+   "ax": -1.747,
+   "ay": -2.611,
+   "gz": 0.109
+  },
+  {
+   "t": 280.5,
+   "pred": "Non-aggressive",
+   "conf": 0.363,
+   "aggr": 0.37,
+   "truth": null,
+   "ax": -1.811,
+   "ay": -1.338,
+   "gz": 0.052
+  },
+  {
+   "t": 281.0,
+   "pred": "Non-aggressive",
+   "conf": 0.447,
+   "aggr": 0.217,
+   "truth": null,
+   "ax": -1.351,
+   "ay": -1.415,
+   "gz": 0.002
+  },
+  {
+   "t": 281.5,
+   "pred": "Normal cruising",
+   "conf": 0.79,
+   "aggr": 0.057,
+   "truth": null,
+   "ax": 0.142,
+   "ay": -0.709,
+   "gz": 0.012
+  },
+  {
+   "t": 282.0,
+   "pred": "Normal cruising",
+   "conf": 0.893,
+   "aggr": 0.03,
+   "truth": null,
+   "ax": 0.58,
+   "ay": -1.851,
+   "gz": 0.054
+  },
+  {
+   "t": 282.5,
+   "pred": "Normal cruising",
+   "conf": 0.89,
+   "aggr": 0.023,
+   "truth": null,
+   "ax": 0.12,
+   "ay": -0.027,
+   "gz": -0.037
+  },
+  {
+   "t": 283.0,
+   "pred": "Normal cruising",
+   "conf": 0.87,
+   "aggr": 0.033,
+   "truth": null,
+   "ax": 0.628,
+   "ay": -0.292,
+   "gz": 0.046
+  },
+  {
+   "t": 283.5,
+   "pred": "Normal cruising",
+   "conf": 0.78,
+   "aggr": 0.023,
+   "truth": null,
+   "ax": -0.036,
+   "ay": -0.464,
+   "gz": 0.086
+  },
+  {
+   "t": 284.0,
+   "pred": "Normal cruising",
+   "conf": 0.733,
+   "aggr": 0.093,
+   "truth": null,
+   "ax": -0.35,
+   "ay": 0.244,
+   "gz": -0.069
+  },
+  {
+   "t": 284.5,
+   "pred": "Normal cruising",
+   "conf": 0.633,
+   "aggr": 0.103,
+   "truth": null,
+   "ax": 0.264,
+   "ay": 0.216,
+   "gz": -0.016
+  },
+  {
+   "t": 285.0,
+   "pred": "Normal cruising",
+   "conf": 0.613,
+   "aggr": 0.09,
+   "truth": null,
+   "ax": -0.435,
+   "ay": -0.179,
+   "gz": 0.018
+  },
+  {
+   "t": 285.5,
+   "pred": "Non-aggressive",
+   "conf": 0.533,
+   "aggr": 0.067,
+   "truth": null,
+   "ax": -0.85,
+   "ay": 0.787,
+   "gz": -0.035
+  },
+  {
+   "t": 286.0,
+   "pred": "Non-aggressive",
+   "conf": 0.5,
+   "aggr": 0.087,
+   "truth": null,
+   "ax": 0.438,
+   "ay": -1.254,
+   "gz": 0.108
+  },
+  {
+   "t": 286.5,
+   "pred": "Normal cruising",
+   "conf": 0.46,
+   "aggr": 0.127,
+   "truth": null,
+   "ax": 0.647,
+   "ay": 0.289,
+   "gz": -0.126
+  },
+  {
+   "t": 287.0,
+   "pred": "Non-aggressive",
+   "conf": 0.507,
+   "aggr": 0.133,
+   "truth": null,
+   "ax": 1.209,
+   "ay": 0.863,
+   "gz": -0.09
+  },
+  {
+   "t": 287.5,
+   "pred": "Non-aggressive",
+   "conf": 0.59,
+   "aggr": 0.12,
+   "truth": null,
+   "ax": -1.001,
+   "ay": 0.504,
+   "gz": -0.028
+  },
+  {
+   "t": 288.0,
+   "pred": "Non-aggressive",
+   "conf": 0.563,
+   "aggr": 0.12,
+   "truth": null,
+   "ax": -0.937,
+   "ay": 0.206,
+   "gz": -0.02
+  },
+  {
+   "t": 288.5,
+   "pred": "Non-aggressive",
+   "conf": 0.54,
+   "aggr": 0.12,
+   "truth": null,
+   "ax": 0.424,
+   "ay": 1.22,
+   "gz": 0.124
+  },
+  {
+   "t": 289.0,
+   "pred": "Normal cruising",
+   "conf": 0.647,
+   "aggr": 0.137,
+   "truth": null,
+   "ax": 0.781,
+   "ay": 0.411,
+   "gz": 0.035
+  },
+  {
+   "t": 289.5,
+   "pred": "Normal cruising",
+   "conf": 0.717,
+   "aggr": 0.103,
+   "truth": null,
+   "ax": 0.229,
+   "ay": 0.335,
+   "gz": -0.008
+  },
+  {
+   "t": 290.0,
+   "pred": "Normal cruising",
+   "conf": 0.607,
+   "aggr": 0.087,
+   "truth": null,
+   "ax": -0.809,
+   "ay": 0.417,
+   "gz": -0.017
+  },
+  {
+   "t": 290.5,
+   "pred": "Normal cruising",
+   "conf": 0.637,
+   "aggr": 0.053,
+   "truth": null,
+   "ax": -0.095,
+   "ay": -0.719,
+   "gz": 0.044
+  },
+  {
+   "t": 291.0,
+   "pred": "Normal cruising",
+   "conf": 0.667,
+   "aggr": 0.067,
+   "truth": null,
+   "ax": -0.208,
+   "ay": -0.733,
+   "gz": 0.025
+  },
+  {
+   "t": 291.5,
+   "pred": "Normal cruising",
+   "conf": 0.59,
+   "aggr": 0.03,
+   "truth": null,
+   "ax": -0.86,
+   "ay": -0.683,
+   "gz": -0.037
+  },
+  {
+   "t": 292.0,
+   "pred": "Normal cruising",
+   "conf": 0.647,
+   "aggr": 0.02,
+   "truth": null,
+   "ax": 0.1,
+   "ay": -0.954,
+   "gz": 0.028
+  },
+  {
+   "t": 292.5,
+   "pred": "Normal cruising",
+   "conf": 0.813,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.097,
+   "ay": -0.769,
+   "gz": 0.088
+  },
+  {
+   "t": 293.0,
+   "pred": "Normal cruising",
+   "conf": 0.817,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.24,
+   "ay": -0.213,
+   "gz": 0.037
+  },
+  {
+   "t": 293.5,
+   "pred": "Normal cruising",
+   "conf": 0.85,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.841,
+   "ay": 0.213,
+   "gz": -0.008
+  },
+  {
+   "t": 294.0,
+   "pred": "Normal cruising",
+   "conf": 0.79,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.232,
+   "ay": 0.098,
+   "gz": -0.063
+  },
+  {
+   "t": 294.5,
+   "pred": "Normal cruising",
+   "conf": 0.733,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.312,
+   "ay": 0.079,
+   "gz": -0.105
+  },
+  {
+   "t": 295.0,
+   "pred": "Normal cruising",
+   "conf": 0.847,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.156,
+   "ay": -0.058,
+   "gz": -0.065
+  },
+  {
+   "t": 295.5,
+   "pred": "Normal cruising",
+   "conf": 0.813,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.267,
+   "ay": -0.022,
+   "gz": -0.005
+  },
+  {
+   "t": 296.0,
+   "pred": "Normal cruising",
+   "conf": 0.87,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.05,
+   "ay": -0.255,
+   "gz": -0.01
+  },
+  {
+   "t": 296.5,
+   "pred": "Normal cruising",
+   "conf": 0.563,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.105,
+   "ay": -0.267,
+   "gz": 0.004
+  },
+  {
+   "t": 297.0,
+   "pred": "Non-aggressive",
+   "conf": 0.52,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.217,
+   "ay": -0.232,
+   "gz": 0.008
+  },
+  {
+   "t": 297.5,
+   "pred": "Non-aggressive",
+   "conf": 0.517,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.544,
+   "ay": -0.498,
+   "gz": 0.006
+  },
+  {
+   "t": 298.0,
+   "pred": "Normal cruising",
+   "conf": 0.6,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.213,
+   "ay": -0.158,
+   "gz": -0.009
+  },
+  {
+   "t": 298.5,
+   "pred": "Normal cruising",
+   "conf": 0.867,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.134,
+   "ay": -0.108,
+   "gz": -0.005
+  },
+  {
+   "t": 299.0,
+   "pred": "Normal cruising",
+   "conf": 0.897,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.013,
+   "ay": -0.028,
+   "gz": -0.003
+  },
+  {
+   "t": 299.5,
+   "pred": "Normal cruising",
+   "conf": 0.917,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.054,
+   "ay": 0.077,
+   "gz": -0.0
+  },
+  {
+   "t": 300.0,
+   "pred": "Normal cruising",
+   "conf": 0.947,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.06,
+   "ay": 0.084,
+   "gz": -0.003
+  },
+  {
+   "t": 300.5,
+   "pred": "Normal cruising",
+   "conf": 0.853,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.101,
+   "ay": 0.051,
+   "gz": -0.008
+  },
+  {
+   "t": 301.0,
+   "pred": "Normal cruising",
+   "conf": 0.847,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.083,
+   "ay": 0.003,
+   "gz": 0.009
+  },
+  {
+   "t": 301.5,
+   "pred": "Normal cruising",
+   "conf": 0.843,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.206,
+   "ay": -0.18,
+   "gz": 0.012
+  },
+  {
+   "t": 302.0,
+   "pred": "Normal cruising",
+   "conf": 0.867,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.141,
+   "ay": 0.041,
+   "gz": -0.001
+  },
+  {
+   "t": 302.5,
+   "pred": "Normal cruising",
+   "conf": 0.913,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.009,
+   "ay": -0.047,
+   "gz": 0.029
+  },
+  {
+   "t": 303.0,
+   "pred": "Normal cruising",
+   "conf": 0.827,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": 0.083,
+   "ay": 0.03,
+   "gz": 0.048
+  },
+  {
+   "t": 303.5,
+   "pred": "Normal cruising",
+   "conf": 0.81,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": 0.156,
+   "ay": 0.299,
+   "gz": 0.041
+  },
+  {
+   "t": 304.0,
+   "pred": "Normal cruising",
+   "conf": 0.747,
+   "aggr": 0.007,
+   "truth": null,
+   "ax": 0.228,
+   "ay": 0.471,
+   "gz": 0.002
+  },
+  {
+   "t": 304.5,
+   "pred": "Normal cruising",
+   "conf": 0.743,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": 0.283,
+   "ay": 0.183,
+   "gz": -0.029
+  },
+  {
+   "t": 305.0,
+   "pred": "Normal cruising",
+   "conf": 0.673,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.362,
+   "ay": 0.343,
+   "gz": -0.02
+  },
+  {
+   "t": 305.5,
+   "pred": "Normal cruising",
+   "conf": 0.647,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.353,
+   "ay": 0.402,
+   "gz": -0.022
+  },
+  {
+   "t": 306.0,
+   "pred": "Normal cruising",
+   "conf": 0.62,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.369,
+   "ay": 0.387,
+   "gz": -0.01
+  },
+  {
+   "t": 306.5,
+   "pred": "Normal cruising",
+   "conf": 0.613,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.117,
+   "ay": 0.233,
+   "gz": -0.0
+  },
+  {
+   "t": 307.0,
+   "pred": "Normal cruising",
+   "conf": 0.837,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.059,
+   "ay": 0.07,
+   "gz": -0.011
+  },
+  {
+   "t": 307.5,
+   "pred": "Normal cruising",
+   "conf": 0.877,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.145,
+   "ay": -0.091,
+   "gz": 0.009
+  },
+  {
+   "t": 308.0,
+   "pred": "Normal cruising",
+   "conf": 0.913,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.142,
+   "ay": -0.131,
+   "gz": 0.001
+  },
+  {
+   "t": 308.5,
+   "pred": "Normal cruising",
+   "conf": 0.937,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.112,
+   "ay": -0.185,
+   "gz": -0.003
+  },
+  {
+   "t": 309.0,
+   "pred": "Normal cruising",
+   "conf": 0.947,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.173,
+   "ay": -0.164,
+   "gz": 0.004
+  },
+  {
+   "t": 309.5,
+   "pred": "Normal cruising",
+   "conf": 0.957,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.133,
+   "ay": -0.117,
+   "gz": -0.005
+  },
+  {
+   "t": 310.0,
+   "pred": "Normal cruising",
+   "conf": 0.973,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.128,
+   "ay": -0.162,
+   "gz": -0.002
+  },
+  {
+   "t": 310.5,
+   "pred": "Normal cruising",
+   "conf": 0.957,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.037,
+   "ay": 0.004,
+   "gz": -0.003
+  },
+  {
+   "t": 311.0,
+   "pred": "Normal cruising",
+   "conf": 0.94,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.102,
+   "ay": -0.116,
+   "gz": 0.004
+  },
+  {
+   "t": 311.5,
+   "pred": "Normal cruising",
+   "conf": 0.943,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.0,
+   "ay": -0.002,
+   "gz": -0.002
+  },
+  {
+   "t": 312.0,
+   "pred": "Normal cruising",
+   "conf": 0.983,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.141,
+   "ay": -0.175,
+   "gz": 0.009
+  },
+  {
+   "t": 312.5,
+   "pred": "Normal cruising",
+   "conf": 0.99,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.076,
+   "ay": -0.03,
+   "gz": -0.006
+  },
+  {
+   "t": 313.0,
+   "pred": "Normal cruising",
+   "conf": 0.99,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.056,
+   "ay": -0.163,
+   "gz": -0.007
+  },
+  {
+   "t": 313.5,
+   "pred": "Normal cruising",
+   "conf": 0.983,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.011,
+   "ay": 0.003,
+   "gz": -0.001
+  },
+  {
+   "t": 314.0,
+   "pred": "Normal cruising",
+   "conf": 0.993,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.051,
+   "ay": -0.221,
+   "gz": 0.01
+  },
+  {
+   "t": 314.5,
+   "pred": "Normal cruising",
+   "conf": 0.983,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.066,
+   "ay": 0.029,
+   "gz": 0.001
+  },
+  {
+   "t": 315.0,
+   "pred": "Normal cruising",
+   "conf": 0.993,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.017,
+   "ay": -0.075,
+   "gz": 0.0
+  },
+  {
+   "t": 315.5,
+   "pred": "Normal cruising",
+   "conf": 0.997,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.021,
+   "ay": 0.042,
+   "gz": -0.0
+  },
+  {
+   "t": 316.0,
+   "pred": "Normal cruising",
+   "conf": 0.98,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.052,
+   "ay": -0.056,
+   "gz": 0.001
+  },
+  {
+   "t": 316.5,
+   "pred": "Normal cruising",
+   "conf": 0.99,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.091,
+   "ay": 0.012,
+   "gz": 0.003
+  },
+  {
+   "t": 317.0,
+   "pred": "Normal cruising",
+   "conf": 0.99,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.001,
+   "ay": -0.016,
+   "gz": -0.002
+  },
+  {
+   "t": 317.5,
+   "pred": "Normal cruising",
+   "conf": 0.987,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.033,
+   "ay": 0.017,
+   "gz": 0.013
+  },
+  {
+   "t": 318.0,
+   "pred": "Normal cruising",
+   "conf": 0.967,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.013,
+   "ay": 0.029,
+   "gz": 0.012
+  },
+  {
+   "t": 318.5,
+   "pred": "Normal cruising",
+   "conf": 0.97,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.032,
+   "ay": 0.048,
+   "gz": 0.004
+  },
+  {
+   "t": 319.0,
+   "pred": "Normal cruising",
+   "conf": 0.973,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.023,
+   "ay": 0.026,
+   "gz": -0.002
+  },
+  {
+   "t": 319.5,
+   "pred": "Normal cruising",
+   "conf": 0.993,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.095,
+   "ay": -0.076,
+   "gz": 0.005
+  },
+  {
+   "t": 320.0,
+   "pred": "Normal cruising",
+   "conf": 0.99,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.071,
+   "ay": 0.068,
+   "gz": -0.0
+  },
+  {
+   "t": 320.5,
+   "pred": "Normal cruising",
+   "conf": 0.99,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.087,
+   "ay": -0.112,
+   "gz": 0.014
+  },
+  {
+   "t": 321.0,
+   "pred": "Normal cruising",
+   "conf": 0.993,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.077,
+   "ay": 0.044,
+   "gz": 0.004
+  },
+  {
+   "t": 321.5,
+   "pred": "Normal cruising",
+   "conf": 0.997,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.041,
+   "ay": -0.084,
+   "gz": 0.008
+  },
+  {
+   "t": 322.0,
+   "pred": "Normal cruising",
+   "conf": 0.997,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.021,
+   "ay": 0.014,
+   "gz": 0.004
+  },
+  {
+   "t": 322.5,
+   "pred": "Normal cruising",
+   "conf": 0.99,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.052,
+   "ay": -0.087,
+   "gz": 0.003
+  },
+  {
+   "t": 323.0,
+   "pred": "Normal cruising",
+   "conf": 0.987,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.098,
+   "ay": -0.07,
+   "gz": -0.005
+  },
+  {
+   "t": 323.5,
+   "pred": "Normal cruising",
+   "conf": 0.983,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.016,
+   "ay": -0.1,
+   "gz": -0.002
+  },
+  {
+   "t": 324.0,
+   "pred": "Normal cruising",
+   "conf": 0.967,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.039,
+   "ay": -0.04,
+   "gz": 0.003
+  },
+  {
+   "t": 324.5,
+   "pred": "Normal cruising",
+   "conf": 0.997,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.016,
+   "ay": 0.017,
+   "gz": -0.014
+  },
+  {
+   "t": 325.0,
+   "pred": "Normal cruising",
+   "conf": 0.997,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.014,
+   "ay": 0.016,
+   "gz": 0.01
+  },
+  {
+   "t": 325.5,
+   "pred": "Normal cruising",
+   "conf": 0.987,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.006,
+   "ay": 0.038,
+   "gz": -0.06
+  },
+  {
+   "t": 326.0,
+   "pred": "Normal cruising",
+   "conf": 0.993,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.002,
+   "ay": -0.052,
+   "gz": 0.011
+  },
+  {
+   "t": 326.5,
+   "pred": "Normal cruising",
+   "conf": 0.983,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.047,
+   "ay": 0.046,
+   "gz": -0.0
+  },
+  {
+   "t": 327.0,
+   "pred": "Normal cruising",
+   "conf": 0.997,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.064,
+   "ay": -0.04,
+   "gz": 0.006
+  },
+  {
+   "t": 327.5,
+   "pred": "Normal cruising",
+   "conf": 0.993,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.076,
+   "ay": -0.071,
+   "gz": -0.0
+  },
+  {
+   "t": 328.0,
+   "pred": "Normal cruising",
+   "conf": 0.957,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.066,
+   "ay": 0.032,
+   "gz": 0.002
+  },
+  {
+   "t": 328.5,
+   "pred": "Normal cruising",
+   "conf": 0.98,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.009,
+   "ay": 0.043,
+   "gz": -0.002
+  },
+  {
+   "t": 329.0,
+   "pred": "Normal cruising",
+   "conf": 0.98,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.048,
+   "ay": 0.043,
+   "gz": -0.008
+  },
+  {
+   "t": 329.5,
+   "pred": "Normal cruising",
+   "conf": 0.973,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.054,
+   "ay": 0.088,
+   "gz": 0.001
+  },
+  {
+   "t": 330.0,
+   "pred": "Normal cruising",
+   "conf": 0.987,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.041,
+   "ay": 0.013,
+   "gz": -0.015
+  },
+  {
+   "t": 330.5,
+   "pred": "Normal cruising",
+   "conf": 0.987,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.008,
+   "ay": -0.029,
+   "gz": 0.001
+  },
+  {
+   "t": 331.0,
+   "pred": "Normal cruising",
+   "conf": 0.96,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.006,
+   "ay": 0.198,
+   "gz": -0.02
+  },
+  {
+   "t": 331.5,
+   "pred": "Normal cruising",
+   "conf": 0.903,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.052,
+   "ay": 0.141,
+   "gz": 0.003
+  },
+  {
+   "t": 332.0,
+   "pred": "Normal cruising",
+   "conf": 0.963,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.049,
+   "ay": 0.042,
+   "gz": 0.001
+  },
+  {
+   "t": 332.5,
+   "pred": "Normal cruising",
+   "conf": 0.937,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": 0.006,
+   "ay": -0.048,
+   "gz": -0.009
+  },
+  {
+   "t": 333.0,
+   "pred": "Normal cruising",
+   "conf": 0.977,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.092,
+   "ay": 0.061,
+   "gz": -0.012
+  },
+  {
+   "t": 333.5,
+   "pred": "Normal cruising",
+   "conf": 0.977,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.056,
+   "ay": 0.058,
+   "gz": -0.002
+  },
+  {
+   "t": 334.0,
+   "pred": "Normal cruising",
+   "conf": 0.987,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.01,
+   "ay": -0.049,
+   "gz": -0.0
+  },
+  {
+   "t": 334.5,
+   "pred": "Normal cruising",
+   "conf": 0.98,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.032,
+   "ay": 0.06,
+   "gz": -0.001
+  },
+  {
+   "t": 335.0,
+   "pred": "Normal cruising",
+   "conf": 0.96,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": 0.048,
+   "ay": 0.084,
+   "gz": 0.011
+  },
+  {
+   "t": 335.5,
+   "pred": "Normal cruising",
+   "conf": 0.983,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.048,
+   "ay": 0.073,
+   "gz": 0.002
+  },
+  {
+   "t": 336.0,
+   "pred": "Normal cruising",
+   "conf": 0.997,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.0,
+   "ay": -0.009,
+   "gz": -0.001
+  },
+  {
+   "t": 336.5,
+   "pred": "Normal cruising",
+   "conf": 0.977,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.017,
+   "ay": 0.065,
+   "gz": 0.003
+  },
+  {
+   "t": 337.0,
+   "pred": "Normal cruising",
+   "conf": 0.98,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.034,
+   "ay": 0.007,
+   "gz": 0.007
+  },
+  {
+   "t": 337.5,
+   "pred": "Normal cruising",
+   "conf": 0.887,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.032,
+   "ay": 0.028,
+   "gz": 0.001
+  },
+  {
+   "t": 338.0,
+   "pred": "Normal cruising",
+   "conf": 0.847,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.297,
+   "ay": -0.282,
+   "gz": -0.006
+  },
+  {
+   "t": 338.5,
+   "pred": "Normal cruising",
+   "conf": 0.893,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.053,
+   "ay": 0.01,
+   "gz": -0.003
+  },
+  {
+   "t": 339.0,
+   "pred": "Normal cruising",
+   "conf": 0.883,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.01,
+   "ay": -0.086,
+   "gz": 0.001
+  },
+  {
+   "t": 339.5,
+   "pred": "Normal cruising",
+   "conf": 0.963,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.131,
+   "ay": -0.021,
+   "gz": 0.006
+  },
+  {
+   "t": 340.0,
+   "pred": "Normal cruising",
+   "conf": 0.973,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.024,
+   "ay": 0.009,
+   "gz": -0.005
+  },
+  {
+   "t": 340.5,
+   "pred": "Normal cruising",
+   "conf": 0.95,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.096,
+   "ay": 0.118,
+   "gz": 0.009
+  },
+  {
+   "t": 341.0,
+   "pred": "Normal cruising",
+   "conf": 0.9,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.076,
+   "ay": 0.132,
+   "gz": -0.011
+  },
+  {
+   "t": 341.5,
+   "pred": "Normal cruising",
+   "conf": 0.793,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.283,
+   "ay": 0.095,
+   "gz": -0.001
+  },
+  {
+   "t": 342.0,
+   "pred": "Normal cruising",
+   "conf": 0.887,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.178,
+   "ay": -0.298,
+   "gz": 0.013
+  },
+  {
+   "t": 342.5,
+   "pred": "Normal cruising",
+   "conf": 0.677,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.168,
+   "ay": -0.343,
+   "gz": 0.013
+  },
+  {
+   "t": 343.0,
+   "pred": "Normal cruising",
+   "conf": 0.603,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.341,
+   "ay": -0.211,
+   "gz": -0.018
+  },
+  {
+   "t": 343.5,
+   "pred": "Normal cruising",
+   "conf": 0.587,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.068,
+   "ay": 0.187,
+   "gz": -0.003
+  },
+  {
+   "t": 344.0,
+   "pred": "Normal cruising",
+   "conf": 0.6,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.18,
+   "ay": -0.109,
+   "gz": -0.006
+  },
+  {
+   "t": 344.5,
+   "pred": "Normal cruising",
+   "conf": 0.633,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": 0.579,
+   "ay": 0.047,
+   "gz": 0.031
+  },
+  {
+   "t": 345.0,
+   "pred": "Normal cruising",
+   "conf": 0.65,
+   "aggr": 0.007,
+   "truth": null,
+   "ax": 0.93,
+   "ay": 0.113,
+   "gz": -0.027
+  },
+  {
+   "t": 345.5,
+   "pred": "Normal cruising",
+   "conf": 0.713,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.174,
+   "ay": 0.489,
+   "gz": -0.049
+  },
+  {
+   "t": 346.0,
+   "pred": "Normal cruising",
+   "conf": 0.713,
+   "aggr": 0.02,
+   "truth": null,
+   "ax": 0.161,
+   "ay": 0.216,
+   "gz": 0.02
+  },
+  {
+   "t": 346.5,
+   "pred": "Normal cruising",
+   "conf": 0.75,
+   "aggr": 0.01,
+   "truth": null,
+   "ax": -0.268,
+   "ay": 0.316,
+   "gz": 0.032
+  },
+  {
+   "t": 347.0,
+   "pred": "Normal cruising",
+   "conf": 0.703,
+   "aggr": 0.01,
+   "truth": null,
+   "ax": -0.142,
+   "ay": 0.923,
+   "gz": 0.074
+  },
+  {
+   "t": 347.5,
+   "pred": "Normal cruising",
+   "conf": 0.67,
+   "aggr": 0.007,
+   "truth": null,
+   "ax": 0.194,
+   "ay": 0.539,
+   "gz": 0.049
+  },
+  {
+   "t": 348.0,
+   "pred": "Normal cruising",
+   "conf": 0.713,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": 0.031,
+   "ay": 0.769,
+   "gz": -0.033
+  },
+  {
+   "t": 348.5,
+   "pred": "Normal cruising",
+   "conf": 0.687,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.013,
+   "ay": -0.235,
+   "gz": 0.041
+  },
+  {
+   "t": 349.0,
+   "pred": "Normal cruising",
+   "conf": 0.743,
+   "aggr": 0.077,
+   "truth": null,
+   "ax": 0.193,
+   "ay": -0.26,
+   "gz": -0.051
+  },
+  {
+   "t": 349.5,
+   "pred": "Normal cruising",
+   "conf": 0.557,
+   "aggr": 0.147,
+   "truth": null,
+   "ax": -0.621,
+   "ay": 0.045,
+   "gz": 0.007
+  },
+  {
+   "t": 350.0,
+   "pred": "Non-aggressive",
+   "conf": 0.5,
+   "aggr": 0.09,
+   "truth": null,
+   "ax": 0.59,
+   "ay": -0.397,
+   "gz": 0.129
+  },
+  {
+   "t": 350.5,
+   "pred": "Non-aggressive",
+   "conf": 0.507,
+   "aggr": 0.177,
+   "truth": null,
+   "ax": -0.577,
+   "ay": 0.679,
+   "gz": 0.015
+  },
+  {
+   "t": 351.0,
+   "pred": "Non-aggressive",
+   "conf": 0.467,
+   "aggr": 0.187,
+   "truth": null,
+   "ax": -2.315,
+   "ay": 2.792,
+   "gz": -0.294
+  },
+  {
+   "t": 351.5,
+   "pred": "Non-aggressive",
+   "conf": 0.51,
+   "aggr": 0.187,
+   "truth": null,
+   "ax": -0.563,
+   "ay": -0.813,
+   "gz": 0.065
+  },
+  {
+   "t": 352.0,
+   "pred": "Non-aggressive",
+   "conf": 0.527,
+   "aggr": 0.133,
+   "truth": null,
+   "ax": -0.489,
+   "ay": 0.922,
+   "gz": -0.031
+  },
+  {
+   "t": 352.5,
+   "pred": "Normal cruising",
+   "conf": 0.66,
+   "aggr": 0.13,
+   "truth": null,
+   "ax": -1.113,
+   "ay": 1.138,
+   "gz": -0.221
+  },
+  {
+   "t": 353.0,
+   "pred": "Normal cruising",
+   "conf": 0.547,
+   "aggr": 0.117,
+   "truth": null,
+   "ax": 0.699,
+   "ay": 0.414,
+   "gz": -0.11
+  },
+  {
+   "t": 353.5,
+   "pred": "Normal cruising",
+   "conf": 0.453,
+   "aggr": 0.103,
+   "truth": null,
+   "ax": 0.663,
+   "ay": 0.738,
+   "gz": -0.051
+  },
+  {
+   "t": 354.0,
+   "pred": "Normal cruising",
+   "conf": 0.433,
+   "aggr": 0.183,
+   "truth": null,
+   "ax": -0.115,
+   "ay": -1.273,
+   "gz": -0.057
+  },
+  {
+   "t": 354.5,
+   "pred": "Non-aggressive",
+   "conf": 0.457,
+   "aggr": 0.213,
+   "truth": null,
+   "ax": -0.365,
+   "ay": 1.76,
+   "gz": -0.006
+  },
+  {
+   "t": 355.0,
+   "pred": "Non-aggressive",
+   "conf": 0.483,
+   "aggr": 0.22,
+   "truth": null,
+   "ax": 0.535,
+   "ay": 0.375,
+   "gz": -0.044
+  },
+  {
+   "t": 355.5,
+   "pred": "Non-aggressive",
+   "conf": 0.313,
+   "aggr": 0.41,
+   "truth": null,
+   "ax": 0.4,
+   "ay": 1.147,
+   "gz": 0.208
+  },
+  {
+   "t": 356.0,
+   "pred": "Aggressive left turn",
+   "conf": 0.44,
+   "aggr": 0.57,
+   "truth": null,
+   "ax": -0.021,
+   "ay": -0.966,
+   "gz": 0.337
+  },
+  {
+   "t": 356.5,
+   "pred": "Aggressive left turn",
+   "conf": 0.547,
+   "aggr": 0.697,
+   "truth": null,
+   "ax": -0.069,
+   "ay": 1.753,
+   "gz": 0.47
+  },
+  {
+   "t": 357.0,
+   "pred": "Aggressive left turn",
+   "conf": 0.473,
+   "aggr": 0.623,
+   "truth": null,
+   "ax": -1.288,
+   "ay": -0.308,
+   "gz": 0.435
+  },
+  {
+   "t": 357.5,
+   "pred": "Aggressive left turn",
+   "conf": 0.437,
+   "aggr": 0.58,
+   "truth": null,
+   "ax": -2.061,
+   "ay": -0.104,
+   "gz": 0.481
+  },
+  {
+   "t": 358.0,
+   "pred": "Aggressive left turn",
+   "conf": 0.303,
+   "aggr": 0.453,
+   "truth": "Non-aggressive",
+   "ax": -1.031,
+   "ay": -0.394,
+   "gz": 0.504
+  },
+  {
+   "t": 358.5,
+   "pred": "Non-aggressive",
+   "conf": 0.713,
+   "aggr": 0.11,
+   "truth": "Non-aggressive",
+   "ax": -1.236,
+   "ay": -0.427,
+   "gz": 0.43
+  },
+  {
+   "t": 359.0,
+   "pred": "Non-aggressive",
+   "conf": 0.827,
+   "aggr": 0.033,
+   "truth": "Non-aggressive",
+   "ax": 0.222,
+   "ay": -2.068,
+   "gz": 0.262
+  },
+  {
+   "t": 359.5,
+   "pred": "Non-aggressive",
+   "conf": 0.83,
+   "aggr": 0.027,
+   "truth": "Non-aggressive",
+   "ax": 0.392,
+   "ay": -1.423,
+   "gz": 0.151
+  },
+  {
+   "t": 360.0,
+   "pred": "Non-aggressive",
+   "conf": 0.773,
+   "aggr": 0.057,
+   "truth": "Non-aggressive",
+   "ax": 0.4,
+   "ay": -1.187,
+   "gz": 0.029
+  },
+  {
+   "t": 360.5,
+   "pred": "Normal cruising",
+   "conf": 0.51,
+   "aggr": 0.017,
+   "truth": "Non-aggressive",
+   "ax": 0.321,
+   "ay": -0.709,
+   "gz": -0.024
+  },
+  {
+   "t": 361.0,
+   "pred": "Non-aggressive",
+   "conf": 0.517,
+   "aggr": 0.01,
+   "truth": null,
+   "ax": 0.759,
+   "ay": -1.084,
+   "gz": -0.097
+  },
+  {
+   "t": 361.5,
+   "pred": "Normal cruising",
+   "conf": 0.593,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.077,
+   "ay": -0.069,
+   "gz": -0.081
+  },
+  {
+   "t": 362.0,
+   "pred": "Normal cruising",
+   "conf": 0.717,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.142,
+   "ay": 0.381,
+   "gz": -0.044
+  },
+  {
+   "t": 362.5,
+   "pred": "Normal cruising",
+   "conf": 0.69,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.499,
+   "ay": 0.501,
+   "gz": -0.004
+  },
+  {
+   "t": 363.0,
+   "pred": "Normal cruising",
+   "conf": 0.733,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.095,
+   "ay": 0.212,
+   "gz": -0.016
+  },
+  {
+   "t": 363.5,
+   "pred": "Normal cruising",
+   "conf": 0.593,
+   "aggr": 0.007,
+   "truth": null,
+   "ax": -0.14,
+   "ay": 0.183,
+   "gz": -0.011
+  },
+  {
+   "t": 364.0,
+   "pred": "Normal cruising",
+   "conf": 0.693,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.08,
+   "ay": 0.318,
+   "gz": 0.011
+  },
+  {
+   "t": 364.5,
+   "pred": "Normal cruising",
+   "conf": 0.823,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.453,
+   "ay": 0.399,
+   "gz": -0.024
+  },
+  {
+   "t": 365.0,
+   "pred": "Normal cruising",
+   "conf": 0.76,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.495,
+   "ay": 0.492,
+   "gz": -0.014
+  },
+  {
+   "t": 365.5,
+   "pred": "Normal cruising",
+   "conf": 0.693,
+   "aggr": 0.007,
+   "truth": null,
+   "ax": 0.487,
+   "ay": 0.477,
+   "gz": -0.001
+  },
+  {
+   "t": 366.0,
+   "pred": "Normal cruising",
+   "conf": 0.707,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.554,
+   "ay": 0.31,
+   "gz": 0.005
+  },
+  {
+   "t": 366.5,
+   "pred": "Normal cruising",
+   "conf": 0.763,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": 0.394,
+   "ay": 0.207,
+   "gz": -0.004
+  },
+  {
+   "t": 367.0,
+   "pred": "Normal cruising",
+   "conf": 0.73,
+   "aggr": 0.023,
+   "truth": null,
+   "ax": 0.452,
+   "ay": 0.359,
+   "gz": -0.008
+  },
+  {
+   "t": 367.5,
+   "pred": "Normal cruising",
+   "conf": 0.767,
+   "aggr": 0.007,
+   "truth": null,
+   "ax": 0.301,
+   "ay": 0.237,
+   "gz": -0.0
+  },
+  {
+   "t": 368.0,
+   "pred": "Normal cruising",
+   "conf": 0.74,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": 0.029,
+   "ay": 0.074,
+   "gz": -0.01
+  },
+  {
+   "t": 368.5,
+   "pred": "Normal cruising",
+   "conf": 0.893,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.312,
+   "ay": 0.032,
+   "gz": 0.012
+  },
+  {
+   "t": 369.0,
+   "pred": "Normal cruising",
+   "conf": 0.963,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.034,
+   "ay": 0.12,
+   "gz": -0.011
+  },
+  {
+   "t": 369.5,
+   "pred": "Normal cruising",
+   "conf": 0.97,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.005,
+   "ay": -0.014,
+   "gz": -0.003
+  },
+  {
+   "t": 370.0,
+   "pred": "Normal cruising",
+   "conf": 0.943,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.022,
+   "ay": 0.153,
+   "gz": -0.001
+  },
+  {
+   "t": 370.5,
+   "pred": "Normal cruising",
+   "conf": 0.963,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.146,
+   "ay": 0.108,
+   "gz": -0.001
+  },
+  {
+   "t": 371.0,
+   "pred": "Normal cruising",
+   "conf": 0.957,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.075,
+   "ay": 0.132,
+   "gz": -0.004
+  },
+  {
+   "t": 371.5,
+   "pred": "Normal cruising",
+   "conf": 0.947,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.103,
+   "ay": 0.17,
+   "gz": 0.02
+  },
+  {
+   "t": 372.0,
+   "pred": "Normal cruising",
+   "conf": 0.99,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.14,
+   "ay": 0.128,
+   "gz": 0.006
+  },
+  {
+   "t": 372.5,
+   "pred": "Normal cruising",
+   "conf": 0.97,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": 0.01,
+   "ay": 0.137,
+   "gz": 0.014
+  },
+  {
+   "t": 373.0,
+   "pred": "Normal cruising",
+   "conf": 0.973,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.092,
+   "ay": 0.103,
+   "gz": 0.008
+  },
+  {
+   "t": 373.5,
+   "pred": "Normal cruising",
+   "conf": 0.963,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.151,
+   "ay": 0.145,
+   "gz": 0.005
+  },
+  {
+   "t": 374.0,
+   "pred": "Normal cruising",
+   "conf": 0.977,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.271,
+   "ay": 0.013,
+   "gz": -0.001
+  },
+  {
+   "t": 374.5,
+   "pred": "Normal cruising",
+   "conf": 0.98,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.036,
+   "ay": 0.145,
+   "gz": 0.009
+  },
+  {
+   "t": 375.0,
+   "pred": "Normal cruising",
+   "conf": 0.987,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.136,
+   "ay": 0.072,
+   "gz": 0.002
+  },
+  {
+   "t": 375.5,
+   "pred": "Normal cruising",
+   "conf": 0.997,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.068,
+   "ay": 0.114,
+   "gz": 0.009
+  },
+  {
+   "t": 376.0,
+   "pred": "Normal cruising",
+   "conf": 0.983,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.075,
+   "ay": 0.013,
+   "gz": -0.002
+  },
+  {
+   "t": 376.5,
+   "pred": "Normal cruising",
+   "conf": 0.963,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.14,
+   "ay": 0.005,
+   "gz": -0.007
+  },
+  {
+   "t": 377.0,
+   "pred": "Normal cruising",
+   "conf": 0.93,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.014,
+   "ay": -0.0,
+   "gz": 0.004
+  },
+  {
+   "t": 377.5,
+   "pred": "Normal cruising",
+   "conf": 0.95,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.149,
+   "ay": 0.141,
+   "gz": 0.006
+  },
+  {
+   "t": 378.0,
+   "pred": "Normal cruising",
+   "conf": 0.937,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.001,
+   "ay": -0.112,
+   "gz": -0.004
+  },
+  {
+   "t": 378.5,
+   "pred": "Normal cruising",
+   "conf": 0.95,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.023,
+   "ay": -0.001,
+   "gz": -0.005
+  },
+  {
+   "t": 379.0,
+   "pred": "Normal cruising",
+   "conf": 0.967,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.2,
+   "ay": -0.091,
+   "gz": -0.001
+  },
+  {
+   "t": 379.5,
+   "pred": "Normal cruising",
+   "conf": 0.967,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.032,
+   "ay": -0.015,
+   "gz": -0.008
+  },
+  {
+   "t": 380.0,
+   "pred": "Normal cruising",
+   "conf": 0.957,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.13,
+   "ay": -0.045,
+   "gz": -0.009
+  },
+  {
+   "t": 380.5,
+   "pred": "Normal cruising",
+   "conf": 0.963,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.018,
+   "ay": -0.053,
+   "gz": -0.013
+  },
+  {
+   "t": 381.0,
+   "pred": "Normal cruising",
+   "conf": 0.88,
+   "aggr": 0.007,
+   "truth": null,
+   "ax": -0.232,
+   "ay": -0.094,
+   "gz": -0.008
+  },
+  {
+   "t": 381.5,
+   "pred": "Normal cruising",
+   "conf": 0.583,
+   "aggr": 0.017,
+   "truth": null,
+   "ax": 0.08,
+   "ay": -0.07,
+   "gz": -0.004
+  },
+  {
+   "t": 382.0,
+   "pred": "Normal cruising",
+   "conf": 0.557,
+   "aggr": 0.04,
+   "truth": null,
+   "ax": -0.039,
+   "ay": -0.066,
+   "gz": -0.01
+  },
+  {
+   "t": 382.5,
+   "pred": "Non-aggressive",
+   "conf": 0.493,
+   "aggr": 0.043,
+   "truth": null,
+   "ax": 1.412,
+   "ay": 0.72,
+   "gz": -0.009
+  },
+  {
+   "t": 383.0,
+   "pred": "Non-aggressive",
+   "conf": 0.547,
+   "aggr": 0.057,
+   "truth": null,
+   "ax": 1.377,
+   "ay": 0.515,
+   "gz": 0.001
+  },
+  {
+   "t": 383.5,
+   "pred": "Non-aggressive",
+   "conf": 0.613,
+   "aggr": 0.057,
+   "truth": null,
+   "ax": 0.487,
+   "ay": 0.046,
+   "gz": -0.024
+  },
+  {
+   "t": 384.0,
+   "pred": "Non-aggressive",
+   "conf": 0.45,
+   "aggr": 0.157,
+   "truth": null,
+   "ax": -0.808,
+   "ay": 0.198,
+   "gz": -0.012
+  },
+  {
+   "t": 384.5,
+   "pred": "Normal cruising",
+   "conf": 0.44,
+   "aggr": 0.177,
+   "truth": null,
+   "ax": -1.252,
+   "ay": -0.586,
+   "gz": -0.045
+  },
+  {
+   "t": 385.0,
+   "pred": "Normal cruising",
+   "conf": 0.563,
+   "aggr": 0.143,
+   "truth": null,
+   "ax": 0.73,
+   "ay": -1.619,
+   "gz": -0.112
+  },
+  {
+   "t": 385.5,
+   "pred": "Normal cruising",
+   "conf": 0.543,
+   "aggr": 0.233,
+   "truth": null,
+   "ax": -1.389,
+   "ay": 0.025,
+   "gz": 0.008
+  },
+  {
+   "t": 386.0,
+   "pred": "Normal cruising",
+   "conf": 0.61,
+   "aggr": 0.173,
+   "truth": null,
+   "ax": -0.538,
+   "ay": -0.168,
+   "gz": -0.06
+  },
+  {
+   "t": 386.5,
+   "pred": "Normal cruising",
+   "conf": 0.517,
+   "aggr": 0.277,
+   "truth": null,
+   "ax": -0.39,
+   "ay": -0.015,
+   "gz": 0.001
+  },
+  {
+   "t": 387.0,
+   "pred": "Normal cruising",
+   "conf": 0.63,
+   "aggr": 0.19,
+   "truth": null,
+   "ax": -1.396,
+   "ay": -0.484,
+   "gz": -0.056
+  },
+  {
+   "t": 387.5,
+   "pred": "Normal cruising",
+   "conf": 0.67,
+   "aggr": 0.117,
+   "truth": null,
+   "ax": -0.408,
+   "ay": -0.838,
+   "gz": -0.024
+  },
+  {
+   "t": 388.0,
+   "pred": "Normal cruising",
+   "conf": 0.573,
+   "aggr": 0.127,
+   "truth": null,
+   "ax": -0.418,
+   "ay": -0.684,
+   "gz": 0.0
+  },
+  {
+   "t": 388.5,
+   "pred": "Normal cruising",
+   "conf": 0.493,
+   "aggr": 0.117,
+   "truth": null,
+   "ax": -0.448,
+   "ay": 0.521,
+   "gz": -0.046
+  },
+  {
+   "t": 389.0,
+   "pred": "Normal cruising",
+   "conf": 0.51,
+   "aggr": 0.087,
+   "truth": null,
+   "ax": -0.64,
+   "ay": 1.323,
+   "gz": 0.041
+  },
+  {
+   "t": 389.5,
+   "pred": "Normal cruising",
+   "conf": 0.463,
+   "aggr": 0.08,
+   "truth": null,
+   "ax": -0.26,
+   "ay": 0.101,
+   "gz": -0.02
+  },
+  {
+   "t": 390.0,
+   "pred": "Normal cruising",
+   "conf": 0.717,
+   "aggr": 0.06,
+   "truth": null,
+   "ax": 0.536,
+   "ay": -0.528,
+   "gz": -0.082
+  },
+  {
+   "t": 390.5,
+   "pred": "Normal cruising",
+   "conf": 0.79,
+   "aggr": 0.01,
+   "truth": null,
+   "ax": 0.518,
+   "ay": 0.1,
+   "gz": -0.012
+  },
+  {
+   "t": 391.0,
+   "pred": "Normal cruising",
+   "conf": 0.777,
+   "aggr": 0.013,
+   "truth": null,
+   "ax": -0.371,
+   "ay": -0.096,
+   "gz": -0.031
+  },
+  {
+   "t": 391.5,
+   "pred": "Normal cruising",
+   "conf": 0.713,
+   "aggr": 0.077,
+   "truth": null,
+   "ax": 0.256,
+   "ay": 0.327,
+   "gz": 0.038
+  },
+  {
+   "t": 392.0,
+   "pred": "Normal cruising",
+   "conf": 0.743,
+   "aggr": 0.103,
+   "truth": null,
+   "ax": 0.079,
+   "ay": -0.145,
+   "gz": 0.014
+  },
+  {
+   "t": 392.5,
+   "pred": "Normal cruising",
+   "conf": 0.76,
+   "aggr": 0.037,
+   "truth": null,
+   "ax": 1.22,
+   "ay": -2.026,
+   "gz": -0.089
+  },
+  {
+   "t": 393.0,
+   "pred": "Normal cruising",
+   "conf": 0.757,
+   "aggr": 0.06,
+   "truth": null,
+   "ax": 0.362,
+   "ay": 0.328,
+   "gz": 0.043
+  },
+  {
+   "t": 393.5,
+   "pred": "Normal cruising",
+   "conf": 0.68,
+   "aggr": 0.07,
+   "truth": null,
+   "ax": 0.682,
+   "ay": -0.127,
+   "gz": -0.08
+  },
+  {
+   "t": 394.0,
+   "pred": "Normal cruising",
+   "conf": 0.657,
+   "aggr": 0.1,
+   "truth": null,
+   "ax": 0.094,
+   "ay": -0.351,
+   "gz": 0.051
+  },
+  {
+   "t": 394.5,
+   "pred": "Normal cruising",
+   "conf": 0.61,
+   "aggr": 0.123,
+   "truth": null,
+   "ax": -0.239,
+   "ay": 0.215,
+   "gz": -0.044
+  },
+  {
+   "t": 395.0,
+   "pred": "Normal cruising",
+   "conf": 0.603,
+   "aggr": 0.103,
+   "truth": null,
+   "ax": -2.26,
+   "ay": -0.774,
+   "gz": 0.008
+  },
+  {
+   "t": 395.5,
+   "pred": "Normal cruising",
+   "conf": 0.59,
+   "aggr": 0.057,
+   "truth": null,
+   "ax": 1.11,
+   "ay": 0.618,
+   "gz": 0.015
+  },
+  {
+   "t": 396.0,
+   "pred": "Normal cruising",
+   "conf": 0.673,
+   "aggr": 0.05,
+   "truth": null,
+   "ax": 0.671,
+   "ay": -0.518,
+   "gz": -0.056
+  },
+  {
+   "t": 396.5,
+   "pred": "Normal cruising",
+   "conf": 0.697,
+   "aggr": 0.013,
+   "truth": null,
+   "ax": 0.428,
+   "ay": 0.463,
+   "gz": 0.022
+  },
+  {
+   "t": 397.0,
+   "pred": "Normal cruising",
+   "conf": 0.703,
+   "aggr": 0.007,
+   "truth": null,
+   "ax": 1.379,
+   "ay": 0.795,
+   "gz": -0.082
+  },
+  {
+   "t": 397.5,
+   "pred": "Normal cruising",
+   "conf": 0.6,
+   "aggr": 0.09,
+   "truth": null,
+   "ax": -0.017,
+   "ay": 0.259,
+   "gz": 0.023
+  },
+  {
+   "t": 398.0,
+   "pred": "Normal cruising",
+   "conf": 0.63,
+   "aggr": 0.087,
+   "truth": null,
+   "ax": 0.094,
+   "ay": 0.008,
+   "gz": -0.014
+  },
+  {
+   "t": 398.5,
+   "pred": "Normal cruising",
+   "conf": 0.553,
+   "aggr": 0.107,
+   "truth": null,
+   "ax": 0.957,
+   "ay": 1.19,
+   "gz": 0.055
+  },
+  {
+   "t": 399.0,
+   "pred": "Normal cruising",
+   "conf": 0.493,
+   "aggr": 0.097,
+   "truth": null,
+   "ax": -0.245,
+   "ay": 2.364,
+   "gz": 0.257
+  },
+  {
+   "t": 399.5,
+   "pred": "Normal cruising",
+   "conf": 0.51,
+   "aggr": 0.087,
+   "truth": null,
+   "ax": 0.363,
+   "ay": -0.781,
+   "gz": 0.305
+  },
+  {
+   "t": 400.0,
+   "pred": "Normal cruising",
+   "conf": 0.617,
+   "aggr": 0.073,
+   "truth": null,
+   "ax": 0.12,
+   "ay": 0.757,
+   "gz": 0.431
+  },
+  {
+   "t": 400.5,
+   "pred": "Normal cruising",
+   "conf": 0.487,
+   "aggr": 0.147,
+   "truth": null,
+   "ax": -0.316,
+   "ay": -0.247,
+   "gz": 0.477
+  },
+  {
+   "t": 401.0,
+   "pred": "Aggressive left turn",
+   "conf": 0.48,
+   "aggr": 0.657,
+   "truth": null,
+   "ax": 1.03,
+   "ay": 0.048,
+   "gz": 0.477
+  },
+  {
+   "t": 401.5,
+   "pred": "Aggressive left turn",
+   "conf": 0.493,
+   "aggr": 0.65,
+   "truth": null,
+   "ax": 3.578,
+   "ay": -0.07,
+   "gz": 0.405
+  },
+  {
+   "t": 402.0,
+   "pred": "Aggressive left turn",
+   "conf": 0.51,
+   "aggr": 0.677,
+   "truth": null,
+   "ax": 0.867,
+   "ay": 2.729,
+   "gz": 0.435
+  },
+  {
+   "t": 402.5,
+   "pred": "Aggressive left turn",
+   "conf": 0.467,
+   "aggr": 0.647,
+   "truth": null,
+   "ax": 2.613,
+   "ay": 0.044,
+   "gz": 0.335
+  },
+  {
+   "t": 403.0,
+   "pred": "Non-aggressive",
+   "conf": 0.307,
+   "aggr": 0.463,
+   "truth": null,
+   "ax": 0.512,
+   "ay": 1.164,
+   "gz": -0.06
+  },
+  {
+   "t": 403.5,
+   "pred": "Normal cruising",
+   "conf": 0.347,
+   "aggr": 0.407,
+   "truth": null,
+   "ax": 0.551,
+   "ay": 0.195,
+   "gz": 0.013
+  },
+  {
+   "t": 404.0,
+   "pred": "Normal cruising",
+   "conf": 0.447,
+   "aggr": 0.383,
+   "truth": null,
+   "ax": 0.43,
+   "ay": -0.561,
+   "gz": -0.008
+  },
+  {
+   "t": 404.5,
+   "pred": "Normal cruising",
+   "conf": 0.473,
+   "aggr": 0.337,
+   "truth": null,
+   "ax": 0.621,
+   "ay": -0.409,
+   "gz": -0.074
+  },
+  {
+   "t": 405.0,
+   "pred": "Normal cruising",
+   "conf": 0.523,
+   "aggr": 0.27,
+   "truth": null,
+   "ax": 0.349,
+   "ay": -1.048,
+   "gz": -0.013
+  },
+  {
+   "t": 405.5,
+   "pred": "Normal cruising",
+   "conf": 0.5,
+   "aggr": 0.263,
+   "truth": null,
+   "ax": 0.188,
+   "ay": -0.356,
+   "gz": -0.034
+  },
+  {
+   "t": 406.0,
+   "pred": "Normal cruising",
+   "conf": 0.58,
+   "aggr": 0.157,
+   "truth": null,
+   "ax": 0.121,
+   "ay": -1.31,
+   "gz": -0.054
+  },
+  {
+   "t": 406.5,
+   "pred": "Normal cruising",
+   "conf": 0.527,
+   "aggr": 0.19,
+   "truth": null,
+   "ax": 0.717,
+   "ay": -0.907,
+   "gz": -0.051
+  },
+  {
+   "t": 407.0,
+   "pred": "Normal cruising",
+   "conf": 0.453,
+   "aggr": 0.19,
+   "truth": null,
+   "ax": -0.002,
+   "ay": 0.626,
+   "gz": -0.037
+  },
+  {
+   "t": 407.5,
+   "pred": "Non-aggressive",
+   "conf": 0.373,
+   "aggr": 0.277,
+   "truth": null,
+   "ax": -0.599,
+   "ay": 0.426,
+   "gz": -0.027
+  },
+  {
+   "t": 408.0,
+   "pred": "Normal cruising",
+   "conf": 0.383,
+   "aggr": 0.277,
+   "truth": null,
+   "ax": -0.742,
+   "ay": 1.28,
+   "gz": -0.048
+  },
+  {
+   "t": 408.5,
+   "pred": "Normal cruising",
+   "conf": 0.427,
+   "aggr": 0.267,
+   "truth": null,
+   "ax": 0.123,
+   "ay": -0.26,
+   "gz": 0.028
+  },
+  {
+   "t": 409.0,
+   "pred": "Normal cruising",
+   "conf": 0.443,
+   "aggr": 0.257,
+   "truth": null,
+   "ax": -0.65,
+   "ay": 1.278,
+   "gz": 0.064
+  },
+  {
+   "t": 409.5,
+   "pred": "Normal cruising",
+   "conf": 0.58,
+   "aggr": 0.123,
+   "truth": null,
+   "ax": 0.019,
+   "ay": 1.282,
+   "gz": 0.003
+  },
+  {
+   "t": 410.0,
+   "pred": "Normal cruising",
+   "conf": 0.53,
+   "aggr": 0.263,
+   "truth": null,
+   "ax": 0.003,
+   "ay": -0.295,
+   "gz": 0.027
+  },
+  {
+   "t": 410.5,
+   "pred": "Normal cruising",
+   "conf": 0.52,
+   "aggr": 0.287,
+   "truth": null,
+   "ax": -0.502,
+   "ay": -2.627,
+   "gz": 0.037
+  },
+  {
+   "t": 411.0,
+   "pred": "Normal cruising",
+   "conf": 0.47,
+   "aggr": 0.35,
+   "truth": null,
+   "ax": 0.143,
+   "ay": -0.619,
+   "gz": 0.108
+  },
+  {
+   "t": 411.5,
+   "pred": "Normal cruising",
+   "conf": 0.26,
+   "aggr": 0.527,
+   "truth": null,
+   "ax": 1.911,
+   "ay": -0.999,
+   "gz": -0.034
+  },
+  {
+   "t": 412.0,
+   "pred": "Aggressive left turn",
+   "conf": 0.71,
+   "aggr": 0.967,
+   "truth": "Aggressive left turn",
+   "ax": -0.219,
+   "ay": 1.745,
+   "gz": 0.166
+  },
+  {
+   "t": 412.5,
+   "pred": "Aggressive left turn",
+   "conf": 0.95,
+   "aggr": 0.997,
+   "truth": "Aggressive left turn",
+   "ax": -3.685,
+   "ay": 0.393,
+   "gz": 0.424
+  },
+  {
+   "t": 413.0,
+   "pred": "Aggressive left turn",
+   "conf": 0.993,
+   "aggr": 0.997,
+   "truth": "Aggressive left turn",
+   "ax": -3.064,
+   "ay": 0.291,
+   "gz": 0.654
+  },
+  {
+   "t": 413.5,
+   "pred": "Aggressive left turn",
+   "conf": 0.903,
+   "aggr": 0.953,
+   "truth": "Aggressive left turn",
+   "ax": 0.812,
+   "ay": -0.961,
+   "gz": 0.38
+  },
+  {
+   "t": 414.0,
+   "pred": "Aggressive left turn",
+   "conf": 0.99,
+   "aggr": 1.0,
+   "truth": "Aggressive left turn",
+   "ax": 0.211,
+   "ay": -1.031,
+   "gz": 0.457
+  },
+  {
+   "t": 414.5,
+   "pred": "Aggressive left turn",
+   "conf": 0.933,
+   "aggr": 0.98,
+   "truth": "Aggressive left turn",
+   "ax": 2.848,
+   "ay": -0.637,
+   "gz": 0.187
+  },
+  {
+   "t": 415.0,
+   "pred": "Aggressive left turn",
+   "conf": 0.897,
+   "aggr": 0.94,
+   "truth": "Aggressive left turn",
+   "ax": 2.617,
+   "ay": 0.877,
+   "gz": 0.242
+  },
+  {
+   "t": 415.5,
+   "pred": "Aggressive left turn",
+   "conf": 0.717,
+   "aggr": 0.817,
+   "truth": "Aggressive left turn",
+   "ax": 2.839,
+   "ay": 1.972,
+   "gz": 0.001
+  },
+  {
+   "t": 416.0,
+   "pred": "Normal cruising",
+   "conf": 0.373,
+   "aggr": 0.427,
+   "truth": "Aggressive left turn",
+   "ax": 1.465,
+   "ay": 1.228,
+   "gz": 0.134
+  },
+  {
+   "t": 416.5,
+   "pred": "Normal cruising",
+   "conf": 0.403,
+   "aggr": 0.39,
+   "truth": null,
+   "ax": 0.674,
+   "ay": 0.571,
+   "gz": -0.028
+  },
+  {
+   "t": 417.0,
+   "pred": "Normal cruising",
+   "conf": 0.57,
+   "aggr": 0.223,
+   "truth": null,
+   "ax": -0.23,
+   "ay": 1.904,
+   "gz": 0.036
+  },
+  {
+   "t": 417.5,
+   "pred": "Normal cruising",
+   "conf": 0.57,
+   "aggr": 0.153,
+   "truth": null,
+   "ax": -0.335,
+   "ay": 0.971,
+   "gz": -0.04
+  },
+  {
+   "t": 418.0,
+   "pred": "Normal cruising",
+   "conf": 0.643,
+   "aggr": 0.103,
+   "truth": null,
+   "ax": -0.02,
+   "ay": -0.326,
+   "gz": 0.097
+  },
+  {
+   "t": 418.5,
+   "pred": "Normal cruising",
+   "conf": 0.753,
+   "aggr": 0.03,
+   "truth": null,
+   "ax": 0.179,
+   "ay": 0.269,
+   "gz": 0.025
+  },
+  {
+   "t": 419.0,
+   "pred": "Normal cruising",
+   "conf": 0.78,
+   "aggr": 0.043,
+   "truth": null,
+   "ax": -0.395,
+   "ay": -0.037,
+   "gz": 0.041
+  },
+  {
+   "t": 419.5,
+   "pred": "Normal cruising",
+   "conf": 0.84,
+   "aggr": 0.037,
+   "truth": null,
+   "ax": -1.015,
+   "ay": 1.079,
+   "gz": -0.088
+  },
+  {
+   "t": 420.0,
+   "pred": "Normal cruising",
+   "conf": 0.763,
+   "aggr": 0.1,
+   "truth": null,
+   "ax": 0.018,
+   "ay": -0.53,
+   "gz": 0.018
+  },
+  {
+   "t": 420.5,
+   "pred": "Normal cruising",
+   "conf": 0.767,
+   "aggr": 0.077,
+   "truth": null,
+   "ax": 0.584,
+   "ay": -0.374,
+   "gz": -0.043
+  },
+  {
+   "t": 421.0,
+   "pred": "Normal cruising",
+   "conf": 0.767,
+   "aggr": 0.073,
+   "truth": null,
+   "ax": 0.373,
+   "ay": -0.616,
+   "gz": -0.069
+  },
+  {
+   "t": 421.5,
+   "pred": "Normal cruising",
+   "conf": 0.797,
+   "aggr": 0.057,
+   "truth": null,
+   "ax": -0.109,
+   "ay": -0.38,
+   "gz": 0.007
+  },
+  {
+   "t": 422.0,
+   "pred": "Normal cruising",
+   "conf": 0.667,
+   "aggr": 0.087,
+   "truth": null,
+   "ax": 0.493,
+   "ay": 0.772,
+   "gz": -0.026
+  },
+  {
+   "t": 422.5,
+   "pred": "Normal cruising",
+   "conf": 0.477,
+   "aggr": 0.123,
+   "truth": null,
+   "ax": 0.343,
+   "ay": 0.654,
+   "gz": -0.106
+  },
+  {
+   "t": 423.0,
+   "pred": "Non-aggressive",
+   "conf": 0.457,
+   "aggr": 0.12,
+   "truth": null,
+   "ax": 1.865,
+   "ay": 1.287,
+   "gz": -0.092
+  },
+  {
+   "t": 423.5,
+   "pred": "Non-aggressive",
+   "conf": 0.44,
+   "aggr": 0.12,
+   "truth": null,
+   "ax": 0.685,
+   "ay": 0.64,
+   "gz": -0.052
+  },
+  {
+   "t": 424.0,
+   "pred": "Non-aggressive",
+   "conf": 0.453,
+   "aggr": 0.143,
+   "truth": null,
+   "ax": 0.288,
+   "ay": -0.624,
+   "gz": 0.034
+  },
+  {
+   "t": 424.5,
+   "pred": "Normal cruising",
+   "conf": 0.833,
+   "aggr": 0.017,
+   "truth": null,
+   "ax": -0.442,
+   "ay": -0.148,
+   "gz": -0.032
+  },
+  {
+   "t": 425.0,
+   "pred": "Normal cruising",
+   "conf": 0.81,
+   "aggr": 0.017,
+   "truth": null,
+   "ax": 0.628,
+   "ay": -0.454,
+   "gz": -0.012
+  },
+  {
+   "t": 425.5,
+   "pred": "Normal cruising",
+   "conf": 0.843,
+   "aggr": 0.033,
+   "truth": null,
+   "ax": -0.633,
+   "ay": -0.098,
+   "gz": -0.037
+  },
+  {
+   "t": 426.0,
+   "pred": "Normal cruising",
+   "conf": 0.84,
+   "aggr": 0.023,
+   "truth": null,
+   "ax": -0.664,
+   "ay": -0.436,
+   "gz": 0.006
+  },
+  {
+   "t": 426.5,
+   "pred": "Normal cruising",
+   "conf": 0.9,
+   "aggr": 0.017,
+   "truth": null,
+   "ax": -0.643,
+   "ay": -0.938,
+   "gz": 0.034
+  },
+  {
+   "t": 427.0,
+   "pred": "Normal cruising",
+   "conf": 0.807,
+   "aggr": 0.057,
+   "truth": null,
+   "ax": -0.678,
+   "ay": -0.026,
+   "gz": -0.095
+  },
+  {
+   "t": 427.5,
+   "pred": "Normal cruising",
+   "conf": 0.823,
+   "aggr": 0.06,
+   "truth": null,
+   "ax": -0.988,
+   "ay": 0.255,
+   "gz": -0.007
+  },
+  {
+   "t": 428.0,
+   "pred": "Normal cruising",
+   "conf": 0.8,
+   "aggr": 0.057,
+   "truth": null,
+   "ax": 0.39,
+   "ay": 0.258,
+   "gz": -0.031
+  },
+  {
+   "t": 428.5,
+   "pred": "Normal cruising",
+   "conf": 0.803,
+   "aggr": 0.053,
+   "truth": null,
+   "ax": -0.746,
+   "ay": 0.317,
+   "gz": -0.087
+  },
+  {
+   "t": 429.0,
+   "pred": "Normal cruising",
+   "conf": 0.787,
+   "aggr": 0.053,
+   "truth": null,
+   "ax": -0.504,
+   "ay": 0.694,
+   "gz": -0.125
+  },
+  {
+   "t": 429.5,
+   "pred": "Non-aggressive",
+   "conf": 0.46,
+   "aggr": 0.193,
+   "truth": null,
+   "ax": -0.502,
+   "ay": -0.411,
+   "gz": -0.018
+  },
+  {
+   "t": 430.0,
+   "pred": "Aggressive left turn",
+   "conf": 0.543,
+   "aggr": 0.773,
+   "truth": null,
+   "ax": -0.206,
+   "ay": 0.262,
+   "gz": -0.007
+  },
+  {
+   "t": 430.5,
+   "pred": "Aggressive left turn",
+   "conf": 0.923,
+   "aggr": 0.983,
+   "truth": "Aggressive left turn",
+   "ax": -2.574,
+   "ay": -5.191,
+   "gz": 0.565
+  },
+  {
+   "t": 431.0,
+   "pred": "Aggressive left turn",
+   "conf": 0.993,
+   "aggr": 1.0,
+   "truth": "Aggressive left turn",
+   "ax": 0.665,
+   "ay": -3.461,
+   "gz": 0.847
+  },
+  {
+   "t": 431.5,
+   "pred": "Aggressive left turn",
+   "conf": 0.993,
+   "aggr": 0.997,
+   "truth": "Aggressive left turn",
+   "ax": 0.526,
+   "ay": -2.833,
+   "gz": 0.84
+  },
+  {
+   "t": 432.0,
+   "pred": "Aggressive left turn",
+   "conf": 0.977,
+   "aggr": 0.99,
+   "truth": "Aggressive left turn",
+   "ax": -0.038,
+   "ay": 3.968,
+   "gz": 0.357
+  },
+  {
+   "t": 432.5,
+   "pred": "Aggressive left turn",
+   "conf": 0.897,
+   "aggr": 0.95,
+   "truth": "Aggressive left turn",
+   "ax": -0.194,
+   "ay": 3.067,
+   "gz": 0.203
+  },
+  {
+   "t": 433.0,
+   "pred": "Non-aggressive",
+   "conf": 0.31,
+   "aggr": 0.39,
+   "truth": "Aggressive left turn",
+   "ax": -0.839,
+   "ay": 3.207,
+   "gz": 0.279
+  },
+  {
+   "t": 433.5,
+   "pred": "Normal cruising",
+   "conf": 0.43,
+   "aggr": 0.227,
+   "truth": null,
+   "ax": -0.078,
+   "ay": 0.974,
+   "gz": 0.149
+  },
+  {
+   "t": 434.0,
+   "pred": "Normal cruising",
+   "conf": 0.45,
+   "aggr": 0.183,
+   "truth": null,
+   "ax": -3.032,
+   "ay": 1.926,
+   "gz": -0.144
+  },
+  {
+   "t": 434.5,
+   "pred": "Normal cruising",
+   "conf": 0.493,
+   "aggr": 0.15,
+   "truth": null,
+   "ax": -1.752,
+   "ay": 0.596,
+   "gz": 0.087
+  },
+  {
+   "t": 435.0,
+   "pred": "Normal cruising",
+   "conf": 0.48,
+   "aggr": 0.097,
+   "truth": null,
+   "ax": -0.428,
+   "ay": -0.204,
+   "gz": 0.043
+  },
+  {
+   "t": 435.5,
+   "pred": "Normal cruising",
+   "conf": 0.883,
+   "aggr": 0.017,
+   "truth": null,
+   "ax": -0.83,
+   "ay": 0.306,
+   "gz": -0.055
+  },
+  {
+   "t": 436.0,
+   "pred": "Normal cruising",
+   "conf": 0.603,
+   "aggr": 0.087,
+   "truth": null,
+   "ax": 0.024,
+   "ay": 0.333,
+   "gz": 0.017
+  },
+  {
+   "t": 436.5,
+   "pred": "Normal cruising",
+   "conf": 0.627,
+   "aggr": 0.08,
+   "truth": null,
+   "ax": 0.033,
+   "ay": -0.33,
+   "gz": 0.036
+  },
+  {
+   "t": 437.0,
+   "pred": "Normal cruising",
+   "conf": 0.613,
+   "aggr": 0.097,
+   "truth": null,
+   "ax": 0.204,
+   "ay": 0.218,
+   "gz": -0.029
+  },
+  {
+   "t": 437.5,
+   "pred": "Normal cruising",
+   "conf": 0.6,
+   "aggr": 0.09,
+   "truth": null,
+   "ax": -0.341,
+   "ay": 0.062,
+   "gz": -0.084
+  },
+  {
+   "t": 438.0,
+   "pred": "Normal cruising",
+   "conf": 0.783,
+   "aggr": 0.063,
+   "truth": null,
+   "ax": 0.074,
+   "ay": -0.738,
+   "gz": 0.012
+  },
+  {
+   "t": 438.5,
+   "pred": "Normal cruising",
+   "conf": 0.78,
+   "aggr": 0.05,
+   "truth": null,
+   "ax": 1.448,
+   "ay": -1.222,
+   "gz": 0.082
+  },
+  {
+   "t": 439.0,
+   "pred": "Normal cruising",
+   "conf": 0.7,
+   "aggr": 0.05,
+   "truth": null,
+   "ax": -0.326,
+   "ay": 0.24,
+   "gz": -0.054
+  },
+  {
+   "t": 439.5,
+   "pred": "Normal cruising",
+   "conf": 0.663,
+   "aggr": 0.043,
+   "truth": null,
+   "ax": 0.418,
+   "ay": 0.09,
+   "gz": -0.001
+  },
+  {
+   "t": 440.0,
+   "pred": "Normal cruising",
+   "conf": 0.813,
+   "aggr": 0.06,
+   "truth": null,
+   "ax": 0.455,
+   "ay": -0.325,
+   "gz": -0.0
+  },
+  {
+   "t": 440.5,
+   "pred": "Normal cruising",
+   "conf": 0.877,
+   "aggr": 0.03,
+   "truth": null,
+   "ax": 0.4,
+   "ay": -0.111,
+   "gz": 0.008
+  },
+  {
+   "t": 441.0,
+   "pred": "Normal cruising",
+   "conf": 0.81,
+   "aggr": 0.013,
+   "truth": null,
+   "ax": -0.159,
+   "ay": -0.033,
+   "gz": -0.038
+  },
+  {
+   "t": 441.5,
+   "pred": "Normal cruising",
+   "conf": 0.717,
+   "aggr": 0.04,
+   "truth": null,
+   "ax": 0.028,
+   "ay": 0.088,
+   "gz": -0.061
+  },
+  {
+   "t": 442.0,
+   "pred": "Normal cruising",
+   "conf": 0.54,
+   "aggr": 0.19,
+   "truth": null,
+   "ax": 0.397,
+   "ay": -0.907,
+   "gz": -0.031
+  },
+  {
+   "t": 442.5,
+   "pred": "Normal cruising",
+   "conf": 0.403,
+   "aggr": 0.313,
+   "truth": null,
+   "ax": 0.254,
+   "ay": -0.747,
+   "gz": 0.147
+  },
+  {
+   "t": 443.0,
+   "pred": "Normal cruising",
+   "conf": 0.387,
+   "aggr": 0.33,
+   "truth": null,
+   "ax": -0.042,
+   "ay": -3.351,
+   "gz": 0.025
+  },
+  {
+   "t": 443.5,
+   "pred": "Normal cruising",
+   "conf": 0.457,
+   "aggr": 0.293,
+   "truth": null,
+   "ax": 0.624,
+   "ay": 2.32,
+   "gz": -0.155
+  },
+  {
+   "t": 444.0,
+   "pred": "Normal cruising",
+   "conf": 0.497,
+   "aggr": 0.25,
+   "truth": null,
+   "ax": -0.106,
+   "ay": 0.343,
+   "gz": 0.143
+  },
+  {
+   "t": 444.5,
+   "pred": "Normal cruising",
+   "conf": 0.45,
+   "aggr": 0.18,
+   "truth": null,
+   "ax": -1.375,
+   "ay": 0.949,
+   "gz": -0.204
+  },
+  {
+   "t": 445.0,
+   "pred": "Non-aggressive",
+   "conf": 0.62,
+   "aggr": 0.09,
+   "truth": null,
+   "ax": 0.638,
+   "ay": -1.001,
+   "gz": -0.033
+  },
+  {
+   "t": 445.5,
+   "pred": "Non-aggressive",
+   "conf": 0.513,
+   "aggr": 0.093,
+   "truth": null,
+   "ax": 0.153,
+   "ay": 0.977,
+   "gz": -0.122
+  },
+  {
+   "t": 446.0,
+   "pred": "Non-aggressive",
+   "conf": 0.513,
+   "aggr": 0.09,
+   "truth": null,
+   "ax": -1.36,
+   "ay": 1.304,
+   "gz": -0.157
+  },
+  {
+   "t": 446.5,
+   "pred": "Non-aggressive",
+   "conf": 0.607,
+   "aggr": 0.063,
+   "truth": null,
+   "ax": -0.451,
+   "ay": 0.915,
+   "gz": -0.15
+  },
+  {
+   "t": 447.0,
+   "pred": "Non-aggressive",
+   "conf": 0.533,
+   "aggr": 0.23,
+   "truth": null,
+   "ax": 0.095,
+   "ay": 0.313,
+   "gz": -0.116
+  },
+  {
+   "t": 447.5,
+   "pred": "Aggressive left turn",
+   "conf": 0.71,
+   "aggr": 0.843,
+   "truth": "Aggressive left turn",
+   "ax": 1.301,
+   "ay": -3.01,
+   "gz": 0.191
+  },
+  {
+   "t": 448.0,
+   "pred": "Aggressive left turn",
+   "conf": 0.967,
+   "aggr": 0.983,
+   "truth": "Aggressive left turn",
+   "ax": 2.089,
+   "ay": -1.522,
+   "gz": 0.258
+  },
+  {
+   "t": 448.5,
+   "pred": "Aggressive left turn",
+   "conf": 0.983,
+   "aggr": 1.0,
+   "truth": "Aggressive left turn",
+   "ax": 4.033,
+   "ay": 0.566,
+   "gz": 0.516
+  },
+  {
+   "t": 449.0,
+   "pred": "Aggressive left turn",
+   "conf": 0.973,
+   "aggr": 0.997,
+   "truth": "Aggressive left turn",
+   "ax": 0.049,
+   "ay": 1.665,
+   "gz": 0.732
+  },
+  {
+   "t": 449.5,
+   "pred": "Aggressive left turn",
+   "conf": 0.98,
+   "aggr": 0.997,
+   "truth": "Aggressive left turn",
+   "ax": 0.02,
+   "ay": 2.598,
+   "gz": 0.762
+  },
+  {
+   "t": 450.0,
+   "pred": "Aggressive left turn",
+   "conf": 1.0,
+   "aggr": 1.0,
+   "truth": "Aggressive left turn",
+   "ax": -1.112,
+   "ay": -1.833,
+   "gz": 0.451
+  },
+  {
+   "t": 450.5,
+   "pred": "Aggressive left turn",
+   "conf": 0.95,
+   "aggr": 0.963,
+   "truth": "Aggressive left turn",
+   "ax": 2.141,
+   "ay": -2.553,
+   "gz": 0.164
+  },
+  {
+   "t": 451.0,
+   "pred": "Non-aggressive",
+   "conf": 0.37,
+   "aggr": 0.443,
+   "truth": null,
+   "ax": 0.339,
+   "ay": -2.682,
+   "gz": 0.054
+  },
+  {
+   "t": 451.5,
+   "pred": "Normal cruising",
+   "conf": 0.31,
+   "aggr": 0.41,
+   "truth": null,
+   "ax": 0.67,
+   "ay": -0.813,
+   "gz": 0.056
+  },
+  {
+   "t": 452.0,
+   "pred": "Normal cruising",
+   "conf": 0.44,
+   "aggr": 0.293,
+   "truth": null,
+   "ax": -0.076,
+   "ay": -1.273,
+   "gz": 0.119
+  },
+  {
+   "t": 452.5,
+   "pred": "Normal cruising",
+   "conf": 0.523,
+   "aggr": 0.16,
+   "truth": null,
+   "ax": 0.336,
+   "ay": -0.446,
+   "gz": -0.084
+  },
+  {
+   "t": 453.0,
+   "pred": "Normal cruising",
+   "conf": 0.557,
+   "aggr": 0.117,
+   "truth": null,
+   "ax": 0.831,
+   "ay": -0.356,
+   "gz": -0.0
+  },
+  {
+   "t": 453.5,
+   "pred": "Normal cruising",
+   "conf": 0.733,
+   "aggr": 0.057,
+   "truth": null,
+   "ax": 0.469,
+   "ay": -0.332,
+   "gz": 0.031
+  },
+  {
+   "t": 454.0,
+   "pred": "Normal cruising",
+   "conf": 0.837,
+   "aggr": 0.043,
+   "truth": null,
+   "ax": 0.6,
+   "ay": 0.142,
+   "gz": 0.02
+  },
+  {
+   "t": 454.5,
+   "pred": "Normal cruising",
+   "conf": 0.797,
+   "aggr": 0.043,
+   "truth": null,
+   "ax": 0.869,
+   "ay": 0.691,
+   "gz": 0.072
+  },
+  {
+   "t": 455.0,
+   "pred": "Normal cruising",
+   "conf": 0.777,
+   "aggr": 0.04,
+   "truth": null,
+   "ax": 0.138,
+   "ay": -0.025,
+   "gz": -0.042
+  },
+  {
+   "t": 455.5,
+   "pred": "Normal cruising",
+   "conf": 0.783,
+   "aggr": 0.02,
+   "truth": null,
+   "ax": 0.313,
+   "ay": 0.098,
+   "gz": -0.021
+  },
+  {
+   "t": 456.0,
+   "pred": "Normal cruising",
+   "conf": 0.707,
+   "aggr": 0.027,
+   "truth": null,
+   "ax": 1.165,
+   "ay": 0.149,
+   "gz": -0.077
+  },
+  {
+   "t": 456.5,
+   "pred": "Normal cruising",
+   "conf": 0.797,
+   "aggr": 0.02,
+   "truth": null,
+   "ax": 0.439,
+   "ay": -0.11,
+   "gz": 0.064
+  },
+  {
+   "t": 457.0,
+   "pred": "Normal cruising",
+   "conf": 0.79,
+   "aggr": 0.037,
+   "truth": null,
+   "ax": 0.251,
+   "ay": -0.393,
+   "gz": -0.124
+  },
+  {
+   "t": 457.5,
+   "pred": "Normal cruising",
+   "conf": 0.893,
+   "aggr": 0.013,
+   "truth": null,
+   "ax": -0.659,
+   "ay": 0.157,
+   "gz": -0.065
+  },
+  {
+   "t": 458.0,
+   "pred": "Normal cruising",
+   "conf": 0.767,
+   "aggr": 0.047,
+   "truth": null,
+   "ax": -0.126,
+   "ay": -0.314,
+   "gz": -0.008
+  },
+  {
+   "t": 458.5,
+   "pred": "Normal cruising",
+   "conf": 0.743,
+   "aggr": 0.077,
+   "truth": null,
+   "ax": 0.295,
+   "ay": -0.584,
+   "gz": -0.092
+  },
+  {
+   "t": 459.0,
+   "pred": "Normal cruising",
+   "conf": 0.683,
+   "aggr": 0.107,
+   "truth": null,
+   "ax": 0.535,
+   "ay": 0.303,
+   "gz": 0.0
+  },
+  {
+   "t": 459.5,
+   "pred": "Normal cruising",
+   "conf": 0.63,
+   "aggr": 0.007,
+   "truth": null,
+   "ax": 0.301,
+   "ay": 0.251,
+   "gz": 0.012
+  },
+  {
+   "t": 460.0,
+   "pred": "Normal cruising",
+   "conf": 0.657,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.352,
+   "ay": 0.176,
+   "gz": 0.051
+  },
+  {
+   "t": 460.5,
+   "pred": "Normal cruising",
+   "conf": 0.65,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": 0.907,
+   "ay": 0.207,
+   "gz": 0.062
+  },
+  {
+   "t": 461.0,
+   "pred": "Normal cruising",
+   "conf": 0.77,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": 0.626,
+   "ay": -0.364,
+   "gz": 0.011
+  },
+  {
+   "t": 461.5,
+   "pred": "Normal cruising",
+   "conf": 0.673,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": 0.334,
+   "ay": 0.279,
+   "gz": -0.052
+  },
+  {
+   "t": 462.0,
+   "pred": "Normal cruising",
+   "conf": 0.593,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.013,
+   "ay": 0.142,
+   "gz": -0.037
+  },
+  {
+   "t": 462.5,
+   "pred": "Normal cruising",
+   "conf": 0.873,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": 0.038,
+   "ay": 0.171,
+   "gz": -0.01
+  },
+  {
+   "t": 463.0,
+   "pred": "Normal cruising",
+   "conf": 0.817,
+   "aggr": 0.007,
+   "truth": null,
+   "ax": -0.071,
+   "ay": -0.096,
+   "gz": -0.005
+  },
+  {
+   "t": 463.5,
+   "pred": "Normal cruising",
+   "conf": 0.78,
+   "aggr": 0.003,
+   "truth": "Non-aggressive",
+   "ax": 0.203,
+   "ay": 0.002,
+   "gz": -0.006
+  },
+  {
+   "t": 464.0,
+   "pred": "Non-aggressive",
+   "conf": 0.77,
+   "aggr": 0.003,
+   "truth": "Non-aggressive",
+   "ax": 0.243,
+   "ay": 0.1,
+   "gz": -0.002
+  },
+  {
+   "t": 464.5,
+   "pred": "Non-aggressive",
+   "conf": 0.92,
+   "aggr": 0.0,
+   "truth": "Non-aggressive",
+   "ax": 0.793,
+   "ay": 0.356,
+   "gz": -0.007
+  },
+  {
+   "t": 465.0,
+   "pred": "Non-aggressive",
+   "conf": 0.89,
+   "aggr": 0.0,
+   "truth": "Non-aggressive",
+   "ax": 0.583,
+   "ay": 0.2,
+   "gz": -0.011
+  },
+  {
+   "t": 465.5,
+   "pred": "Non-aggressive",
+   "conf": 0.653,
+   "aggr": 0.0,
+   "truth": "Non-aggressive",
+   "ax": 0.273,
+   "ay": 0.186,
+   "gz": -0.0
+  },
+  {
+   "t": 466.0,
+   "pred": "Normal cruising",
+   "conf": 0.84,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.125,
+   "ay": 0.091,
+   "gz": -0.005
+  },
+  {
+   "t": 466.5,
+   "pred": "Normal cruising",
+   "conf": 0.92,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.006,
+   "ay": 0.094,
+   "gz": -0.004
+  },
+  {
+   "t": 467.0,
+   "pred": "Normal cruising",
+   "conf": 0.963,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.064,
+   "ay": 0.086,
+   "gz": 0.002
+  },
+  {
+   "t": 467.5,
+   "pred": "Normal cruising",
+   "conf": 0.967,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.1,
+   "ay": 0.125,
+   "gz": -0.001
+  },
+  {
+   "t": 468.0,
+   "pred": "Normal cruising",
+   "conf": 0.987,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.075,
+   "ay": 0.119,
+   "gz": 0.004
+  },
+  {
+   "t": 468.5,
+   "pred": "Normal cruising",
+   "conf": 0.983,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.091,
+   "ay": 0.129,
+   "gz": 0.009
+  },
+  {
+   "t": 469.0,
+   "pred": "Normal cruising",
+   "conf": 0.983,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.06,
+   "ay": 0.124,
+   "gz": 0.006
+  },
+  {
+   "t": 469.5,
+   "pred": "Normal cruising",
+   "conf": 0.983,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.091,
+   "ay": 0.146,
+   "gz": 0.003
+  },
+  {
+   "t": 470.0,
+   "pred": "Normal cruising",
+   "conf": 0.99,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.1,
+   "ay": 0.037,
+   "gz": 0.005
+  },
+  {
+   "t": 470.5,
+   "pred": "Normal cruising",
+   "conf": 0.993,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.059,
+   "ay": 0.084,
+   "gz": -0.004
+  },
+  {
+   "t": 471.0,
+   "pred": "Normal cruising",
+   "conf": 0.983,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.075,
+   "ay": 0.015,
+   "gz": -0.007
+  },
+  {
+   "t": 471.5,
+   "pred": "Normal cruising",
+   "conf": 0.987,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.143,
+   "ay": -0.029,
+   "gz": -0.017
+  },
+  {
+   "t": 472.0,
+   "pred": "Normal cruising",
+   "conf": 0.993,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.107,
+   "ay": 0.05,
+   "gz": -0.007
+  },
+  {
+   "t": 472.5,
+   "pred": "Normal cruising",
+   "conf": 0.98,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.053,
+   "ay": 0.091,
+   "gz": -0.008
+  },
+  {
+   "t": 473.0,
+   "pred": "Normal cruising",
+   "conf": 0.99,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.015,
+   "ay": 0.086,
+   "gz": -0.005
+  },
+  {
+   "t": 473.5,
+   "pred": "Normal cruising",
+   "conf": 0.997,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.035,
+   "ay": 0.075,
+   "gz": -0.002
+  },
+  {
+   "t": 474.0,
+   "pred": "Normal cruising",
+   "conf": 0.99,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.144,
+   "ay": 0.013,
+   "gz": -0.004
+  },
+  {
+   "t": 474.5,
+   "pred": "Normal cruising",
+   "conf": 0.987,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.014,
+   "ay": 0.063,
+   "gz": 0.008
+  },
+  {
+   "t": 475.0,
+   "pred": "Normal cruising",
+   "conf": 0.983,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.018,
+   "ay": 0.042,
+   "gz": 0.006
+  },
+  {
+   "t": 475.5,
+   "pred": "Normal cruising",
+   "conf": 0.99,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.042,
+   "ay": 0.061,
+   "gz": -0.001
+  },
+  {
+   "t": 476.0,
+   "pred": "Normal cruising",
+   "conf": 0.997,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.039,
+   "ay": 0.024,
+   "gz": -0.005
+  },
+  {
+   "t": 476.5,
+   "pred": "Normal cruising",
+   "conf": 0.997,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.078,
+   "ay": 0.018,
+   "gz": -0.001
+  },
+  {
+   "t": 477.0,
+   "pred": "Normal cruising",
+   "conf": 0.97,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.091,
+   "ay": -0.055,
+   "gz": -0.003
+  },
+  {
+   "t": 477.5,
+   "pred": "Normal cruising",
+   "conf": 0.95,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.1,
+   "ay": -0.046,
+   "gz": -0.006
+  },
+  {
+   "t": 478.0,
+   "pred": "Normal cruising",
+   "conf": 0.963,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.043,
+   "ay": 0.101,
+   "gz": 0.011
+  },
+  {
+   "t": 478.5,
+   "pred": "Normal cruising",
+   "conf": 0.963,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.01,
+   "ay": -0.005,
+   "gz": 0.001
+  },
+  {
+   "t": 479.0,
+   "pred": "Normal cruising",
+   "conf": 0.993,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.144,
+   "ay": -0.09,
+   "gz": -0.006
+  },
+  {
+   "t": 479.5,
+   "pred": "Normal cruising",
+   "conf": 0.987,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.03,
+   "ay": -0.023,
+   "gz": -0.008
+  },
+  {
+   "t": 480.0,
+   "pred": "Normal cruising",
+   "conf": 0.993,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.02,
+   "ay": 0.087,
+   "gz": -0.004
+  },
+  {
+   "t": 480.5,
+   "pred": "Normal cruising",
+   "conf": 0.97,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.056,
+   "ay": 0.019,
+   "gz": 0.001
+  },
+  {
+   "t": 481.0,
+   "pred": "Normal cruising",
+   "conf": 0.997,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.064,
+   "ay": 0.068,
+   "gz": 0.004
+  },
+  {
+   "t": 481.5,
+   "pred": "Normal cruising",
+   "conf": 0.993,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.019,
+   "ay": 0.023,
+   "gz": -0.005
+  },
+  {
+   "t": 482.0,
+   "pred": "Normal cruising",
+   "conf": 0.99,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.005,
+   "ay": -0.0,
+   "gz": -0.005
+  },
+  {
+   "t": 482.5,
+   "pred": "Normal cruising",
+   "conf": 0.99,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.003,
+   "ay": 0.035,
+   "gz": -0.001
+  },
+  {
+   "t": 483.0,
+   "pred": "Normal cruising",
+   "conf": 0.967,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.057,
+   "ay": 0.016,
+   "gz": 0.003
+  },
+  {
+   "t": 483.5,
+   "pred": "Normal cruising",
+   "conf": 0.98,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.013,
+   "ay": -0.072,
+   "gz": -0.008
+  },
+  {
+   "t": 484.0,
+   "pred": "Normal cruising",
+   "conf": 0.983,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": 0.117,
+   "ay": -0.004,
+   "gz": -0.01
+  },
+  {
+   "t": 484.5,
+   "pred": "Normal cruising",
+   "conf": 0.983,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.024,
+   "ay": -0.072,
+   "gz": -0.001
+  },
+  {
+   "t": 485.0,
+   "pred": "Normal cruising",
+   "conf": 0.747,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.027,
+   "ay": -0.027,
+   "gz": -0.007
+  },
+  {
+   "t": 485.5,
+   "pred": "Normal cruising",
+   "conf": 0.703,
+   "aggr": 0.027,
+   "truth": null,
+   "ax": 0.13,
+   "ay": -0.006,
+   "gz": -0.002
+  },
+  {
+   "t": 486.0,
+   "pred": "Normal cruising",
+   "conf": 0.687,
+   "aggr": 0.04,
+   "truth": null,
+   "ax": 1.32,
+   "ay": 0.524,
+   "gz": -0.012
+  },
+  {
+   "t": 486.5,
+   "pred": "Non-aggressive",
+   "conf": 0.573,
+   "aggr": 0.07,
+   "truth": null,
+   "ax": 1.857,
+   "ay": 0.557,
+   "gz": -0.034
+  },
+  {
+   "t": 487.0,
+   "pred": "Non-aggressive",
+   "conf": 0.63,
+   "aggr": 0.117,
+   "truth": null,
+   "ax": 0.541,
+   "ay": 0.366,
+   "gz": -0.041
+  },
+  {
+   "t": 487.5,
+   "pred": "Non-aggressive",
+   "conf": 0.43,
+   "aggr": 0.373,
+   "truth": null,
+   "ax": -0.172,
+   "ay": 0.096,
+   "gz": 0.066
+  },
+  {
+   "t": 488.0,
+   "pred": "Aggressive acceleration",
+   "conf": 0.44,
+   "aggr": 0.457,
+   "truth": null,
+   "ax": 0.391,
+   "ay": 0.282,
+   "gz": -0.013
+  },
+  {
+   "t": 488.5,
+   "pred": "Aggressive acceleration",
+   "conf": 0.343,
+   "aggr": 0.357,
+   "truth": null,
+   "ax": -0.811,
+   "ay": 0.182,
+   "gz": -0.029
+  },
+  {
+   "t": 489.0,
+   "pred": "Normal cruising",
+   "conf": 0.587,
+   "aggr": 0.157,
+   "truth": null,
+   "ax": -1.095,
+   "ay": -0.221,
+   "gz": 0.005
+  },
+  {
+   "t": 489.5,
+   "pred": "Normal cruising",
+   "conf": 0.66,
+   "aggr": 0.107,
+   "truth": null,
+   "ax": -0.779,
+   "ay": 0.078,
+   "gz": -0.022
+  },
+  {
+   "t": 490.0,
+   "pred": "Normal cruising",
+   "conf": 0.707,
+   "aggr": 0.01,
+   "truth": null,
+   "ax": -0.635,
+   "ay": -0.1,
+   "gz": -0.006
+  },
+  {
+   "t": 490.5,
+   "pred": "Normal cruising",
+   "conf": 0.623,
+   "aggr": 0.023,
+   "truth": null,
+   "ax": -1.288,
+   "ay": -0.492,
+   "gz": 0.011
+  },
+  {
+   "t": 491.0,
+   "pred": "Normal cruising",
+   "conf": 0.707,
+   "aggr": 0.017,
+   "truth": null,
+   "ax": -0.795,
+   "ay": -0.588,
+   "gz": -0.044
+  },
+  {
+   "t": 491.5,
+   "pred": "Normal cruising",
+   "conf": 0.64,
+   "aggr": 0.137,
+   "truth": null,
+   "ax": -0.619,
+   "ay": -0.455,
+   "gz": 0.015
+  },
+  {
+   "t": 492.0,
+   "pred": "Normal cruising",
+   "conf": 0.623,
+   "aggr": 0.163,
+   "truth": null,
+   "ax": -1.32,
+   "ay": 0.089,
+   "gz": -0.027
+  },
+  {
+   "t": 492.5,
+   "pred": "Normal cruising",
+   "conf": 0.633,
+   "aggr": 0.14,
+   "truth": null,
+   "ax": 0.538,
+   "ay": 0.616,
+   "gz": 0.04
+  },
+  {
+   "t": 493.0,
+   "pred": "Normal cruising",
+   "conf": 0.58,
+   "aggr": 0.103,
+   "truth": null,
+   "ax": 0.08,
+   "ay": -0.024,
+   "gz": 0.023
+  },
+  {
+   "t": 493.5,
+   "pred": "Normal cruising",
+   "conf": 0.587,
+   "aggr": 0.077,
+   "truth": null,
+   "ax": -0.345,
+   "ay": -0.655,
+   "gz": -0.099
+  },
+  {
+   "t": 494.0,
+   "pred": "Normal cruising",
+   "conf": 0.527,
+   "aggr": 0.07,
+   "truth": null,
+   "ax": 0.442,
+   "ay": 0.56,
+   "gz": 0.069
+  },
+  {
+   "t": 494.5,
+   "pred": "Non-aggressive",
+   "conf": 0.48,
+   "aggr": 0.067,
+   "truth": null,
+   "ax": -0.802,
+   "ay": 0.261,
+   "gz": 0.037
+  },
+  {
+   "t": 495.0,
+   "pred": "Non-aggressive",
+   "conf": 0.477,
+   "aggr": 0.123,
+   "truth": null,
+   "ax": 0.48,
+   "ay": 0.61,
+   "gz": -0.035
+  },
+  {
+   "t": 495.5,
+   "pred": "Normal cruising",
+   "conf": 0.303,
+   "aggr": 0.5,
+   "truth": null,
+   "ax": -0.389,
+   "ay": 0.185,
+   "gz": 0.028
+  },
+  {
+   "t": 496.0,
+   "pred": "Aggressive left turn",
+   "conf": 0.753,
+   "aggr": 0.913,
+   "truth": null,
+   "ax": 1.056,
+   "ay": 0.613,
+   "gz": -0.439
+  },
+  {
+   "t": 496.5,
+   "pred": "Aggressive left turn",
+   "conf": 0.877,
+   "aggr": 0.937,
+   "truth": "Aggressive left turn",
+   "ax": -0.832,
+   "ay": 2.614,
+   "gz": 0.298
+  },
+  {
+   "t": 497.0,
+   "pred": "Aggressive left turn",
+   "conf": 0.903,
+   "aggr": 0.953,
+   "truth": "Aggressive left turn",
+   "ax": -2.749,
+   "ay": 3.124,
+   "gz": 0.467
+  },
+  {
+   "t": 497.5,
+   "pred": "Aggressive left turn",
+   "conf": 0.873,
+   "aggr": 0.99,
+   "truth": "Aggressive left turn",
+   "ax": -2.88,
+   "ay": 0.182,
+   "gz": 0.66
+  },
+  {
+   "t": 498.0,
+   "pred": "Aggressive left turn",
+   "conf": 0.9,
+   "aggr": 0.983,
+   "truth": "Aggressive left turn",
+   "ax": 1.408,
+   "ay": -1.976,
+   "gz": 0.191
+  },
+  {
+   "t": 498.5,
+   "pred": "Aggressive left turn",
+   "conf": 0.823,
+   "aggr": 0.953,
+   "truth": "Aggressive left turn",
+   "ax": 1.212,
+   "ay": -1.817,
+   "gz": 0.262
+  },
+  {
+   "t": 499.0,
+   "pred": "Aggressive left turn",
+   "conf": 0.34,
+   "aggr": 0.653,
+   "truth": "Aggressive left turn",
+   "ax": 3.186,
+   "ay": 0.595,
+   "gz": 0.104
+  },
+  {
+   "t": 499.5,
+   "pred": "Normal cruising",
+   "conf": 0.277,
+   "aggr": 0.467,
+   "truth": null,
+   "ax": 2.015,
+   "ay": -0.07,
+   "gz": 0.12
+  },
+  {
+   "t": 500.0,
+   "pred": "Normal cruising",
+   "conf": 0.427,
+   "aggr": 0.41,
+   "truth": null,
+   "ax": 1.177,
+   "ay": -0.315,
+   "gz": -0.052
+  },
+  {
+   "t": 500.5,
+   "pred": "Normal cruising",
+   "conf": 0.653,
+   "aggr": 0.137,
+   "truth": null,
+   "ax": 0.735,
+   "ay": -0.445,
+   "gz": 0.015
+  },
+  {
+   "t": 501.0,
+   "pred": "Normal cruising",
+   "conf": 0.647,
+   "aggr": 0.143,
+   "truth": null,
+   "ax": 0.561,
+   "ay": 0.109,
+   "gz": 0.019
+  },
+  {
+   "t": 501.5,
+   "pred": "Normal cruising",
+   "conf": 0.653,
+   "aggr": 0.1,
+   "truth": null,
+   "ax": -0.192,
+   "ay": 1.025,
+   "gz": -0.051
+  },
+  {
+   "t": 502.0,
+   "pred": "Normal cruising",
+   "conf": 0.62,
+   "aggr": 0.217,
+   "truth": null,
+   "ax": -0.022,
+   "ay": 0.913,
+   "gz": -0.031
+  },
+  {
+   "t": 502.5,
+   "pred": "Normal cruising",
+   "conf": 0.6,
+   "aggr": 0.28,
+   "truth": null,
+   "ax": 0.501,
+   "ay": 0.168,
+   "gz": -0.033
+  },
+  {
+   "t": 503.0,
+   "pred": "Normal cruising",
+   "conf": 0.633,
+   "aggr": 0.247,
+   "truth": null,
+   "ax": -0.987,
+   "ay": 0.671,
+   "gz": 0.08
+  },
+  {
+   "t": 503.5,
+   "pred": "Non-aggressive",
+   "conf": 0.413,
+   "aggr": 0.323,
+   "truth": null,
+   "ax": -0.867,
+   "ay": 1.079,
+   "gz": -0.1
+  },
+  {
+   "t": 504.0,
+   "pred": "Non-aggressive",
+   "conf": 0.37,
+   "aggr": 0.357,
+   "truth": null,
+   "ax": -0.466,
+   "ay": 0.171,
+   "gz": 0.023
+  },
+  {
+   "t": 504.5,
+   "pred": "Non-aggressive",
+   "conf": 0.367,
+   "aggr": 0.327,
+   "truth": null,
+   "ax": -2.101,
+   "ay": -2.59,
+   "gz": 0.15
+  },
+  {
+   "t": 505.0,
+   "pred": "Non-aggressive",
+   "conf": 0.363,
+   "aggr": 0.293,
+   "truth": null,
+   "ax": 0.065,
+   "ay": -0.866,
+   "gz": -0.121
+  },
+  {
+   "t": 505.5,
+   "pred": "Normal cruising",
+   "conf": 0.507,
+   "aggr": 0.173,
+   "truth": null,
+   "ax": -0.604,
+   "ay": -1.43,
+   "gz": 0.004
+  },
+  {
+   "t": 506.0,
+   "pred": "Normal cruising",
+   "conf": 0.53,
+   "aggr": 0.227,
+   "truth": null,
+   "ax": 1.221,
+   "ay": -0.789,
+   "gz": -0.077
+  },
+  {
+   "t": 506.5,
+   "pred": "Normal cruising",
+   "conf": 0.547,
+   "aggr": 0.22,
+   "truth": null,
+   "ax": -2.054,
+   "ay": -1.11,
+   "gz": 0.051
+  },
+  {
+   "t": 507.0,
+   "pred": "Normal cruising",
+   "conf": 0.543,
+   "aggr": 0.27,
+   "truth": null,
+   "ax": -1.71,
+   "ay": -0.647,
+   "gz": 0.109
+  },
+  {
+   "t": 507.5,
+   "pred": "Normal cruising",
+   "conf": 0.507,
+   "aggr": 0.293,
+   "truth": null,
+   "ax": 0.513,
+   "ay": -0.558,
+   "gz": -0.049
+  },
+  {
+   "t": 508.0,
+   "pred": "Normal cruising",
+   "conf": 0.59,
+   "aggr": 0.11,
+   "truth": null,
+   "ax": 0.351,
+   "ay": 0.185,
+   "gz": 0.05
+  },
+  {
+   "t": 508.5,
+   "pred": "Aggressive left turn",
+   "conf": 0.31,
+   "aggr": 0.663,
+   "truth": null,
+   "ax": -0.403,
+   "ay": 0.569,
+   "gz": 0.097
+  },
+  {
+   "t": 509.0,
+   "pred": "Aggressive left turn",
+   "conf": 0.827,
+   "aggr": 0.973,
+   "truth": "Aggressive left turn",
+   "ax": -4.338,
+   "ay": 0.288,
+   "gz": 0.386
+  },
+  {
+   "t": 509.5,
+   "pred": "Aggressive left turn",
+   "conf": 0.97,
+   "aggr": 1.0,
+   "truth": "Aggressive left turn",
+   "ax": -4.647,
+   "ay": -1.627,
+   "gz": 0.796
+  },
+  {
+   "t": 510.0,
+   "pred": "Aggressive left turn",
+   "conf": 0.98,
+   "aggr": 1.0,
+   "truth": "Aggressive left turn",
+   "ax": -0.488,
+   "ay": -1.643,
+   "gz": 0.638
+  },
+  {
+   "t": 510.5,
+   "pred": "Aggressive left turn",
+   "conf": 0.98,
+   "aggr": 0.997,
+   "truth": "Aggressive left turn",
+   "ax": 0.896,
+   "ay": -1.602,
+   "gz": 0.525
+  },
+  {
+   "t": 511.0,
+   "pred": "Aggressive left turn",
+   "conf": 0.983,
+   "aggr": 1.0,
+   "truth": "Aggressive left turn",
+   "ax": 3.109,
+   "ay": 0.808,
+   "gz": 0.365
+  },
+  {
+   "t": 511.5,
+   "pred": "Aggressive left turn",
+   "conf": 0.55,
+   "aggr": 0.74,
+   "truth": "Aggressive left turn",
+   "ax": 2.357,
+   "ay": 1.081,
+   "gz": 0.181
+  },
+  {
+   "t": 512.0,
+   "pred": "Normal cruising",
+   "conf": 0.277,
+   "aggr": 0.47,
+   "truth": "Aggressive left turn",
+   "ax": 1.845,
+   "ay": 0.931,
+   "gz": 0.147
+  },
+  {
+   "t": 512.5,
+   "pred": "Normal cruising",
+   "conf": 0.383,
+   "aggr": 0.42,
+   "truth": null,
+   "ax": 1.005,
+   "ay": 0.65,
+   "gz": 0.143
+  },
+  {
+   "t": 513.0,
+   "pred": "Normal cruising",
+   "conf": 0.51,
+   "aggr": 0.293,
+   "truth": null,
+   "ax": 0.369,
+   "ay": 0.162,
+   "gz": 0.072
+  },
+  {
+   "t": 513.5,
+   "pred": "Normal cruising",
+   "conf": 0.67,
+   "aggr": 0.147,
+   "truth": null,
+   "ax": 0.261,
+   "ay": 0.839,
+   "gz": 0.035
+  },
+  {
+   "t": 514.0,
+   "pred": "Normal cruising",
+   "conf": 0.64,
+   "aggr": 0.183,
+   "truth": null,
+   "ax": 0.706,
+   "ay": 0.655,
+   "gz": 0.045
+  },
+  {
+   "t": 514.5,
+   "pred": "Normal cruising",
+   "conf": 0.793,
+   "aggr": 0.06,
+   "truth": null,
+   "ax": -0.403,
+   "ay": 0.535,
+   "gz": -0.045
+  },
+  {
+   "t": 515.0,
+   "pred": "Normal cruising",
+   "conf": 0.813,
+   "aggr": 0.037,
+   "truth": null,
+   "ax": 0.063,
+   "ay": -0.382,
+   "gz": 0.0
+  },
+  {
+   "t": 515.5,
+   "pred": "Normal cruising",
+   "conf": 0.75,
+   "aggr": 0.07,
+   "truth": null,
+   "ax": -0.63,
+   "ay": 0.044,
+   "gz": -0.078
+  },
+  {
+   "t": 516.0,
+   "pred": "Normal cruising",
+   "conf": 0.747,
+   "aggr": 0.073,
+   "truth": null,
+   "ax": 0.209,
+   "ay": 0.751,
+   "gz": -0.064
+  },
+  {
+   "t": 516.5,
+   "pred": "Normal cruising",
+   "conf": 0.77,
+   "aggr": 0.06,
+   "truth": null,
+   "ax": -0.738,
+   "ay": 0.113,
+   "gz": 0.029
+  },
+  {
+   "t": 517.0,
+   "pred": "Normal cruising",
+   "conf": 0.75,
+   "aggr": 0.033,
+   "truth": null,
+   "ax": -0.77,
+   "ay": -0.255,
+   "gz": -0.024
+  },
+  {
+   "t": 517.5,
+   "pred": "Normal cruising",
+   "conf": 0.62,
+   "aggr": 0.047,
+   "truth": null,
+   "ax": -0.418,
+   "ay": -0.13,
+   "gz": -0.023
+  },
+  {
+   "t": 518.0,
+   "pred": "Normal cruising",
+   "conf": 0.693,
+   "aggr": 0.037,
+   "truth": null,
+   "ax": 0.129,
+   "ay": -0.5,
+   "gz": 0.052
+  },
+  {
+   "t": 518.5,
+   "pred": "Normal cruising",
+   "conf": 0.667,
+   "aggr": 0.057,
+   "truth": null,
+   "ax": -1.567,
+   "ay": 0.066,
+   "gz": -0.037
+  },
+  {
+   "t": 519.0,
+   "pred": "Normal cruising",
+   "conf": 0.56,
+   "aggr": 0.073,
+   "truth": null,
+   "ax": -1.335,
+   "ay": -0.223,
+   "gz": -0.05
+  },
+  {
+   "t": 519.5,
+   "pred": "Normal cruising",
+   "conf": 0.633,
+   "aggr": 0.07,
+   "truth": null,
+   "ax": -0.294,
+   "ay": 0.012,
+   "gz": -0.03
+  },
+  {
+   "t": 520.0,
+   "pred": "Normal cruising",
+   "conf": 0.82,
+   "aggr": 0.04,
+   "truth": null,
+   "ax": 0.145,
+   "ay": -0.082,
+   "gz": -0.06
+  },
+  {
+   "t": 520.5,
+   "pred": "Normal cruising",
+   "conf": 0.79,
+   "aggr": 0.043,
+   "truth": null,
+   "ax": 0.079,
+   "ay": -0.348,
+   "gz": -0.054
+  },
+  {
+   "t": 521.0,
+   "pred": "Normal cruising",
+   "conf": 0.777,
+   "aggr": 0.027,
+   "truth": null,
+   "ax": -0.471,
+   "ay": -0.316,
+   "gz": 0.037
+  },
+  {
+   "t": 521.5,
+   "pred": "Normal cruising",
+   "conf": 0.87,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.674,
+   "ay": 0.955,
+   "gz": -0.105
+  },
+  {
+   "t": 522.0,
+   "pred": "Normal cruising",
+   "conf": 0.873,
+   "aggr": 0.007,
+   "truth": null,
+   "ax": -0.387,
+   "ay": 0.028,
+   "gz": 0.008
+  },
+  {
+   "t": 522.5,
+   "pred": "Normal cruising",
+   "conf": 0.87,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.77,
+   "ay": -0.911,
+   "gz": 0.026
+  },
+  {
+   "t": 523.0,
+   "pred": "Normal cruising",
+   "conf": 0.847,
+   "aggr": 0.007,
+   "truth": null,
+   "ax": -0.106,
+   "ay": -0.552,
+   "gz": 0.041
+  },
+  {
+   "t": 523.5,
+   "pred": "Normal cruising",
+   "conf": 0.87,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": 0.195,
+   "ay": 1.447,
+   "gz": -0.073
+  },
+  {
+   "t": 524.0,
+   "pred": "Normal cruising",
+   "conf": 0.873,
+   "aggr": 0.01,
+   "truth": null,
+   "ax": -0.213,
+   "ay": 0.442,
+   "gz": -0.035
+  },
+  {
+   "t": 524.5,
+   "pred": "Normal cruising",
+   "conf": 0.79,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": 0.156,
+   "ay": -0.054,
+   "gz": -0.049
+  },
+  {
+   "t": 525.0,
+   "pred": "Normal cruising",
+   "conf": 0.79,
+   "aggr": 0.007,
+   "truth": null,
+   "ax": -0.487,
+   "ay": -0.276,
+   "gz": 0.025
+  },
+  {
+   "t": 525.5,
+   "pred": "Normal cruising",
+   "conf": 0.803,
+   "aggr": 0.013,
+   "truth": null,
+   "ax": -0.694,
+   "ay": 0.176,
+   "gz": -0.006
+  },
+  {
+   "t": 526.0,
+   "pred": "Normal cruising",
+   "conf": 0.817,
+   "aggr": 0.017,
+   "truth": null,
+   "ax": 0.166,
+   "ay": 0.101,
+   "gz": -0.045
+  },
+  {
+   "t": 526.5,
+   "pred": "Normal cruising",
+   "conf": 0.837,
+   "aggr": 0.023,
+   "truth": null,
+   "ax": 0.295,
+   "ay": 0.023,
+   "gz": -0.076
+  },
+  {
+   "t": 527.0,
+   "pred": "Normal cruising",
+   "conf": 0.873,
+   "aggr": 0.02,
+   "truth": null,
+   "ax": 0.307,
+   "ay": 0.114,
+   "gz": 0.008
+  },
+  {
+   "t": 527.5,
+   "pred": "Normal cruising",
+   "conf": 0.88,
+   "aggr": 0.013,
+   "truth": null,
+   "ax": -0.371,
+   "ay": -0.445,
+   "gz": 0.011
+  },
+  {
+   "t": 528.0,
+   "pred": "Normal cruising",
+   "conf": 0.823,
+   "aggr": 0.06,
+   "truth": null,
+   "ax": 0.513,
+   "ay": -0.012,
+   "gz": 0.012
+  },
+  {
+   "t": 528.5,
+   "pred": "Normal cruising",
+   "conf": 0.753,
+   "aggr": 0.053,
+   "truth": null,
+   "ax": -0.028,
+   "ay": 0.667,
+   "gz": 0.024
+  },
+  {
+   "t": 529.0,
+   "pred": "Normal cruising",
+   "conf": 0.733,
+   "aggr": 0.057,
+   "truth": null,
+   "ax": 0.456,
+   "ay": 0.3,
+   "gz": -0.079
+  },
+  {
+   "t": 529.5,
+   "pred": "Normal cruising",
+   "conf": 0.737,
+   "aggr": 0.073,
+   "truth": null,
+   "ax": 1.433,
+   "ay": 0.522,
+   "gz": -0.056
+  },
+  {
+   "t": 530.0,
+   "pred": "Normal cruising",
+   "conf": 0.743,
+   "aggr": 0.07,
+   "truth": null,
+   "ax": -0.165,
+   "ay": -0.072,
+   "gz": -0.065
+  },
+  {
+   "t": 530.5,
+   "pred": "Normal cruising",
+   "conf": 0.707,
+   "aggr": 0.067,
+   "truth": null,
+   "ax": 0.497,
+   "ay": 0.166,
+   "gz": -0.005
+  },
+  {
+   "t": 531.0,
+   "pred": "Aggressive left turn",
+   "conf": 0.313,
+   "aggr": 0.573,
+   "truth": null,
+   "ax": 0.108,
+   "ay": 0.341,
+   "gz": -0.008
+  },
+  {
+   "t": 531.5,
+   "pred": "Aggressive left turn",
+   "conf": 0.877,
+   "aggr": 0.96,
+   "truth": null,
+   "ax": -0.793,
+   "ay": -0.874,
+   "gz": 0.1
+  },
+  {
+   "t": 532.0,
+   "pred": "Aggressive left turn",
+   "conf": 0.99,
+   "aggr": 1.0,
+   "truth": "Aggressive left turn",
+   "ax": -2.183,
+   "ay": -5.956,
+   "gz": 0.577
+  },
+  {
+   "t": 532.5,
+   "pred": "Aggressive left turn",
+   "conf": 0.99,
+   "aggr": 1.0,
+   "truth": "Aggressive left turn",
+   "ax": 0.139,
+   "ay": -2.943,
+   "gz": 0.805
+  },
+  {
+   "t": 533.0,
+   "pred": "Aggressive left turn",
+   "conf": 0.97,
+   "aggr": 0.997,
+   "truth": "Aggressive left turn",
+   "ax": 2.042,
+   "ay": -0.753,
+   "gz": 0.578
+  },
+  {
+   "t": 533.5,
+   "pred": "Aggressive left turn",
+   "conf": 0.9,
+   "aggr": 0.953,
+   "truth": "Aggressive left turn",
+   "ax": -1.53,
+   "ay": 5.164,
+   "gz": 0.209
+  },
+  {
+   "t": 534.0,
+   "pred": "Aggressive left turn",
+   "conf": 0.557,
+   "aggr": 0.687,
+   "truth": "Aggressive left turn",
+   "ax": -0.769,
+   "ay": 2.363,
+   "gz": 0.064
+  },
+  {
+   "t": 534.5,
+   "pred": "Non-aggressive",
+   "conf": 0.367,
+   "aggr": 0.333,
+   "truth": null,
+   "ax": -1.243,
+   "ay": 1.457,
+   "gz": 0.089
+  },
+  {
+   "t": 535.0,
+   "pred": "Normal cruising",
+   "conf": 0.427,
+   "aggr": 0.233,
+   "truth": null,
+   "ax": -0.654,
+   "ay": 0.748,
+   "gz": 0.139
+  },
+  {
+   "t": 535.5,
+   "pred": "Normal cruising",
+   "conf": 0.577,
+   "aggr": 0.117,
+   "truth": null,
+   "ax": -0.019,
+   "ay": 0.302,
+   "gz": 0.24
+  },
+  {
+   "t": 536.0,
+   "pred": "Normal cruising",
+   "conf": 0.553,
+   "aggr": 0.113,
+   "truth": null,
+   "ax": -0.888,
+   "ay": 0.452,
+   "gz": 0.058
+  },
+  {
+   "t": 536.5,
+   "pred": "Normal cruising",
+   "conf": 0.73,
+   "aggr": 0.08,
+   "truth": null,
+   "ax": -1.135,
+   "ay": 0.821,
+   "gz": -0.039
+  },
+  {
+   "t": 537.0,
+   "pred": "Normal cruising",
+   "conf": 0.707,
+   "aggr": 0.007,
+   "truth": null,
+   "ax": -0.657,
+   "ay": -0.119,
+   "gz": -0.068
+  },
+  {
+   "t": 537.5,
+   "pred": "Normal cruising",
+   "conf": 0.877,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.293,
+   "ay": -0.145,
+   "gz": -0.042
+  },
+  {
+   "t": 538.0,
+   "pred": "Normal cruising",
+   "conf": 0.89,
+   "aggr": 0.03,
+   "truth": null,
+   "ax": -0.427,
+   "ay": 0.071,
+   "gz": -0.046
+  },
+  {
+   "t": 538.5,
+   "pred": "Normal cruising",
+   "conf": 0.917,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": 1.249,
+   "ay": -0.944,
+   "gz": 0.091
+  },
+  {
+   "t": 539.0,
+   "pred": "Normal cruising",
+   "conf": 0.91,
+   "aggr": 0.013,
+   "truth": null,
+   "ax": 0.317,
+   "ay": -0.584,
+   "gz": 0.031
+  },
+  {
+   "t": 539.5,
+   "pred": "Normal cruising",
+   "conf": 0.897,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.246,
+   "ay": -0.031,
+   "gz": -0.061
+  },
+  {
+   "t": 540.0,
+   "pred": "Normal cruising",
+   "conf": 0.897,
+   "aggr": 0.007,
+   "truth": null,
+   "ax": -0.327,
+   "ay": -0.045,
+   "gz": -0.019
+  },
+  {
+   "t": 540.5,
+   "pred": "Normal cruising",
+   "conf": 0.867,
+   "aggr": 0.01,
+   "truth": null,
+   "ax": 0.544,
+   "ay": -0.551,
+   "gz": 0.007
+  },
+  {
+   "t": 541.0,
+   "pred": "Normal cruising",
+   "conf": 0.857,
+   "aggr": 0.013,
+   "truth": null,
+   "ax": -0.393,
+   "ay": 0.619,
+   "gz": -0.146
+  },
+  {
+   "t": 541.5,
+   "pred": "Normal cruising",
+   "conf": 0.89,
+   "aggr": 0.007,
+   "truth": null,
+   "ax": 0.347,
+   "ay": -0.683,
+   "gz": 0.007
+  },
+  {
+   "t": 542.0,
+   "pred": "Normal cruising",
+   "conf": 0.857,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.252,
+   "ay": -0.328,
+   "gz": -0.035
+  },
+  {
+   "t": 542.5,
+   "pred": "Normal cruising",
+   "conf": 0.777,
+   "aggr": 0.01,
+   "truth": null,
+   "ax": 0.49,
+   "ay": -0.625,
+   "gz": 0.004
+  },
+  {
+   "t": 543.0,
+   "pred": "Normal cruising",
+   "conf": 0.75,
+   "aggr": 0.01,
+   "truth": null,
+   "ax": 0.107,
+   "ay": -0.455,
+   "gz": 0.04
+  },
+  {
+   "t": 543.5,
+   "pred": "Normal cruising",
+   "conf": 0.683,
+   "aggr": 0.01,
+   "truth": null,
+   "ax": -0.204,
+   "ay": -0.317,
+   "gz": -0.002
+  },
+  {
+   "t": 544.0,
+   "pred": "Normal cruising",
+   "conf": 0.733,
+   "aggr": 0.013,
+   "truth": null,
+   "ax": -0.034,
+   "ay": 0.101,
+   "gz": -0.041
+  },
+  {
+   "t": 544.5,
+   "pred": "Normal cruising",
+   "conf": 0.817,
+   "aggr": 0.01,
+   "truth": null,
+   "ax": 0.09,
+   "ay": -0.001,
+   "gz": -0.016
+  },
+  {
+   "t": 545.0,
+   "pred": "Normal cruising",
+   "conf": 0.827,
+   "aggr": 0.013,
+   "truth": null,
+   "ax": 0.07,
+   "ay": -0.652,
+   "gz": -0.007
+  },
+  {
+   "t": 545.5,
+   "pred": "Normal cruising",
+   "conf": 0.82,
+   "aggr": 0.013,
+   "truth": null,
+   "ax": -0.09,
+   "ay": 0.046,
+   "gz": -0.05
+  },
+  {
+   "t": 546.0,
+   "pred": "Normal cruising",
+   "conf": 0.767,
+   "aggr": 0.017,
+   "truth": null,
+   "ax": 0.018,
+   "ay": -0.053,
+   "gz": -0.04
+  },
+  {
+   "t": 546.5,
+   "pred": "Normal cruising",
+   "conf": 0.603,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.153,
+   "ay": 0.047,
+   "gz": 0.017
+  },
+  {
+   "t": 547.0,
+   "pred": "Normal cruising",
+   "conf": 0.657,
+   "aggr": 0.02,
+   "truth": null,
+   "ax": 0.057,
+   "ay": -0.063,
+   "gz": 0.009
+  },
+  {
+   "t": 547.5,
+   "pred": "Normal cruising",
+   "conf": 0.617,
+   "aggr": 0.043,
+   "truth": null,
+   "ax": -0.352,
+   "ay": -0.436,
+   "gz": 0.012
+  },
+  {
+   "t": 548.0,
+   "pred": "Normal cruising",
+   "conf": 0.683,
+   "aggr": 0.093,
+   "truth": null,
+   "ax": 0.079,
+   "ay": -1.28,
+   "gz": 0.013
+  },
+  {
+   "t": 548.5,
+   "pred": "Normal cruising",
+   "conf": 0.773,
+   "aggr": 0.067,
+   "truth": null,
+   "ax": 0.109,
+   "ay": -0.217,
+   "gz": 0.023
+  },
+  {
+   "t": 549.0,
+   "pred": "Normal cruising",
+   "conf": 0.767,
+   "aggr": 0.09,
+   "truth": null,
+   "ax": -0.657,
+   "ay": 0.512,
+   "gz": 0.144
+  },
+  {
+   "t": 549.5,
+   "pred": "Normal cruising",
+   "conf": 0.823,
+   "aggr": 0.04,
+   "truth": null,
+   "ax": -0.297,
+   "ay": -0.063,
+   "gz": -0.028
+  },
+  {
+   "t": 550.0,
+   "pred": "Normal cruising",
+   "conf": 0.753,
+   "aggr": 0.077,
+   "truth": null,
+   "ax": 0.182,
+   "ay": 0.177,
+   "gz": -0.004
+  },
+  {
+   "t": 550.5,
+   "pred": "Normal cruising",
+   "conf": 0.703,
+   "aggr": 0.087,
+   "truth": null,
+   "ax": -0.321,
+   "ay": -0.335,
+   "gz": -0.048
+  },
+  {
+   "t": 551.0,
+   "pred": "Normal cruising",
+   "conf": 0.777,
+   "aggr": 0.027,
+   "truth": null,
+   "ax": 0.055,
+   "ay": -1.213,
+   "gz": -0.024
+  },
+  {
+   "t": 551.5,
+   "pred": "Normal cruising",
+   "conf": 0.767,
+   "aggr": 0.027,
+   "truth": null,
+   "ax": 0.277,
+   "ay": -0.21,
+   "gz": -0.06
+  },
+  {
+   "t": 552.0,
+   "pred": "Normal cruising",
+   "conf": 0.733,
+   "aggr": 0.037,
+   "truth": null,
+   "ax": -0.67,
+   "ay": 0.78,
+   "gz": -0.091
+  },
+  {
+   "t": 552.5,
+   "pred": "Normal cruising",
+   "conf": 0.75,
+   "aggr": 0.037,
+   "truth": null,
+   "ax": -0.742,
+   "ay": -0.196,
+   "gz": 0.009
+  },
+  {
+   "t": 553.0,
+   "pred": "Normal cruising",
+   "conf": 0.72,
+   "aggr": 0.077,
+   "truth": null,
+   "ax": 0.067,
+   "ay": -0.076,
+   "gz": -0.04
+  },
+  {
+   "t": 553.5,
+   "pred": "Normal cruising",
+   "conf": 0.59,
+   "aggr": 0.093,
+   "truth": null,
+   "ax": 0.13,
+   "ay": 0.178,
+   "gz": -0.051
+  },
+  {
+   "t": 554.0,
+   "pred": "Normal cruising",
+   "conf": 0.463,
+   "aggr": 0.163,
+   "truth": null,
+   "ax": -0.149,
+   "ay": 0.752,
+   "gz": -0.034
+  },
+  {
+   "t": 554.5,
+   "pred": "Normal cruising",
+   "conf": 0.45,
+   "aggr": 0.18,
+   "truth": null,
+   "ax": 0.464,
+   "ay": -0.881,
+   "gz": 0.033
+  },
+  {
+   "t": 555.0,
+   "pred": "Normal cruising",
+   "conf": 0.41,
+   "aggr": 0.253,
+   "truth": null,
+   "ax": -0.312,
+   "ay": -0.113,
+   "gz": -0.058
+  },
+  {
+   "t": 555.5,
+   "pred": "Normal cruising",
+   "conf": 0.34,
+   "aggr": 0.36,
+   "truth": null,
+   "ax": 1.591,
+   "ay": 1.199,
+   "gz": -0.006
+  },
+  {
+   "t": 556.0,
+   "pred": "Normal cruising",
+   "conf": 0.407,
+   "aggr": 0.277,
+   "truth": null,
+   "ax": -0.174,
+   "ay": 0.112,
+   "gz": 0.004
+  },
+  {
+   "t": 556.5,
+   "pred": "Normal cruising",
+   "conf": 0.4,
+   "aggr": 0.283,
+   "truth": null,
+   "ax": -0.571,
+   "ay": -3.297,
+   "gz": -0.059
+  },
+  {
+   "t": 557.0,
+   "pred": "Normal cruising",
+   "conf": 0.467,
+   "aggr": 0.2,
+   "truth": null,
+   "ax": -0.044,
+   "ay": -1.041,
+   "gz": -0.023
+  },
+  {
+   "t": 557.5,
+   "pred": "Non-aggressive",
+   "conf": 0.517,
+   "aggr": 0.123,
+   "truth": null,
+   "ax": 0.334,
+   "ay": -0.316,
+   "gz": 0.003
+  },
+  {
+   "t": 558.0,
+   "pred": "Non-aggressive",
+   "conf": 0.583,
+   "aggr": 0.14,
+   "truth": null,
+   "ax": -1.163,
+   "ay": 0.124,
+   "gz": -0.098
+  },
+  {
+   "t": 558.5,
+   "pred": "Non-aggressive",
+   "conf": 0.63,
+   "aggr": 0.097,
+   "truth": null,
+   "ax": -3.398,
+   "ay": -0.407,
+   "gz": -0.269
+  },
+  {
+   "t": 559.0,
+   "pred": "Non-aggressive",
+   "conf": 0.397,
+   "aggr": 0.25,
+   "truth": null,
+   "ax": -0.055,
+   "ay": 0.951,
+   "gz": -0.007
+  },
+  {
+   "t": 559.5,
+   "pred": "Normal cruising",
+   "conf": 0.343,
+   "aggr": 0.317,
+   "truth": null,
+   "ax": -0.161,
+   "ay": 2.722,
+   "gz": -0.334
+  },
+  {
+   "t": 560.0,
+   "pred": "Non-aggressive",
+   "conf": 0.31,
+   "aggr": 0.383,
+   "truth": null,
+   "ax": 1.631,
+   "ay": -3.024,
+   "gz": -0.155
+  },
+  {
+   "t": 560.5,
+   "pred": "Non-aggressive",
+   "conf": 0.363,
+   "aggr": 0.293,
+   "truth": null,
+   "ax": 2.519,
+   "ay": -0.148,
+   "gz": 0.287
+  },
+  {
+   "t": 561.0,
+   "pred": "Non-aggressive",
+   "conf": 0.42,
+   "aggr": 0.267,
+   "truth": null,
+   "ax": -0.18,
+   "ay": -0.118,
+   "gz": 0.152
+  },
+  {
+   "t": 561.5,
+   "pred": "Non-aggressive",
+   "conf": 0.477,
+   "aggr": 0.223,
+   "truth": null,
+   "ax": 0.927,
+   "ay": 0.616,
+   "gz": -0.014
+  },
+  {
+   "t": 562.0,
+   "pred": "Normal cruising",
+   "conf": 0.443,
+   "aggr": 0.133,
+   "truth": null,
+   "ax": 0.186,
+   "ay": -0.108,
+   "gz": 0.293
+  },
+  {
+   "t": 562.5,
+   "pred": "Normal cruising",
+   "conf": 0.637,
+   "aggr": 0.1,
+   "truth": null,
+   "ax": -1.285,
+   "ay": 2.241,
+   "gz": -0.123
+  },
+  {
+   "t": 563.0,
+   "pred": "Normal cruising",
+   "conf": 0.553,
+   "aggr": 0.083,
+   "truth": null,
+   "ax": -0.315,
+   "ay": -0.71,
+   "gz": -0.166
+  },
+  {
+   "t": 563.5,
+   "pred": "Normal cruising",
+   "conf": 0.517,
+   "aggr": 0.13,
+   "truth": null,
+   "ax": 2.018,
+   "ay": 0.154,
+   "gz": 0.164
+  },
+  {
+   "t": 564.0,
+   "pred": "Normal cruising",
+   "conf": 0.487,
+   "aggr": 0.143,
+   "truth": null,
+   "ax": 1.844,
+   "ay": -2.042,
+   "gz": 0.216
+  },
+  {
+   "t": 564.5,
+   "pred": "Normal cruising",
+   "conf": 0.407,
+   "aggr": 0.2,
+   "truth": null,
+   "ax": -1.824,
+   "ay": 2.099,
+   "gz": -0.245
+  },
+  {
+   "t": 565.0,
+   "pred": "Normal cruising",
+   "conf": 0.417,
+   "aggr": 0.193,
+   "truth": null,
+   "ax": -1.145,
+   "ay": -0.957,
+   "gz": -0.107
+  },
+  {
+   "t": 565.5,
+   "pred": "Non-aggressive",
+   "conf": 0.437,
+   "aggr": 0.173,
+   "truth": null,
+   "ax": 0.195,
+   "ay": -0.597,
+   "gz": 0.048
+  },
+  {
+   "t": 566.0,
+   "pred": "Non-aggressive",
+   "conf": 0.573,
+   "aggr": 0.093,
+   "truth": null,
+   "ax": 1.573,
+   "ay": -3.362,
+   "gz": 0.202
+  },
+  {
+   "t": 566.5,
+   "pred": "Normal cruising",
+   "conf": 0.42,
+   "aggr": 0.17,
+   "truth": null,
+   "ax": -0.147,
+   "ay": 0.085,
+   "gz": -0.041
+  },
+  {
+   "t": 567.0,
+   "pred": "Non-aggressive",
+   "conf": 0.417,
+   "aggr": 0.183,
+   "truth": null,
+   "ax": 0.63,
+   "ay": 0.649,
+   "gz": 0.049
+  },
+  {
+   "t": 567.5,
+   "pred": "Normal cruising",
+   "conf": 0.587,
+   "aggr": 0.103,
+   "truth": null,
+   "ax": 0.325,
+   "ay": 0.652,
+   "gz": -0.001
+  },
+  {
+   "t": 568.0,
+   "pred": "Non-aggressive",
+   "conf": 0.523,
+   "aggr": 0.03,
+   "truth": null,
+   "ax": 0.257,
+   "ay": 0.416,
+   "gz": -0.017
+  },
+  {
+   "t": 568.5,
+   "pred": "Normal cruising",
+   "conf": 0.613,
+   "aggr": 0.063,
+   "truth": null,
+   "ax": -0.589,
+   "ay": -0.162,
+   "gz": -0.118
+  },
+  {
+   "t": 569.0,
+   "pred": "Normal cruising",
+   "conf": 0.603,
+   "aggr": 0.033,
+   "truth": null,
+   "ax": -0.701,
+   "ay": -0.493,
+   "gz": -0.17
+  },
+  {
+   "t": 569.5,
+   "pred": "Normal cruising",
+   "conf": 0.667,
+   "aggr": 0.067,
+   "truth": null,
+   "ax": -1.188,
+   "ay": -1.104,
+   "gz": -0.259
+  },
+  {
+   "t": 570.0,
+   "pred": "Normal cruising",
+   "conf": 0.763,
+   "aggr": 0.037,
+   "truth": null,
+   "ax": -0.681,
+   "ay": -0.963,
+   "gz": -0.297
+  },
+  {
+   "t": 570.5,
+   "pred": "Normal cruising",
+   "conf": 0.77,
+   "aggr": 0.01,
+   "truth": null,
+   "ax": -0.586,
+   "ay": -1.07,
+   "gz": -0.226
+  },
+  {
+   "t": 571.0,
+   "pred": "Normal cruising",
+   "conf": 0.693,
+   "aggr": 0.027,
+   "truth": null,
+   "ax": -0.289,
+   "ay": -0.819,
+   "gz": -0.125
+  },
+  {
+   "t": 571.5,
+   "pred": "Normal cruising",
+   "conf": 0.647,
+   "aggr": 0.027,
+   "truth": null,
+   "ax": -0.131,
+   "ay": -0.951,
+   "gz": 0.03
+  },
+  {
+   "t": 572.0,
+   "pred": "Normal cruising",
+   "conf": 0.577,
+   "aggr": 0.013,
+   "truth": null,
+   "ax": -0.104,
+   "ay": -0.954,
+   "gz": 0.16
+  },
+  {
+   "t": 572.5,
+   "pred": "Normal cruising",
+   "conf": 0.783,
+   "aggr": 0.057,
+   "truth": null,
+   "ax": 0.562,
+   "ay": -0.949,
+   "gz": 0.301
+  },
+  {
+   "t": 573.0,
+   "pred": "Normal cruising",
+   "conf": 0.717,
+   "aggr": 0.067,
+   "truth": null,
+   "ax": 0.969,
+   "ay": 0.793,
+   "gz": 0.273
+  },
+  {
+   "t": 573.5,
+   "pred": "Normal cruising",
+   "conf": 0.683,
+   "aggr": 0.037,
+   "truth": null,
+   "ax": 0.604,
+   "ay": 1.5,
+   "gz": 0.172
+  },
+  {
+   "t": 574.0,
+   "pred": "Normal cruising",
+   "conf": 0.707,
+   "aggr": 0.037,
+   "truth": null,
+   "ax": -0.273,
+   "ay": 0.352,
+   "gz": 0.049
+  },
+  {
+   "t": 574.5,
+   "pred": "Normal cruising",
+   "conf": 0.583,
+   "aggr": 0.013,
+   "truth": null,
+   "ax": -0.705,
+   "ay": -0.277,
+   "gz": -0.005
+  },
+  {
+   "t": 575.0,
+   "pred": "Normal cruising",
+   "conf": 0.567,
+   "aggr": 0.01,
+   "truth": null,
+   "ax": -0.154,
+   "ay": -0.138,
+   "gz": -0.006
+  },
+  {
+   "t": 575.5,
+   "pred": "Normal cruising",
+   "conf": 0.663,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.262,
+   "ay": -0.017,
+   "gz": -0.006
+  },
+  {
+   "t": 576.0,
+   "pred": "Normal cruising",
+   "conf": 0.573,
+   "aggr": 0.003,
+   "truth": null,
+   "ax": -0.298,
+   "ay": -0.24,
+   "gz": -0.005
+  },
+  {
+   "t": 576.5,
+   "pred": "Normal cruising",
+   "conf": 0.563,
+   "aggr": 0.007,
+   "truth": null,
+   "ax": -0.199,
+   "ay": -0.184,
+   "gz": -0.005
+  },
+  {
+   "t": 577.0,
+   "pred": "Normal cruising",
+   "conf": 0.817,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.107,
+   "ay": -0.122,
+   "gz": -0.004
+  },
+  {
+   "t": 577.5,
+   "pred": "Normal cruising",
+   "conf": 0.89,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.011,
+   "ay": -0.058,
+   "gz": -0.005
+  },
+  {
+   "t": 578.0,
+   "pred": "Normal cruising",
+   "conf": 0.96,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.116,
+   "ay": 0.038,
+   "gz": -0.001
+  },
+  {
+   "t": 578.5,
+   "pred": "Normal cruising",
+   "conf": 0.973,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.165,
+   "ay": 0.01,
+   "gz": -0.008
+  },
+  {
+   "t": 579.0,
+   "pred": "Normal cruising",
+   "conf": 0.987,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.2,
+   "ay": 0.211,
+   "gz": -0.006
+  },
+  {
+   "t": 579.5,
+   "pred": "Normal cruising",
+   "conf": 0.987,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.152,
+   "ay": 0.094,
+   "gz": -0.005
+  },
+  {
+   "t": 580.0,
+   "pred": "Normal cruising",
+   "conf": 0.973,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.088,
+   "ay": 0.032,
+   "gz": 0.008
+  },
+  {
+   "t": 580.5,
+   "pred": "Normal cruising",
+   "conf": 0.977,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.201,
+   "ay": 0.162,
+   "gz": -0.006
+  },
+  {
+   "t": 581.0,
+   "pred": "Normal cruising",
+   "conf": 0.99,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.095,
+   "ay": 0.046,
+   "gz": 0.003
+  },
+  {
+   "t": 581.5,
+   "pred": "Normal cruising",
+   "conf": 0.98,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.016,
+   "ay": 0.039,
+   "gz": 0.002
+  },
+  {
+   "t": 582.0,
+   "pred": "Normal cruising",
+   "conf": 0.987,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.034,
+   "ay": -0.027,
+   "gz": 0.006
+  },
+  {
+   "t": 582.5,
+   "pred": "Normal cruising",
+   "conf": 0.993,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.013,
+   "ay": 0.024,
+   "gz": 0.003
+  },
+  {
+   "t": 583.0,
+   "pred": "Normal cruising",
+   "conf": 0.983,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.022,
+   "ay": -0.013,
+   "gz": 0.0
+  },
+  {
+   "t": 583.5,
+   "pred": "Normal cruising",
+   "conf": 0.983,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.034,
+   "ay": 0.016,
+   "gz": 0.012
+  },
+  {
+   "t": 584.0,
+   "pred": "Normal cruising",
+   "conf": 0.99,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.024,
+   "ay": 0.008,
+   "gz": 0.007
+  },
+  {
+   "t": 584.5,
+   "pred": "Normal cruising",
+   "conf": 0.983,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.167,
+   "ay": 0.112,
+   "gz": 0.003
+  },
+  {
+   "t": 585.0,
+   "pred": "Normal cruising",
+   "conf": 0.97,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.003,
+   "ay": 0.028,
+   "gz": 0.003
+  },
+  {
+   "t": 585.5,
+   "pred": "Normal cruising",
+   "conf": 0.98,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": -0.037,
+   "ay": 0.037,
+   "gz": 0.002
+  },
+  {
+   "t": 586.0,
+   "pred": "Normal cruising",
+   "conf": 0.98,
+   "aggr": 0.0,
+   "truth": null,
+   "ax": 0.064,
+   "ay": 0.083,
+   "gz": 0.004
+  },
+  {
+   "t": 586.5,
+   "pred": "Normal cruising",
+   "conf": 0.963,
+   "aggr": 0.007,
+   "truth": null,
+   "ax": 0.039,
+   "ay": -0.02,
+   "gz": 0.002
+  },
+  {
+   "t": 587.0,
+   "pred": "Normal cruising",
+   "conf": 0.947,
+   "aggr": 0.01,
+   "truth": null,
+   "ax": 0.128,
+   "ay": 0.077,
+   "gz": -0.008
+  },
+  {
+   "t": 587.5,
+   "pred": "Normal cruising",
+   "conf": 0.97,
+   "aggr": 0.007,
+   "truth": null,
+   "ax": -0.066,
+   "ay": -0.012,
+   "gz": 0.001
+  },
+  {
+   "t": 588.0,
+   "pred": "Normal cruising",
+   "conf": 0.84,
+   "aggr": 0.017,
+   "truth": null,
+   "ax": 0.011,
+   "ay": 0.052,
+   "gz": 0.011
+  }
+ ]
+}

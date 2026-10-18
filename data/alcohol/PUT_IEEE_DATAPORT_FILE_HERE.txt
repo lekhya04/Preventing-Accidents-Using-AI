@@ -1,0 +1,6 @@
+Download from IEEE DataPort (free IEEE account / login):
+  "Alcohol Detection in Drivers by Sensors and Computer Vision"
+  P. D. Rosero-Montalvo, D. Peluffo-Ordonez, DOI 10.21227/mnja-3553
+Save the data file as a .csv in this folder (5 numeric attributes + class column, 1 = no alcohol, 2 = alcohol),
+then run:  python train_all.py
+Until then alcohol_SIMULATED_schema_demo.csv is used and the dashboard shows "Simulated".

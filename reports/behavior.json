@@ -1,0 +1,465 @@
+{
+ "dataset": {
+  "name": "Driver Behavior Dataset (Ferreira J\u00fanior et al., PLoS ONE 2017)",
+  "trips": [
+   16,
+   17,
+   20,
+   21
+  ],
+  "n_windows": 860,
+  "n_events": 69,
+  "class_windows": {
+   "Non-aggressive": 154,
+   "Aggressive acceleration": 132,
+   "Aggressive braking": 73,
+   "Aggressive left turn": 117,
+   "Aggressive right turn": 117,
+   "Aggressive left lane change": 20,
+   "Aggressive right lane change": 27,
+   "Normal cruising": 220
+  },
+  "sensors": "Accelerometer, linear accelerometer, gyroscope (3 axes each), resampled to 50 Hz",
+  "window": "2 s windows, 0.25 s step",
+  "n_features": 104
+ },
+ "models": {
+  "RBF-SVM (Gaussian kernel)": {
+   "window": {
+    "accuracy": 0.45930232558139533,
+    "macro_f1": 0.4098503646929823,
+    "balanced_accuracy": 0.38642248796358386,
+    "macro_precision": 0.5686322805726143,
+    "macro_recall": 0.38642248796358386,
+    "confusion": [
+     [
+      14,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      138
+     ],
+     [
+      24,
+      21,
+      0,
+      1,
+      0,
+      0,
+      0,
+      86
+     ],
+     [
+      11,
+      3,
+      19,
+      10,
+      0,
+      0,
+      0,
+      30
+     ],
+     [
+      1,
+      0,
+      0,
+      75,
+      13,
+      0,
+      0,
+      28
+     ],
+     [
+      0,
+      0,
+      0,
+      0,
+      69,
+      0,
+      0,
+      48
+     ],
+     [
+      0,
+      0,
+      0,
+      1,
+      2,
+      0,
+      6,
+      11
+     ],
+     [
+      0,
+      0,
+      0,
+      4,
+      0,
+      9,
+      14,
+      0
+     ],
+     [
+      31,
+      2,
+      1,
+      1,
+      1,
+      1,
+      0,
+      183
+     ]
+    ]
+   },
+   "event": {
+    "accuracy": 0.5688073394495413,
+    "macro_f1": 0.45233305966064585,
+    "balanced_accuracy": 0.4242694805194805,
+    "macro_precision": 0.6370039682539683,
+    "macro_recall": 0.4242694805194805,
+    "confusion": [
+     [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      13
+     ],
+     [
+      1,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      9
+     ],
+     [
+      0,
+      0,
+      4,
+      1,
+      0,
+      0,
+      0,
+      7
+     ],
+     [
+      0,
+      0,
+      0,
+      6,
+      1,
+      0,
+      0,
+      4
+     ],
+     [
+      0,
+      0,
+      0,
+      0,
+      8,
+      0,
+      0,
+      3
+     ],
+     [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      2
+     ],
+     [
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      3,
+      0
+     ],
+     [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      38
+     ]
+    ]
+   },
+   "aggressive_vs_safe_accuracy": 0.7127906976744186,
+   "seconds": 0.4
+  },
+  "Random Forest": {
+   "window": {
+    "accuracy": 0.5604651162790698,
+    "macro_f1": 0.5015762836492345,
+    "balanced_accuracy": 0.49597139288920106,
+    "macro_precision": 0.5846754060116129,
+    "macro_recall": 0.49597139288920106,
+    "confusion": [
+     [
+      7,
+      8,
+      0,
+      0,
+      0,
+      0,
+      0,
+      139
+     ],
+     [
+      22,
+      22,
+      0,
+      1,
+      0,
+      0,
+      0,
+      87
+     ],
+     [
+      1,
+      4,
+      35,
+      0,
+      0,
+      0,
+      0,
+      33
+     ],
+     [
+      4,
+      0,
+      0,
+      107,
+      0,
+      5,
+      0,
+      1
+     ],
+     [
+      0,
+      0,
+      0,
+      0,
+      107,
+      3,
+      0,
+      7
+     ],
+     [
+      0,
+      0,
+      0,
+      6,
+      8,
+      0,
+      6,
+      0
+     ],
+     [
+      1,
+      0,
+      1,
+      1,
+      0,
+      8,
+      16,
+      0
+     ],
+     [
+      25,
+      2,
+      0,
+      1,
+      2,
+      2,
+      0,
+      188
+     ]
+    ]
+   },
+   "event": {
+    "accuracy": 0.6605504587155964,
+    "macro_f1": 0.5146733545532697,
+    "balanced_accuracy": 0.521969696969697,
+    "macro_precision": 0.634963768115942,
+    "macro_recall": 0.521969696969697,
+    "confusion": [
+     [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      14
+     ],
+     [
+      2,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      9
+     ],
+     [
+      0,
+      0,
+      7,
+      0,
+      0,
+      0,
+      0,
+      5
+     ],
+     [
+      0,
+      0,
+      0,
+      11,
+      0,
+      0,
+      0,
+      0
+     ],
+     [
+      0,
+      0,
+      0,
+      0,
+      10,
+      0,
+      0,
+      1
+     ],
+     [
+      0,
+      0,
+      0,
+      1,
+      2,
+      0,
+      1,
+      0
+     ],
+     [
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      3,
+      0
+     ],
+     [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      40
+     ]
+    ]
+   },
+   "aggressive_vs_safe_accuracy": 0.8011627906976744,
+   "seconds": 2.2
+  }
+ },
+ "labels": [
+  "Non-aggressive",
+  "Aggressive acceleration",
+  "Aggressive braking",
+  "Aggressive left turn",
+  "Aggressive right turn",
+  "Aggressive left lane change",
+  "Aggressive right lane change",
+  "Normal cruising"
+ ],
+ "deployed": "Random Forest",
+ "top_features": [
+  {
+   "feature": "gyr_z_max",
+   "importance": 0.045491684571496105
+  },
+  {
+   "feature": "gyr_z_mean",
+   "importance": 0.040563644438451736
+  },
+  {
+   "feature": "gyr_z_min",
+   "importance": 0.03807809058873602
+  },
+  {
+   "feature": "acc_z_rms",
+   "importance": 0.0323929872128766
+  },
+  {
+   "feature": "peak_yaw_rate",
+   "importance": 0.03002713712081727
+  },
+  {
+   "feature": "gyr_z_range",
+   "importance": 0.027823237424253165
+  },
+  {
+   "feature": "acc_z_mean",
+   "importance": 0.025692556265520507
+  },
+  {
+   "feature": "gyr_z_rms",
+   "importance": 0.023251168113032104
+  },
+  {
+   "feature": "lin_z_mean",
+   "importance": 0.022698590788535835
+  },
+  {
+   "feature": "peak_lin_acc",
+   "importance": 0.022328166060754554
+  },
+  {
+   "feature": "gyr_z_std",
+   "importance": 0.020905346702624186
+  },
+  {
+   "feature": "lin_x_std",
+   "importance": 0.020599919510276066
+  },
+  {
+   "feature": "gyr_x_rms",
+   "importance": 0.01960292892706445
+  },
+  {
+   "feature": "acc_z_max",
+   "importance": 0.019172997686521594
+  },
+  {
+   "feature": "lin_z_fft_0.5-1.5Hz",
+   "importance": 0.018385245264778995
+  }
+ ]
+}
