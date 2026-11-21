@@ -39,9 +39,9 @@ class Handler(SimpleHTTPRequestHandler):
         try:
             if u.path == "/api/summary":
                 return self._json({"team": team(), "behavior": load_json("behavior.json"), "alcohol": load_json("alcohol.json"),
-                                   "crash": load_json("crash_us.json"), "crash_stats19": load_json("crash_stats19.json")})
+                                   "crash": load_json("crash_sim.json")})
             if u.path == "/api/replay":
-                return self._json(load_json(f"replay_trip_{int(q.get('trip', ['16'])[0])}.json"))
+                return self._json(load_json(f"replay_trip_{int(q.get('trip', ['1'])[0])}.json"))
             if u.path == "/api/hotspots":
                 return self._json(load_json("hotspots.json"))
         except Exception as e:
@@ -73,10 +73,10 @@ class Handler(SimpleHTTPRequestHandler):
 
 def models_ok():
     try:
-        crash._bundle("us"); alcohol.predict({}); import pickle
+        crash._bundle("sim"); alcohol.predict({}); import pickle
         with open(os.path.join(ROOT, "models", "behavior.pkl"), "rb") as f:
             pickle.load(f)
-        return load_json("crash_us.json") is not None and load_json("behavior.json") is not None
+        return load_json("crash_sim.json") is not None and load_json("behavior.json") is not None
     except Exception as e:
         print("  Saved models could not be loaded (" + type(e).__name__ + ") - retraining for this computer...")
         return False

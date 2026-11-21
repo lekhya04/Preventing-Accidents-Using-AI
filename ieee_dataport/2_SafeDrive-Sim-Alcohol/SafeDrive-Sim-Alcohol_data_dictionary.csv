@@ -1,0 +1,9 @@
+column,type,unit,description
+sample_id,text,-,Unique row id (SSA-00001 ...)
+participant_id,text,-,Simulated participant (P001-P060); use for grouped cross-validation
+alcohol_ml_l,float,ml/L (proxy),Simulated MQ-3 gas-sensor reading of cabin alcohol vapour
+cabin_temp_c,float,°C,Simulated cabin air temperature
+face_temp_min_c,float,°C,Simulated coolest pixel on driver's face (thermal array)
+face_temp_max_c,float,°C,Simulated warmest pixel on driver's face (thermal array)
+pupil_ratio,float,ratio,Simulated pupil-to-iris diameter ratio (camera)
+label,int,0/1,"0 = no alcohol, 1 = alcohol present / impaired"

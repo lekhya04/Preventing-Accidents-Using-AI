@@ -3,41 +3,40 @@
   "short": "SafeDrive AI",
   "institution": "Amrita Vishwa Vidyapeetham",
   "course": "Research Methodology – Team Project",
-  "standard_paper": {
-    "title": "AI-Driven Accident Risk Prediction and Safer Route Recommendation Using Multi-Model Data",
-    "authors": "N. Hari Krishna, N. Sathish, G. Anurekha",
-    "venue": "2026 Contemporary Computing Innovations Conference (CCIC), IEEE",
-    "doi": "10.1109/CCIC68129.2026.11486065"
-  },
   "members": [
     {
       "name": "Lekhya",
       "role": "Driver Behaviour Detection  +  Crash Risk & Accident Severity Prediction",
-      "modules": ["behaviour", "crash"],
+      "modules": [
+        "behaviour",
+        "crash"
+      ],
       "work": [
-        "Literature review: driver behaviour detection (5 papers) and crash severity (4 papers)",
-        "Behaviour module: IMU windowing, time + FFT features, RBF-SVM / Random Forest, leave-one-trip-out evaluation",
-        "Crash module: standard-paper model comparison, Enhanced CCP tree, Multi-Task FT-Transformer (NumPy)",
-        "IEEE DataPort STATS19 loader; real US-Accidents pipeline"
+        "Driver behaviour module: IMU windowing, time + FFT features, RBF-SVM / Random Forest classifier",
+        "Crash module: crash risk and accident severity prediction with a boosted model, a pruned decision tree and a multi-task transformer",
+        "Trip replay of model output against ground truth"
       ]
     },
     {
       "name": "Srinivas",
       "role": "Alcohol Impairment Detection",
-      "modules": ["alcohol"],
+      "modules": [
+        "alcohol"
+      ],
       "work": [
-        "IEEE DataPort dataset: Alcohol Detection in Drivers by Sensors and Computer Vision",
-        "MQ-3 alcohol + thermal face temperature + pupil-ratio features",
-        "Classifier comparison (k-NN, SVM, LR, RF, boosting) with 5-fold CV"
+        "Alcohol module: MQ-3 alcohol, thermal face temperature and pupil-ratio features",
+        "Impairment classifier"
       ]
     },
     {
       "name": "Likhitha",
       "role": "AI Integration – Risk Fusion, Alerts & Safer Routes",
-      "modules": ["fusion"],
+      "modules": [
+        "fusion"
+      ],
       "work": [
         "Multi-source risk fusion engine (behaviour + alcohol + context) → Low / Medium / High",
-        "Threshold alerts and emergency-contact notification (simulated)",
+        "Threshold alerts and emergency-contact notification",
         "Accident hotspot map and safety-weighted route recommendation",
         "Live monitoring dashboard integrating all modules"
       ]

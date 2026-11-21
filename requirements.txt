@@ -6,3 +6,5 @@ openpyxl>=3.0      # only needed to read the IEEE DataPort STATS19 .xlsx file
 # optional, to reproduce the standard paper's XGBoost / LightGBM rows:
 # xgboost
 # lightgbm
+# only needed to rebuild the IEEE DataPort packages (dataset_generators/build_dataport_packages.py):
+# matplotlib, plus the pandoc and wkhtmltopdf command-line tools

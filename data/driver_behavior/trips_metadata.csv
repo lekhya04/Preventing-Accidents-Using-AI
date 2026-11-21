@@ -1,0 +1,13 @@
+trip_id,driver_id,vehicle_type,road_type,surface,duration_s,n_labelled_events
+1,D1,hatchback,city,dry,598.8,16
+2,D2,hatchback,city,dry,542.0,16
+3,D3,hatchback,highway,dry,616.6,16
+4,D1,sedan,city,wet,653.4,16
+5,D2,sedan,highway,dry,547.4,15
+6,D3,sedan,city,dry,578.9,15
+7,D1,hatchback,city,dry,644.0,15
+8,D2,hatchback,city,wet,583.3,15
+9,D3,hatchback,highway,dry,641.6,15
+10,D1,sedan,highway,dry,549.8,15
+11,D2,sedan,city,dry,543.7,15
+12,D3,sedan,city,wet,594.1,15

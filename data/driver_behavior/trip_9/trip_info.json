@@ -1,0 +1,22 @@
+{
+  "synthetic": true,
+  "dataset": "SafeDrive-Sim-IMU",
+  "generator_version": "1.0",
+  "seed": 2026,
+  "trip_id": 9,
+  "driver_id": "D3",
+  "vehicle_type": "hatchback",
+  "road_type": "highway",
+  "surface": "dry",
+  "road_roughness_factor": 0.97,
+  "duration_s": 641.6,
+  "nominal_sampling_hz": 50.0,
+  "frame": "vehicle-aligned: x=right, y=forward, z=up; gyro z>0 = left turn",
+  "phone_mount_misalignment_deg": [
+    -0.46,
+    1.04,
+    1.03
+  ],
+  "simulated_start": "2026-01-13 09:00:00",
+  "n_labelled_events": 15
+}

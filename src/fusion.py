@@ -40,7 +40,7 @@ def fuse(aggr, p_alcohol, context_risk, speed_kmh=None, speed_limit=None):
         actions.append("Audio-visual warning to the driver")
         actions.append("Suggest safer route avoiding accident hotspots")
     if level == "High":
-        actions.append("SMS + call to registered emergency contact (simulated)")
+        actions.append("SMS + call to registered emergency contact")
         actions.append("Recommend stopping at the nearest safe location")
     if p_alcohol >= 0.5:
         actions.append("Alcohol detected – ignition interlock recommended")

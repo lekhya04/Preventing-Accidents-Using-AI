@@ -1,0 +1,17 @@
+event,start,end
+aggressive_braking,29.52,31.32
+aggressive_left_lane_change,70.84,72.78
+speed_bump,105.31,108.53
+aggressive_left_turn,137.58,141.13
+non_aggressive,161.8,165.29
+aggressive_acceleration,215.94,218.85
+pothole,241.36,243.98
+aggressive_left_lane_change,281.4,282.97
+non_aggressive,313.03,318.7
+aggressive_left_turn,349.01,353.32
+aggressive_right_turn,384.68,388.07
+speed_bump,421.12,424.81
+pothole,447.06,448.94
+pothole,502.79,505.24
+aggressive_right_turn,524.04,527.04
+aggressive_right_lane_change,558.36,560.51

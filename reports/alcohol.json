@@ -1,149 +1,151 @@
 {
  "source": {
+  "synthetic": true,
   "real": false,
-  "file": "alcohol_SIMULATED_schema_demo.csv"
+  "file": "safedrive_sim_alcohol.csv",
+  "dataset": "SafeDrive-Sim-Alcohol (synthetic)"
  },
- "n": 390,
+ "n": 2000,
  "class_counts": {
-  "No alcohol": 217,
-  "Alcohol present": 173
+  "No alcohol": 1000,
+  "Alcohol present": 1000
  },
- "cv": "5-fold stratified cross-validation",
+ "cv": "5-fold stratified cross-validation grouped by participant",
  "models": {
   "k-NN (k=5)": {
-   "accuracy": 0.9179487179487179,
-   "macro_f1": 0.9164636268708667,
-   "balanced_accuracy": 0.9145467622066541,
-   "macro_precision": 0.9191919191919191,
-   "macro_recall": 0.9145467622066541,
-   "roc_auc": 0.963533203697291,
+   "accuracy": 0.8065,
+   "macro_f1": 0.806212758861823,
+   "balanced_accuracy": 0.8065,
+   "macro_precision": 0.8083280771695383,
+   "macro_recall": 0.8065,
+   "roc_auc": 0.8739215,
    "confusion": [
     [
-     205,
-     12
+     845,
+     155
     ],
     [
-     20,
-     153
+     232,
+     768
     ]
    ],
-   "seconds": 0.02
+   "seconds": 0.06
   },
   "SVM (RBF)": {
-   "accuracy": 0.9333333333333333,
-   "macro_f1": 0.9324738286140486,
-   "balanced_accuracy": 0.9324738286140486,
-   "macro_precision": 0.9324738286140486,
-   "macro_recall": 0.9324738286140486,
-   "roc_auc": 0.9830318851389147,
+   "accuracy": 0.833,
+   "macro_f1": 0.8329263205073437,
+   "balanced_accuracy": 0.833,
+   "macro_precision": 0.8335884500258456,
+   "macro_recall": 0.833,
+   "roc_auc": 0.903327,
    "confusion": [
     [
-     204,
-     13
+     854,
+     146
     ],
     [
-     13,
-     160
+     188,
+     812
     ]
    ],
-   "seconds": 0.04
+   "seconds": 1.14
   },
   "Logistic Regression": {
-   "accuracy": 0.9358974358974359,
-   "macro_f1": 0.9345966795237297,
-   "balanced_accuracy": 0.9318478463546522,
-   "macro_precision": 0.9389213775178687,
-   "macro_recall": 0.9318478463546522,
-   "roc_auc": 0.9858821022348898,
+   "accuracy": 0.836,
+   "macro_f1": 0.8357871801855205,
+   "balanced_accuracy": 0.8360000000000001,
+   "macro_precision": 0.8377509006690684,
+   "macro_recall": 0.8360000000000001,
+   "roc_auc": 0.918194,
    "confusion": [
     [
-     210,
-     7
+     872,
+     128
     ],
     [
-     18,
-     155
+     200,
+     800
     ]
    ],
-   "seconds": 0.04
+   "seconds": 0.06
   },
   "Random Forest": {
-   "accuracy": 0.9358974358974359,
-   "macro_f1": 0.9348693044041709,
-   "balanced_accuracy": 0.9336059241895527,
-   "macro_precision": 0.9364543114543115,
-   "macro_recall": 0.9336059241895527,
-   "roc_auc": 0.9813404011613968,
+   "accuracy": 0.833,
+   "macro_f1": 0.8329331732693077,
+   "balanced_accuracy": 0.833,
+   "macro_precision": 0.8335336538461539,
+   "macro_recall": 0.833,
+   "roc_auc": 0.9065805000000001,
    "confusion": [
     [
-     207,
-     10
+     853,
+     147
     ],
     [
-     15,
-     158
+     187,
+     813
     ]
    ],
-   "seconds": 1.9
+   "seconds": 4.84
   },
   "Hist Gradient Boosting": {
-   "accuracy": 0.9333333333333333,
-   "macro_f1": 0.9322192513368984,
-   "balanced_accuracy": 0.9307157507791481,
-   "macro_precision": 0.9341854407776375,
-   "macro_recall": 0.9307157507791481,
-   "roc_auc": 0.9789563410670999,
+   "accuracy": 0.819,
+   "macro_f1": 0.8189592658348128,
+   "balanced_accuracy": 0.819,
+   "macro_precision": 0.8192873586227605,
+   "macro_recall": 0.819,
+   "roc_auc": 0.89683,
    "confusion": [
     [
-     207,
-     10
+     834,
+     166
     ],
     [
-     16,
-     157
+     196,
+     804
     ]
    ],
-   "seconds": 1.57
+   "seconds": 3.71
   }
  },
- "deployed": "Random Forest",
+ "deployed": "Logistic Regression",
  "feature_importance": {
-  "Cabin alcohol (MQ-3, ml/L)": 0.6440862286766106,
-  "Face temp. max (\u00b0C)": 0.13909505847975578,
-  "Face temp. min (\u00b0C)": 0.09148201205260184,
-  "Pupil ratio": 0.0856660170896081,
-  "Cabin temperature (\u00b0C)": 0.03967068370142375
+  "Cabin alcohol (MQ-3, ml/L)": 0.5047936930409886,
+  "Face temp. max (\u00b0C)": 0.14370110620322812,
+  "Pupil ratio": 0.1427903644223914,
+  "Face temp. min (\u00b0C)": 0.10592497861517722,
+  "Cabin temperature (\u00b0C)": 0.10278985771821472
  },
  "feature_stats": {
   "alcohol_ml_l": {
-   "sober_mean": 0.04395096319346813,
-   "alcohol_mean": 0.2956297593277481,
-   "min": 0.0033558532883812514,
-   "max": 0.6083265163892377
+   "sober_mean": 0.062432699999999994,
+   "alcohol_mean": 0.2606332,
+   "min": 0.0,
+   "max": 0.582
   },
   "cabin_temp_c": {
-   "sober_mean": 24.658056893861037,
-   "alcohol_mean": 24.774093325596215,
-   "min": 18.796947280843703,
-   "max": 30.01505750684413
+   "sober_mean": 26.75793,
+   "alcohol_mean": 26.471339999999998,
+   "min": 18.85,
+   "max": 35.67
   },
   "face_temp_min_c": {
-   "sober_mean": 30.335215523183276,
-   "alcohol_mean": 31.145724790035075,
-   "min": 28.25073754368213,
-   "max": 33.66242910405697
+   "sober_mean": 30.34275,
+   "alcohol_mean": 30.89753,
+   "min": 27.16,
+   "max": 34.59
   },
   "face_temp_max_c": {
-   "sober_mean": 34.343756096339575,
-   "alcohol_mean": 35.51579634238538,
-   "min": 32.03718820272161,
-   "max": 38.158669110435355
+   "sober_mean": 34.33487,
+   "alcohol_mean": 35.181779999999996,
+   "min": 30.92,
+   "max": 39.35
   },
   "pupil_ratio": {
-   "sober_mean": 0.32163546715986746,
-   "alcohol_mean": 0.35331524414546517,
-   "min": 0.19025131854069435,
-   "max": 0.4706106259069809
+   "sober_mean": 0.31972059999999997,
+   "alcohol_mean": 0.35285910000000004,
+   "min": 0.1744,
+   "max": 0.4921
   }
  },
  "nice": {
@@ -155,99 +157,123 @@
  },
  "samples": [
   {
-   "alcohol_ml_l": 0.055,
-   "cabin_temp_c": 27.8,
-   "face_temp_min_c": 29.797,
-   "face_temp_max_c": 33.653,
-   "pupil_ratio": 0.333,
-   "label": 0
-  },
-  {
-   "alcohol_ml_l": 0.093,
-   "cabin_temp_c": 28.507,
-   "face_temp_min_c": 28.901,
-   "face_temp_max_c": 33.087,
-   "pupil_ratio": 0.373,
-   "label": 0
-  },
-  {
-   "alcohol_ml_l": 0.055,
-   "cabin_temp_c": 25.688,
-   "face_temp_min_c": 30.027,
-   "face_temp_max_c": 33.825,
-   "pupil_ratio": 0.288,
-   "label": 0
-  },
-  {
-   "alcohol_ml_l": 0.064,
-   "cabin_temp_c": 27.724,
-   "face_temp_min_c": 31.635,
-   "face_temp_max_c": 36.82,
-   "pupil_ratio": 0.422,
-   "label": 1
-  },
-  {
-   "alcohol_ml_l": 0.021,
-   "cabin_temp_c": 22.794,
-   "face_temp_min_c": 30.317,
-   "face_temp_max_c": 34.602,
+   "sample_id": "SSA-00934",
+   "participant_id": "P017",
+   "alcohol_ml_l": 0.068,
+   "cabin_temp_c": 23.3,
+   "face_temp_min_c": 29.69,
+   "face_temp_max_c": 33.5,
    "pupil_ratio": 0.29,
    "label": 0
   },
   {
-   "alcohol_ml_l": 0.018,
-   "cabin_temp_c": 24.967,
-   "face_temp_min_c": 29.979,
-   "face_temp_max_c": 33.583,
-   "pupil_ratio": 0.298,
+   "sample_id": "SSA-01460",
+   "participant_id": "P026",
+   "alcohol_ml_l": 0.0,
+   "cabin_temp_c": 26.16,
+   "face_temp_min_c": 30.1,
+   "face_temp_max_c": 33.88,
+   "pupil_ratio": 0.353,
    "label": 0
   },
   {
-   "alcohol_ml_l": 0.028,
-   "cabin_temp_c": 27.955,
-   "face_temp_min_c": 30.566,
-   "face_temp_max_c": 33.45,
-   "pupil_ratio": 0.343,
+   "sample_id": "SSA-01339",
+   "participant_id": "P010",
+   "alcohol_ml_l": 0.017,
+   "cabin_temp_c": 21.19,
+   "face_temp_min_c": 29.14,
+   "face_temp_max_c": 33.5,
+   "pupil_ratio": 0.254,
    "label": 0
   },
   {
-   "alcohol_ml_l": 0.005,
-   "cabin_temp_c": 25.455,
-   "face_temp_min_c": 30.172,
-   "face_temp_max_c": 34.404,
-   "pupil_ratio": 0.399,
+   "sample_id": "SSA-01803",
+   "participant_id": "P013",
+   "alcohol_ml_l": 0.1,
+   "cabin_temp_c": 31.71,
+   "face_temp_min_c": 32.05,
+   "face_temp_max_c": 37.06,
+   "pupil_ratio": 0.374,
+   "label": 1
+  },
+  {
+   "sample_id": "SSA-00264",
+   "participant_id": "P042",
+   "alcohol_ml_l": 0.027,
+   "cabin_temp_c": 26.96,
+   "face_temp_min_c": 31.65,
+   "face_temp_max_c": 36.43,
+   "pupil_ratio": 0.408,
+   "label": 1
+  },
+  {
+   "sample_id": "SSA-00082",
+   "participant_id": "P033",
+   "alcohol_ml_l": 0.198,
+   "cabin_temp_c": 21.66,
+   "face_temp_min_c": 30.57,
+   "face_temp_max_c": 34.72,
+   "pupil_ratio": 0.312,
+   "label": 1
+  },
+  {
+   "sample_id": "SSA-00340",
+   "participant_id": "P039",
+   "alcohol_ml_l": 0.0,
+   "cabin_temp_c": 24.24,
+   "face_temp_min_c": 30.01,
+   "face_temp_max_c": 34.23,
+   "pupil_ratio": 0.334,
    "label": 0
   },
   {
+   "sample_id": "SSA-00806",
+   "participant_id": "P047",
+   "alcohol_ml_l": 0.325,
+   "cabin_temp_c": 28.42,
+   "face_temp_min_c": 31.52,
+   "face_temp_max_c": 35.56,
+   "pupil_ratio": 0.264,
+   "label": 1
+  },
+  {
+   "sample_id": "SSA-00070",
+   "participant_id": "P054",
    "alcohol_ml_l": 0.013,
-   "cabin_temp_c": 26.327,
-   "face_temp_min_c": 31.886,
-   "face_temp_max_c": 36.258,
-   "pupil_ratio": 0.355,
+   "cabin_temp_c": 24.23,
+   "face_temp_min_c": 29.2,
+   "face_temp_max_c": 33.57,
+   "pupil_ratio": 0.324,
    "label": 0
   },
   {
-   "alcohol_ml_l": 0.24,
-   "cabin_temp_c": 23.998,
-   "face_temp_min_c": 31.605,
-   "face_temp_max_c": 36.714,
-   "pupil_ratio": 0.358,
+   "sample_id": "SSA-00686",
+   "participant_id": "P007",
+   "alcohol_ml_l": 0.06,
+   "cabin_temp_c": 22.63,
+   "face_temp_min_c": 30.64,
+   "face_temp_max_c": 35.18,
+   "pupil_ratio": 0.334,
    "label": 1
   },
   {
-   "alcohol_ml_l": 0.514,
-   "cabin_temp_c": 26.973,
-   "face_temp_min_c": 31.036,
-   "face_temp_max_c": 35.732,
-   "pupil_ratio": 0.329,
+   "sample_id": "SSA-01133",
+   "participant_id": "P042",
+   "alcohol_ml_l": 0.382,
+   "cabin_temp_c": 26.03,
+   "face_temp_min_c": 30.92,
+   "face_temp_max_c": 35.47,
+   "pupil_ratio": 0.377,
    "label": 1
   },
   {
-   "alcohol_ml_l": 0.072,
-   "cabin_temp_c": 23.644,
-   "face_temp_min_c": 29.9,
-   "face_temp_max_c": 34.413,
-   "pupil_ratio": 0.295,
+   "sample_id": "SSA-00444",
+   "participant_id": "P032",
+   "alcohol_ml_l": 0.037,
+   "cabin_temp_c": 30.69,
+   "face_temp_min_c": 30.52,
+   "face_temp_max_c": 35.04,
+   "pupil_ratio": 0.258,
    "label": 0
   }
  ]

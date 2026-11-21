@@ -1,0 +1,16 @@
+event,start,end
+aggressive_right_lane_change,38.17,40.32
+non_aggressive,69.26,74.94
+aggressive_braking,105.42,108.08
+aggressive_right_lane_change,126.8,130.0
+aggressive_left_lane_change,168.55,170.99
+non_aggressive,205.25,210.87
+non_aggressive,235.79,239.97
+aggressive_left_lane_change,257.96,259.96
+aggressive_right_turn,312.2,315.66
+non_aggressive,344.69,349.32
+aggressive_right_turn,362.01,365.63
+non_aggressive,401.08,406.62
+aggressive_left_turn,432.04,436.37
+aggressive_left_turn,480.89,484.77
+aggressive_braking,505.56,508.01
